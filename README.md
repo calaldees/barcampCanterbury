@@ -1,2 +1,5 @@
-# barcampCanterbury
-Resorces and Documentation for running Barcamp Canterbury
+barcampCanterbury
+=================
+
+Resources and Documentation for running BarCamp Canterbury
+
