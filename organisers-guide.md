@@ -15,6 +15,9 @@ Venue
 [University of Kent: School of Computing](https://www.cs.kent.ac.uk/) has generously donated space in previous years.
 Use of the University of Kent logo is restricted to formal university activities only.
 
+An evening venue for continued socialising should be organised. Transport and accessibility for attendees should be considered.
+[gulbenkian cafe](https://thegulbenkian.co.uk/your-visit/eat-drink/) event catering have cordoned off an area in previous years.
+
 Branding
 --------
 
@@ -117,11 +120,12 @@ Timetable
 | 22:00 | End |
 
 
-Other Local Groups
-------------------
+Other Groups
+------------
 
 * Digibury
-* 
+* [oggcamp](https://oggcamp.org/)
+    * oggcamp 17 was held at [Canterbury Christ Church](https://www.canterbury.ac.uk/social-and-applied-sciences/events/oggcamp-17.aspx)
 
 References
 ----------
