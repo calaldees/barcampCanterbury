@@ -18,20 +18,22 @@ Business terminology is encouraged to be avoided.
 Venue
 -----
 
-[University of Kent: School of Computing](https://www.cs.kent.ac.uk/) has generously donated space in previous years.
-
-An evening venue for continued socialising should be organised. Transport and accessibility for attendees should be considered.
-[gulbenkian cafe](https://thegulbenkian.co.uk/your-visit/eat-drink/) event catering have cordoned off an area in previous years.
+* Event
+    * Event rooms
+        * [University of Kent: School of Computing](https://www.cs.kent.ac.uk/) has generously donated space in previous years.
+    * Workshop Space (optional)
+        * General conference rooms are not suitable for practical workshop activities
+            * It may be possible to utilise the _Shed_ for workshop sessions.
+    * Evening social/food Venue
+        * for continued socialising should be organised.
+        * Transport and accessibility for attendees between venues should be considered.
+        * [Gulbenkian cafe](https://thegulbenkian.co.uk/your-visit/eat-drink/) event catering have cordoned off areas in previous years.
 
 Accessibility should be considered
 * Wheelchair access
 * Parking
 * Distance between rooms/events
 
-General conference rooms are not suitable for proactical workshop activities
-Workshop Concept
-* It may be possible to utilise the _Shed_ for workshop sessions.
-* We may be able to bulk order some cheap components and provide a soldering workshop.
 
 Branding
 --------
@@ -156,7 +158,14 @@ Timetable
 | 18:00 | Dinner and Socialise |
 | 22:00 | End |
 
-Consider concept for workshop space - See [venue](#Venue)
+
+Activities
+----------
+
+* PowerPoint Karaoke
+* Workshop Space
+    * We may be able to bulk order some cheap components and provide a soldering workshop.
+
 
 Equipment
 ---------
@@ -167,12 +176,16 @@ Foyer - Projector - displaying timetable
 Volunteers
 ----------
 
-* Customer Service
-* Bring food up
+* Roles
+    * Customer Service (identifiable?)
+* Move Equipment
+    * Bring food up
 * Manage welcome desk
     * Sign people in
 * Tidyup
     * Rubbish
+    * Rearange space
+    * Take signs down
 * Talk Camera setup and monitoring (see section below)
 
 
@@ -185,15 +198,8 @@ Other Local Groups/Events
 * [Kent Union Societies](https://kentunion.co.uk/activities/societies)
     * [Kent CS](https://kentunion.co.uk/activities/computing)
     * [TinkerSoc](https://kentunion.co.uk/activities/tinkersoc)
+* [ThinkNation](https://thinknation.co/)
 
-
-IRC/Discord
------------
-
-* Pros
-    * Could facilitate further community engagement outside of the event
-* Cons
-    * Would require ongoing moderation
 
 Recording Talks
 ---------------
@@ -222,6 +228,13 @@ What events/gatherings/activities/communication can we use to facilitate a commu
     * Meals?
     * Trips?
 * Forms of communication?
+
+### IRC/Discord
+
+* Pros
+    * Could facilitate further community engagement outside of the event
+* Cons
+    * Would require ongoing moderation
 
 
 References
