@@ -9,19 +9,36 @@ BarCamp is an established format for an free and open 'un-conference'.
 * [BarCamp on Wikipedia](https://en.wikipedia.org/wiki/BarCamp)
 * [barcamp.org](http://barcamp.org)
 
+Terminology
+-----------
+
+The ethos of Barcamp is free, open, community. Some terms and phrases that do not align with these principles can cause friction.
+Business terminology is encouraged to be avoided.
+
 Venue
 -----
 
 [University of Kent: School of Computing](https://www.cs.kent.ac.uk/) has generously donated space in previous years.
-Use of the University of Kent logo is restricted to formal university activities only.
 
 An evening venue for continued socialising should be organised. Transport and accessibility for attendees should be considered.
 [gulbenkian cafe](https://thegulbenkian.co.uk/your-visit/eat-drink/) event catering have cordoned off an area in previous years.
+
+Accessibility should be considered
+* Wheelchair access
+* Parking
+* Distance between rooms/events
+
+General conference rooms are not suitable for proactical workshop activities
+Workshop Concept
+* It may be possible to utilise the _Shed_ for workshop sessions.
+* We may be able to bulk order some cheap components and provide a soldering workshop.
 
 Branding
 --------
 
 https://github.com/vext01/barcamp-canterbury-branding
+
+Use of the University of Kent logo is restricted to formal university activities only.
 
 Catering
 --------
@@ -29,13 +46,17 @@ Catering
 Refreshments to facilitate attendee's focused and interacting during the day. Sponsorship provides finances for refreshments.
 
 * Coffee
+    * Investigate the hire of a coffee machine/cart/supplier? Maybe a sponsor?
 * Lunch
+    * For events taking place the University of Kent campus, authorised vendors should provide catering
+        * [Kent Hospitality](https://www.kent.ac.uk/hospitality/)
 * Dinner
+    * [Domino's](https://www.dominos.co.uk/) is a registered supplier for University of Kent and provide bulk discount
 
 Finances
 --------
 
-https://www.paypal.com/uk/webapps/mpp/not-for-profit
+Investigate https://www.paypal.com/uk/webapps/mpp/not-for-profit
 Transparent (public)
 
 
@@ -52,7 +73,15 @@ Advertising
 
 * [Facebook](https://en-gb.facebook.com/barcampcanterbury/)
 * [Twitter](https://twitter.com/barcampcant) #bccant
+    * TODO: A script to possibly extract any twitterhandle that has messaged @barcampcant or posted on #bccant (within a timebox) and publicly message them to announce the date for the new barcamp.
+        * This keeps communication transparent and prevents us from holding personal data
 * _flickr_ (todo: setup group)
+* _Instagram_
+
+### Previous Tickets
+
+* Could we ask permission to use people email to alert them about the next event?
+    * Not keen on the GDPR implications
 
 ### Campus
 
@@ -70,10 +99,11 @@ Signs
 
 ### Foyer
 
-* Photography
+* Photography Warning (there will be photos taken)
 
 ### Event Rooms
 
+* Room names outside rooms
 * Vinyl stands (reusable)
 
 Sponsors
@@ -85,9 +115,15 @@ Tiers
 * £xx
     * ?
 
+Posters? Logo? Website? Talks? Prizes?
+
+Talks from organisations/sponsors are discouraged.
+They should be relevant to the community.
 
 Tickets
 -------
+
+Previous events have targeted 100 attendees. 30% of released tickets typically don't attend.
 
 * [Eventbrite](https://www.eventbrite.com/) ([free ticket event](https://www.eventbrite.com/create))
     * Accept donations from attendees
@@ -95,6 +131,7 @@ Tickets
 * https://github.com/vext01/barcamp-tickets
 * Shed - Laser cut wood badges with drinks tokens
 
+* Investigate mechanisms to return/cancel a ticket in the case of non attendance.
 
 Timetable
 ---------
@@ -119,13 +156,73 @@ Timetable
 | 18:00 | Dinner and Socialise |
 | 22:00 | End |
 
+Consider concept for workshop space - See [venue](#Venue)
 
-Other Groups
+Equipment
+---------
+
+Foyer - Projector - displaying timetable
+
+
+Volunteers
+----------
+
+* Customer Service
+* Bring food up
+* Manage welcome desk
+    * Sign people in
+* Tidyup
+    * Rubbish
+* Talk Camera setup and monitoring (see section below)
+
+
+Other Local Groups/Events
 ------------
 
-* Digibury
+* [Digibury](https://www.meetup.com/Digibury/)
 * [oggcamp](https://oggcamp.org/)
     * oggcamp 17 was held at [Canterbury Christ Church](https://www.canterbury.ac.uk/social-and-applied-sciences/events/oggcamp-17.aspx)
+* [Kent Union Societies](https://kentunion.co.uk/activities/societies)
+    * [Kent CS](https://kentunion.co.uk/activities/computing)
+    * [TinkerSoc](https://kentunion.co.uk/activities/tinkersoc)
+
+
+IRC/Discord
+-----------
+
+* Pros
+    * Could facilitate further community engagement outside of the event
+* Cons
+    * Would require ongoing moderation
+
+Recording Talks
+---------------
+
+Provide a google shared drive to accept uploads from attendees
+
+* It would be interesting to record talks
+    * Minimal equipment
+    * Minimal effort and time
+
+* Concept
+    * Source and GoPro and a Xoom Box from the community to each room
+    * Use 128gb MicroSD card (£20)
+    * Leave devices with mains power recording for the entire 6 hours
+    * Minimal post processing: audio compression, sycning, title/end graphic (via script), upload
+    * If they don't record - not the end of the world - no panic - no stress - no worry
+
+Community Beyond the event
+--------------------------
+
+What events/gatherings/activities/communication can we use to facilitate a community outside of Barcamp?
+
+* Sunday Activity?
+* Further informal gatherings over the year?
+    * Board games?
+    * Meals?
+    * Trips?
+* Forms of communication?
+
 
 References
 ----------
