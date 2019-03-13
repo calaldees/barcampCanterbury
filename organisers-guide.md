@@ -211,7 +211,7 @@ Provide a google shared drive to accept uploads from attendees
     * Minimal effort and time
 
 * Concept
-    * Source and GoPro and a Xoom Box from the community to each room
+    * Source and GoPro and a XoomBox from the community to each room
     * Use 128gb MicroSD card (£20)
     * Leave devices with mains power recording for the entire 6 hours
     * Minimal post processing: audio compression, sycning, title/end graphic (via script), upload
