@@ -2,26 +2,44 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="">
-	<meta name="author" content="">
+	<meta name="author" content="Allan Callaghan">
+
 	<link rel="shortcut icon" href="favicon.ico">
 
 	<title>Barcamp Canterbury</title>
+
+	<link rel="stylesheet" href="bootstrap/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="index.css" />
 </head>
 
 <body>
 
+	<nav class="site-header sticky-top py-1">
+		<div class="container d-flex flex-column flex-md-row justify-content-between">
+			<a class="py-2" href="#">
+				BarCamp Canterbury
+			</a>
+		</div>
+	</nav>
 
-<h1>Barcamp Canterbury</h1>
+	<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+		<div class="col-md-5 p-lg-5 mx-auto my-5">
+			<h1 class="display-4 font-weight-normal">BarCamp Canterbury</h1>
+			<p class="lead font-weight-normal">
+				Barcamp is an Unconference
+				BarCamp Canterbury is a free unconference in the heart of the historic city of Canterbury.
 
-	Barcamp is an Unconference
-	BarCamp Canterbury is a free unconference in the heart of the historic city of Canterbury.
+				You provide the content
+				As an unconference, the content of BarCamp Canterbury is provided by you, the attendees!
+			</p>
+			<!-- <a class="btn btn-outline-secondary" href="#">Coming soon</a> -->
+		</div>
+	</div>
 
-	You provide the content
-	As an unconference, the content of BarCamp Canterbury is provided by you, the attendees!
+
+
 
 	<ul>
 		<li>
@@ -82,7 +100,9 @@ Would you like to sponsor BarCamp Canterbury 2015? If so, please contact us at c
 
 <h2>Visiting</h2>
 
+<!--
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19961.63249340082!2d1.0524241!3d51.2889687!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47decba7f13d5a4f%3A0x97a868184d1b55d6!2sWoolf+College!5e0!3m2!1sen!2suk!4v1552505880518" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+-->
 
 <h3>Transport</h3>
 <h4>Train</h4>
@@ -134,6 +154,20 @@ If you don’t live in Canterbury, you’re going to need somewhere to stay duri
 
 <p>It costs as little as £1 to become a supporter, and have your name enshrined on our wall of supporters.</p>
 
+<div id="supporters">
+
+</div>
+<script>
+	function build_supporters(data) {
+		const $supporters = $('#supporters');
+		console.log(data);
+		//for (data) {
+		//}
+	};
+</script>
+
+
+
 <ul>
   <li>£1 gets you your name on the wall.</li>
   <li>£2 gets your name and a photo (32×32).</li>
@@ -152,6 +186,11 @@ If you don’t live in Canterbury, you’re going to need somewhere to stay duri
 
 
 
+<script src="bootstrap/jquery.min.js"></script>
+<script src="bootstrap/popper.min.js"></script>
+<script src="bootstrap/bootstrap.min.js"></script>
 
+<script src="supporters.js"></script>
+<script src="sponsors.js"></script>
 </body>
 </html>
