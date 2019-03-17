@@ -44,7 +44,7 @@
 	<ul>
 		<li>
 			What
-			<p>BarCamp Canterbury is a free unconference in the heart of the historic city of Canterbury.</p>
+			<p>BarCamp Canterbury is a free unconference.</p>
 		</li>
 		<li>
 			Where
@@ -52,7 +52,7 @@
 		</li>
 		<li>
 			When
-			<p>One full day of crazyness and fun, June 2019.</p>
+			<p>8th June 2019.</p>
 		</li>
 	</ul>
 
@@ -90,6 +90,22 @@ So you have decided that BarCamp sounds awesome, and you want to attend? Check o
 Eventbrite link
 
 <h2>Sponsors</h2>
+
+<div id="sponsors"></div>
+<script>
+	const TEMPLATE_SPONSOR = '<li><a href="HREF">NAME</a> <span>DESC</span></li>';
+	function build_sponsors(data) {
+		const $sponsors = $('#sponsors');
+		for (let sponsor of data) {
+			$sponsors.append(
+				TEMPLATE_SPONSOR
+				.replace('HREF', sponsor.href || '')
+				.replace('NAME', sponsor.name || '')
+				.replace('DESC', sponsor.description || '')
+			);
+		}
+	};
+</script>
 
 
 
@@ -154,15 +170,23 @@ If you don’t live in Canterbury, you’re going to need somewhere to stay duri
 
 <p>It costs as little as £1 to become a supporter, and have your name enshrined on our wall of supporters.</p>
 
-<div id="supporters">
-
-</div>
+<div id="supporters"></div>
 <script>
+	const TEMPLATE_SUPPORTER = '<li><a href="HREF">NAME</a> <span>DESC</span></li>';
 	function build_supporters(data) {
 		const $supporters = $('#supporters');
-		console.log(data);
-		//for (data) {
-		//}
+		for (let year of Object.getOwnPropertyNames(data).reverse()) {
+			$supporters.append(`<h4>${year}</h4>`);
+			const $supporters_year = $supporters.append('<ul></ul>');
+			for (let supporter of data[year]) {
+				$supporters_year.append(
+					TEMPLATE_SUPPORTER
+					.replace('HREF', supporter.href || '')
+					.replace('NAME', supporter.name || '')
+					.replace('DESC', supporter.description || '')
+				);
+			}
+		}
 	};
 </script>
 

@@ -1,7 +1,7 @@
 build_supporters({
 	"2014": [
 		{href:"http://canthack.org/", name:"Martin Ellis", description:"Wondering Geek"},
-		{href:"http://calaldees.dreamhosters.com/", name:"Allan Callaghan", description:"@calaldees"},
+		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"http://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
 		{href:"https://www.youtube.com/watch?v:kfVsfOSbJY0", name:"Matt Hoskins", description:"Coles de Bruselas!"},
 		{href:"http://canthack.org/", name:"Tris Linnell", description:"#canthacker"},
