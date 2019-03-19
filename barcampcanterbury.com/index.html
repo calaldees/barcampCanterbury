@@ -12,6 +12,10 @@
 
 	<link rel="stylesheet" href="bootstrap/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="index.css" />
+
+	<!-- AddEvent script -->
+	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+
 </head>
 
 <body>
@@ -46,10 +50,23 @@
 			<div class="col-sm mx-3">
 				<h3>Where</h3>
 				<p>Based in the historic city of Canterbury in the heart of Kent.</p>
+				<p><a href="https://www.kent.ac.uk/maps/canterbury/canterbury-campus/building/woolf-college">Woolf College</a></p>
+				<p>Generiously donated by the <a href="https://www.cs.kent.ac.uk/">University of Kent: School of Computing</a></p>
 			</div>
 			<div class="col-sm mx-3">
 				<h3>When</h3>
 				<p>8th June 2019.</p>
+				<!-- <p><a href="event.ics">&#128197; iCal</a></p> -->
+				<div title="Add to Calendar" class="addeventatc">
+					Add to Calendar
+					<span class="start">08/06/2019 10:00</span>
+					<span class="end">08/06/2019 18:00</span>
+					<span class="timezone">UK/London</span>
+					<span class="title">Barcamp Canterbury</span>
+					<span class="location">Woolf College, Canterbury, Kent, UK</span>
+					<span class="organizer_email">contact@barcampcanterbury.com</span>
+					<span class="alarm_reminder">1440</span>
+				</div>
 			</div>
 		</div>
 
@@ -57,20 +74,20 @@
 		<h2 class="d-none">Description</h2>
 		<div class="row my-3">
 
-			<div class="col">
+			<div class="col-lg mx-3">
 				<h3>Unconference</h3>
 				<p>Unconference It's what you make of it</p>
 				<p>BarCamp Canterbury is an unconference that is a completely free to attend and based loosely around the theme of technology.</p>
-				<p>As an unconference, the content of BarCamp Canterbury is provided by you, the attendees! Meet with like-minded people, share your ideas and engage in discussions. Do you have a topic you’d like to present? Sign up on the day to give a talk.</p>
+				<p>As an unconference, the content of BarCamp Canterbury is provided by you, the attendees! Meet with like-minded people, share your ideas and engage in discussions. Do you have a topic you’d like to present? On the day, pick a timeslot to give a talk.</p>
 			</div>
 
-			<div class="col">
+			<div class="col-lg mx-3">
 				<h3>We're back in action</h3>
 				<p>After a few years break, BarCamp Canterbury is back in action!</p>
 				<p>This year’s event follows successful BarCamp Canterbury events which welcomed over 150 delegates from all around the UK (and further afield).</p>
 			</div>
 
-			<div class="col">
+			<div class="col-lg mx-3">
 				<h3>Coming? What you need to know.</h3>
 				<p>So you have decided that BarCamp sounds awesome, and you want to attend? Check out this check list of things you should do.</p>
 				<ol>
@@ -80,6 +97,7 @@
 					<li>Turn up on the day.</li>
 				</ol>
 			</div>
+
 		</div>
 
 
@@ -88,11 +106,14 @@
 			<div class="col">
 				<p>Tickets will be released in multiple batches in the run up to the event.</p>
 				<p>Tickets will be announced on this page over the comming weeks.</p>
+				<p>BarCamp Canterbury will always be free, however a small donation will help us provide refreshments at the event. Supporters can have their name enshrined on our list of <a href="#supporters_heading">supporters</a> below.</p>
 			</div>
 		</div>
 
 
 		<h2>Sponsors</h2>
+		<p>Our sponsors that have enabled this free event to happen.</p>
+
 		<div class="row">
 			<div class="col">
 				<div id="sponsors"></div>
@@ -100,16 +121,25 @@
 					function build_sponsors(data) {
 						const $sponsors = $('#sponsors');
 						for (let sponsor of data) {
-							$sponsors.append(
-								`<li><a href="${sponsor.href || ''}">${sponsor.name || ''}</a> <span>${sponsor.description || ''}</span></li>`
-							);
+							$sponsors.append(`
+							<div class="col-sm-4">
+								<div class="card">
+									<img src="${sponsor.image || ''}" class="card-img-top" alt="${sponsor.name}">
+									<div class="card-body">
+										<h5 class="card-title">${sponsor.name}</h5>
+										<p class="card-text">${sponsor.description || ''}</p>
+										<a href="${sponsor.href}" class="card-link">${sponsor.href_text || ''}</a>
+									</div>
+								</div>
+							</div>
+							`);
 						}
 					};
 				</script>
 			</div>
 			<div class="w-100"></div>
-			<div class="col">
-				<p>Would you like to sponsor BarCamp Canterbury 2019? If so, please contact us at contact@barcampcanterbury.com or take a look at our sponsorship letter.</p>
+			<div class="col my-3">
+				<p>If you would like to sponsor BarCamp Canterbury, please contact us at contact@barcampcanterbury.com or take a look at our sponsorship letter.</p>
 			</div>
 		</div>
 
@@ -143,18 +173,20 @@
 				<p>
 					If you don’t live in Canterbury, you’re going to need somewhere to stay during BarCamp Canterbury. Unfortunately this is one thing we cannot make free, and there is no sleeping in the venue. There are, however, many reasonably-priced establishments in Canterbury. The list below should help you find somewhere to stay (we are not affiliated with any of the companies listed here and take no responsibility for the quality of your sleep).
 				</p>
+			</div>
+			<div class="col">
 				<ul>
 					<li>
-						<a href="http://www.kipps-hostel.com/">kipps hostel</a>
+						<a href="http://www.kipps-hostel.com/">Kipps hostel</a>
 						<ul>
-							<li>£16 to £20.50 for dorms</li>
-							<li>£22.50 to £26 for Single Rooms</li>
-							<li>£1.50 breakfasts</li>
+							<li>£20-ish for dorms</li>
+							<li>£40-ish for Single Rooms</li>
+							<li>£3.50 breakfasts</li>
 						</ul>
-						Group offers
+						Group offers available
 					</li>
 					<li>
-						<a href="http://kenthospitality.kent.ac.uk/kxBnB/">Kent Hospitality</a>From £45.00
+						<a href="http://kenthospitality.kent.ac.uk/kxBnB/">Kent Hospitality</a> From £25-ish to £75-ish
 					</li>
 					<li>
 						<a href="http://canterbury.co.uk/accommodation">Visit Canterbury - Places to Stay</a> Lots of BnBs, hostels, camp-sites here.
@@ -164,65 +196,65 @@
 						Camping from around £17
 					</li>
 					<li>
-						Find a Canterburian to stay with! Feel free to use the comments to find people with floor space.
+						Find a Canterburian to stay with!
 					</li>
 				</ul>
 			</div>
 		</div>
 
-	<!--
-	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19961.63249340082!2d1.0524241!3d51.2889687!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47decba7f13d5a4f%3A0x97a868184d1b55d6!2sWoolf+College!5e0!3m2!1sen!2suk!4v1552505880518" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-	-->
+		<!--
+		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19961.63249340082!2d1.0524241!3d51.2889687!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47decba7f13d5a4f%3A0x97a868184d1b55d6!2sWoolf+College!5e0!3m2!1sen!2suk!4v1552505880518" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+		-->
 
 
-		<h2>Supporters</h2>
+		<h2 id="supporters_heading">Supporters</h2>
 
 		<p>We would like to thank our supporters who have helped to make BarCamp Possible.</p>
 		<p>Barcamp supporters have contibuted time and/or money to help support this event</p>
-		<p>If you would like to become a BarCamp supporter please <a href="#how">see here</a>.</p>
+		<p>If you would like to become a BarCamp supporter please contact us</a>.</p>
 
-		<!-- TODO - load supporters from ajax-json -->
+		<div class="row">
+			<div class="col">
+				<div id="supporters"></div>
+				<script>
+					function build_supporters(data) {
+						const $supporters = $('#supporters');
+						for (let year of Object.getOwnPropertyNames(data).reverse()) {
+							$supporters.append(`<h4>${year}</h4>`);
+							const $supporters_year = $supporters.append('<div class="card-deck"></div>');
+							for (let supporter of data[year]) {
+								$supporters_year.append(`
+									<div class="card">
+  										<img src="${supporter.image || ''}" class="card-img-top" alt="${supporter.name}">
+										<div class="card-body">
+											<a class="card-title" href="${supporter.href || ''}">${supporter.name}</a>
+											<p class="card-text">${supporter.description || ''}</p>
+										</div>
+									</div>
+								`);
+							}
+						}
+					};
+				</script>
+			</div>
+		</div>
 
 
-
-		<h3 id="how">How to become a supporter.</h3>
-
-		<p>BarCamp Canterbury will always be free, however your donation will make the event even better.</p>
-
-		<p>It costs as little as £1 to become a supporter, and have your name enshrined on our wall of supporters.</p>
-
-		<div id="supporters"></div>
-		<script>
-			function build_supporters(data) {
-				const $supporters = $('#supporters');
-				for (let year of Object.getOwnPropertyNames(data).reverse()) {
-					$supporters.append(`<h4>${year}</h4>`);
-					const $supporters_year = $supporters.append('<ul></ul>');
-					for (let supporter of data[year]) {
-						$supporters_year.append(
-							`<li><a href="${supporter.href || ''}">${supporter.name || ''}</a> <span>${supporter.description || ''}</span></li>`
-						);
-					}
-				}
-			};
-		</script>
-
-
-
+<!--
 		<ul>
-		<li>£1 gets you your name on the wall.</li>
-		<li>£2 gets your name and a photo (32×32).</li>
-		<li>£5 gets your name, a photo (32×32) and a link to what ever you want.</li>
-		<li>£10 gets your name, a photo (32×32), a link to what ever you want and short bit of text (max 32 chars).</li>
-		<li>£10+ You don’t get anything more, just a warm feeling for being awesome.</li>
-		<li>£50 Just become a sponsor already</li>
+			<li>£1 gets you your name on the wall.</li>
+			<li>£2 gets your name and a photo (32×32).</li>
+			<li>£5 gets your name, a photo (32×32) and a link to what ever you want.</li>
+			<li>£10 gets your name, a photo (32×32), a link to what ever you want and short bit of text (max 32 chars).</li>
+			<li>£10+ You don’t get anything more, just a warm feeling for being awesome.</li>
+			<li>£50 Just become a sponsor already</li>
 		</ul>
 
 		<ol>
-		<li>paypal donate button:</li>
-		<li>Email barcampcanterbury@gmail.com with the details you want on your plaque.</li>
+			<li>paypal donate button:</li>
+			<li>Email barcampcanterbury@gmail.com with the details you want on your plaque.</li>
 		</ol>
-
+-->
 
 	</div>
 
@@ -230,7 +262,9 @@
 		<div class="container">
 			<div class="row py-2">
 				<div class="col">
-					<a href="https://github.com/calaldees/barcampCanterbury">Website Source</a> <a href="mailto:contact@barcampcanterbury.com">Contact Us</a>
+					<a href="https://twitter.com/barcampcant">Twitter</a>
+					<a href="https://en-gb.facebook.com/barcampcanterbury/">Facebook</a>
+					<a href="https://github.com/calaldees/barcampCanterbury">Website Source</a> <a href="mailto:contact@barcampcanterbury.com">Contact</a>
 				</div>
 			</div>
 		</div>

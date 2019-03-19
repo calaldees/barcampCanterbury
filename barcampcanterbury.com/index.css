@@ -1,0 +1,21 @@
+.navbar {
+    z-index: 99999; /* over AddEvent button */
+}
+
+.navbar.navbar-dark a {
+    color: white;
+}
+
+h2 {
+    border-bottom: solid 1px;
+}
+
+#sponsors img {
+    object-fit: contain;
+    max-height: 10em;
+}
+
+#supporters .card {
+    width: 12rem;
+    display: flex;
+}
