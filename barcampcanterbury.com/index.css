@@ -15,7 +15,21 @@ h2 {
     max-height: 10em;
 }
 
+
+#supporters {
+    font-size-adjust: 0.4;
+}
+
+#supporters .card_container {
+    display: flex;
+    flex-wrap: wrap;
+}
 #supporters .card {
     width: 12rem;
-    display: flex;
+    flex: none;
+    margin: 0.25em;
+}
+#supporters .card-body {
+    padding: 0.25em;
+
 }

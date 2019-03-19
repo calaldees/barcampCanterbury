@@ -1,4 +1,7 @@
 build_supporters({
+	"2019": [
+		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
+	],
 	"2014": [
 		{href:"http://canthack.org/", name:"Martin Ellis", description:"Wondering Geek"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},

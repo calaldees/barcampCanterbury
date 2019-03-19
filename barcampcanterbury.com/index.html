@@ -221,7 +221,7 @@
 						const $supporters = $('#supporters');
 						for (let year of Object.getOwnPropertyNames(data).reverse()) {
 							$supporters.append(`<h4>${year}</h4>`);
-							const $supporters_year = $supporters.append('<div class="card-deck"></div>');
+							const $supporters_year = $supporters.append('<div class="card_container"></div>').children().last();
 							for (let supporter of data[year]) {
 								$supporters_year.append(`
 									<div class="card">
