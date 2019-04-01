@@ -11,6 +11,21 @@
     text-decoration: none;
 }
 
+.title .background {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/624px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(1px) opacity(0.2);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    left: 0;
+    top: 0;
+}
+
 .title h1 {
     display: inline;
     vertical-align: middle;
@@ -31,6 +46,10 @@ h2 {
 
 #supporters {
     font-size-adjust: 0.4;
+}
+
+#supporters img {
+    max-height: 0em;
 }
 
 #supporters .card_container {
