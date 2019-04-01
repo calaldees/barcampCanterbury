@@ -6,37 +6,65 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="shortcut icon" href="images/barcampcanterbury_logo.svg">
 
-	<title>Barcamp Canterbury</title>
+	<title>BarCamp Canterbury</title>
 
 	<link rel="stylesheet" href="bootstrap/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="index.css" />
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137407575-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-137407575-1');
+	</script>
+
 	<!-- AddEvent script -->
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
+	<script type="text/javascript">
+		// Constants
+		const IMG_NULL = `data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'/%3E`;
+	</script>
 </head>
 
 <body>
 
-	<nav class="navbar navbar-dark bg-dark sticky-top">
+	<nav class="navbar navbar-dark bg-dark">
 		<div class="container">
-			<a class="py-2" href="#">BarCamp Canterbury</a>
+			<a class="py-2" href="#">
+				<img src="images/barcampcanterbury_logo.svg" class="logo" />
+				BarCamp Canterbury
+			</a>
+
+			<div>
+				<a href="https://twitter.com/barcampcant">
+					<img src="images/social-1_round-twitter.svg" alt="Twitter"/>
+				</a>
+				<a href="https://en-gb.facebook.com/barcampcanterbury/">
+					<img src="images/social-1_round-facebook.svg" alt="Facebook"/>
+				</a>
+				<a href="https://github.com/calaldees/barcampCanterbury">
+					<img src="images/social-2_round-paypal.svg" alt="PayPal"/>
+				</a>
+			</div>
 		</div>
 	</nav>
 
-	<div class="container">
-
-		<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+	<div class="title position-relative overflow-hidden p-3 p-md-5 text-center bg-light">
 			<div class="mx-auto my-5">
+				<img src="images/barcampcanterbury_logo.svg" class="logo" />
 				<h1 class="display-4 font-weight-normal">BarCamp Canterbury</h1>
 				<p class="lead font-weight-normal">
 					BarCamp Canterbury is a free unconference in the heart of the historic city of Canterbury.
 				</p>
 			</div>
-		</div>
+	</div>
 
+	<div class="container">
 
 		<h2 class="d-none">Summary</h2>
 		<div class="row my-3">
@@ -122,7 +150,7 @@
 							$sponsors.append(`
 							<div class="col-sm-4">
 								<div class="card">
-									<img src="${sponsor.image || ''}" class="card-img-top" alt="${sponsor.name}">
+									<img src="${sponsor.image || IMG_NULL}" class="card-img-top" alt="${sponsor.name}">
 									<div class="card-body">
 										<h5 class="card-title">${sponsor.name}</h5>
 										<p class="card-text">${sponsor.description || ''}</p>
@@ -223,7 +251,7 @@
 							for (let supporter of data[year]) {
 								$supporters_year.append(`
 									<div class="card">
-  										<img src="${supporter.image || ''}" class="card-img-top" alt="${supporter.name}">
+  										<img src="${supporter.image || IMG_NULL}" class="card-img-top" alt="${supporter.name}">
 										<div class="card-body">
 											<a class="card-title" href="${supporter.href || ''}">${supporter.name}</a>
 											<p class="card-text">${supporter.description || ''}</p>
@@ -254,15 +282,28 @@
 		</ol>
 -->
 
+		<div>
+			<h2>Credits</h2>
+			<ul>
+				<li>Icons - <a href="https://dribbble.com/shots/2089345-Nucleo-Free-Social-Icons">Nucleo-Free-Social-Icons</a></li>
+				<li>Photographs</li>
+			</ul>
+		</div>
+
 	</div>
 
 	<footer class="navbar navbar-dark bg-dark">
 		<div class="container">
 			<div class="row py-2">
 				<div class="col">
-					<a href="https://twitter.com/barcampcant">Twitter</a>
-					<a href="https://en-gb.facebook.com/barcampcanterbury/">Facebook</a>
-					<a href="https://github.com/calaldees/barcampCanterbury">Website Source</a> <a href="mailto:contact@barcampcanterbury.com">Contact</a>
+
+						<a href="https://github.com/calaldees/barcampCanterbury">
+							<img src="images/social-1_round-github.svg" alt="Github Source"/>
+						</a>
+
+						<a href="mailto:allan@barcampcanterbury.com">Contact</a>
+					<!-- http://barcamp.org/w/page/405173/TheRulesOfBarCamp -->
+					<!-- https://en.wikipedia.org/wiki/BarCamp -->
 				</div>
 			</div>
 		</div>
@@ -272,7 +313,7 @@
 <script src="bootstrap/popper.min.js"></script>
 <script src="bootstrap/bootstrap.min.js"></script>
 
-<script src="supporters.js"></script>
-<script src="sponsors.js"></script>
+<script src="data/supporters.js"></script>
+<script src="data/sponsors.js"></script>
 </body>
 </html>

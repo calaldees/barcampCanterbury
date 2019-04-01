@@ -1,9 +1,22 @@
 .navbar {
     z-index: 99999; /* over AddEvent button */
 }
-
+.navbar .logo {
+    height: 2em;
+}
 .navbar.navbar-dark a {
     color: white;
+}
+.navbar.navbar-dark a:hover {
+    text-decoration: none;
+}
+
+.title h1 {
+    display: inline;
+    vertical-align: middle;
+}
+.title .logo {
+    height: 4em;
 }
 
 h2 {
