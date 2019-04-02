@@ -19,7 +19,6 @@
 		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());
-
 		gtag('config', 'UA-137407575-1');
 	</script>
 
@@ -152,7 +151,7 @@
 						const $sponsors = $('#sponsors');
 						for (let sponsor of data) {
 							$sponsors.append(`
-							<div class="col-sm-4">
+							<div class="col-sm-6 col-md-6 col-lg-4">
 								<div class="card">
 									<img src="${sponsor.image || IMG_NULL}" class="card-img-top" alt="${sponsor.name}">
 									<div class="card-body">
@@ -178,7 +177,7 @@
 
 		<h3>Transport</h3>
 		<div class="row">
-			<div class="col">
+			<div class="col-md">
 				<h4>By Train</h4>
 				<ul>
 					<li>London (St Pancras) to Canterbury West: High speed trains – journey time approximately 56 minutes. Trains depart on an hourly basis.</li>
@@ -186,7 +185,7 @@
 					<li>London (Victoria) to Canterbury East: journey time approximately 85 minutes.</li>
 				</ul>
 			</div>
-			<div class="col">
+			<div class="col-md">
 				<h4>By Car</h4>
 				<ul>
 					<li>From London, the North and East Anglia (via M25 clockwise): Leave M25 at junction 2 signposted A2 Canterbury, continue on A2/M2, leave M2 at junction 7 signposted A2 Canterbury. Follow signs to Canterbury.</li>
@@ -198,13 +197,13 @@
 
 		<h3>Accommodation</h3>
 		<div class="row">
-			<div class="col">
+			<div class="col-md">
 
 				<p>
 					If you don’t live in Canterbury, you’re going to need somewhere to stay during BarCamp Canterbury. Unfortunately this is one thing we cannot make free, and there is no sleeping in the venue. There are, however, many reasonably-priced establishments in Canterbury. The list below should help you find somewhere to stay (we are not affiliated with any of the companies listed here and take no responsibility for the quality of your sleep).
 				</p>
 			</div>
-			<div class="col">
+			<div class="col-md">
 				<ul>
 					<li>
 						<a href="http://www.kipps-hostel.com/">Kipps hostel</a>
