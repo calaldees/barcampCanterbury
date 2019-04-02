@@ -23,4 +23,4 @@ bootstrap.min.js:
 
 .PHONY: clean
 clean:
-	rm -rf *.js *.css
+	rm -rf *.js *.css *.map
