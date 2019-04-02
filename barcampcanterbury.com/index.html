@@ -47,9 +47,16 @@
 				<a href="https://en-gb.facebook.com/barcampcanterbury/">
 					<img src="images/social-1_round-facebook.svg" alt="Facebook"/>
 				</a>
-				<a href="#">
-					<img src="images/social-2_round-paypal.svg" alt="PayPal"/>
-				</a>
+
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="display: inline;
+
+				vertical-align: top;">
+					<input type="hidden" name="cmd" value="_s-xclick" />
+					<input type="hidden" name="hosted_button_id" value="4XASW79HYPQRA" />
+					<input type="image" src="images/social-2_round-paypal.svg" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal"/>
+					<img alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
+				</form>
+
 			</div>
 		</div>
 	</nav>
@@ -136,7 +143,20 @@
 			<div class="col">
 				<p>BarCamp Canterbury will always be free, however a small donation will help us provide refreshments and goodies at the event.</p>
 				<p><a href="https://www.eventbrite.co.uk/e/barcamp-canterbury-2019-tickets-59761646694" target="_blank" type="button" class="btn btn-primary btn-lg btn-block">Eventbrite Tickets</a></p>
-				<p><a href="#" target="_blank" type="button" class="btn btn-secondary btn-lg btn-block">Donate via PayPal</a></p>
+				<!-- <p><a href="#" target="_blank" type="button" class="btn btn-secondary btn-lg btn-block">Donate via PayPal</a></p> -->
+
+				<p>
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+						<input type="hidden" name="cmd" value="_s-xclick" />
+						<input type="hidden" name="hosted_button_id" value="4XASW79HYPQRA" />
+						<input type="submit" name="submit" value="Donate via PayPal" class="btn btn-secondary btn-lg btn-block" />
+						<!--
+							<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+						-->
+						<img alt="" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
+					</form>
+				</p>
+
 				<p>Donators/Supporters can have their name enshrined on our list of <a href="#supporters_heading">supporters</a> below.</p>
 			</div>
 		</div>
