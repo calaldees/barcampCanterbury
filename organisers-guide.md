@@ -68,6 +68,25 @@ Website
 * [barcampcanterbury.com](http://barcampcanterbury.com)
 * [2015](https://web.archive.org/web/20160423191619/http://barcampcanterbury.com/)
 
+
+Sponsorship
+-----------
+
+### Approach
+
+#### In person
+* Update relevant version of the letter new/returning with the name of the person you are approaching.
+    * If unsure use Sir/Madam.
+* Print of a take with you, preferably in an envelope to keep it neet.
+#### By email
+* If you do not know the company/person emails should be sent from a _@barcampcanterbury.com_ address.
+* If you know someone at the company personally feel free to use your personal email but CC _@barcampcantebury.com_ in.
+* Update relevant version of the letter new/returning with the name of the person you are approaching.
+    * If unsure use Sir/Madam.
+* Export letter as pdf and attach to email.
+* Write a short cover note in the body of the email.
+
+
 Advertising
 -----------
 
