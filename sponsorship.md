@@ -8,7 +8,7 @@ BarCamps are memorable events that are heavily reported and shared by the attend
 Sponsors help us provide:
 
 * Refreshments - Lunch and Supper (to keep attendees focused on the content and build a community)
-* Branding/Signage (that will be visible in photos, videos, website, stickers?, coasters?, lanyards?)
+* Branding/Signage (that will be visible in photos, videos, website, stickers, coasters, lanyards)
 * Memorable gadgets/goodies (more details below)
 
 Even if you are unable to contribute financially, providing freebies would always be appreciated by attendees.
