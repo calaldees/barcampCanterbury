@@ -5,5 +5,6 @@ build_sponsors([
         href_text: 'Website',
         description: 'The school of Computing has generously donated the venue Woolf College for this event',
         image: 'https://www.cs.kent.ac.uk/webimages/home/about-us.png',
+        twitter: 'UniKentComp',
     },
 ]);
