@@ -32,8 +32,8 @@ We would be able to provide:
 Below are some possible example levels of sponsorship:
 
 * £600 - Sponsor the interactive badges. Logo on all BarCamp items (lanyards, signage, website)
-* £500 - Sponsor a meal. Logo on all BarCamp items.
-* £250 - Logo on most items. Popup stall space.
+* £400 - Sponsor a meal. Logo on all BarCamp items.
+* £200 - Logo on most items. Popup stall space.
 * £100 - Sponsor refreshments. Logo visible on signage for refreshments. Shout-out on social media. Sponsor of website.
 * £50 - Shout-out on social media. Sponsor of website.
 
