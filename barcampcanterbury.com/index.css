@@ -1,3 +1,18 @@
+a {
+    color: #ed8e09;
+}
+
+.btn-primary {
+    color: #ed8e09;
+    border-color: #ed8e09;
+    background-color: #ed8e09;
+}
+.btn-primary:hover {
+    color: #da7e00;
+    border-color: #da7e00;
+    background-color: #da7e00;
+}
+
 .navbar {
     z-index: 99999; /* over AddEvent button */
 }
