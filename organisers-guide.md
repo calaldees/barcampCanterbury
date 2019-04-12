@@ -86,6 +86,19 @@ Sponsorship
 * Export letter as pdf and attach to email.
 * Write a short cover note in the body of the email.
 
+> Hi,
+>
+> I am helping organise BarCamp Canterbury; a free-to-attend community tech un-conference.
+> http://barcampcanterbury.com
+> The event is full of tech tinker-ers and tech hackers.
+>
+> We are investigating sponsors for this years event.
+> Additional sponsorship information is available at https://github.com/calaldees/barcampCanterbury/blob/master/sponsorship.md#sponsorship
+>
+> Even if you are unable to support financially, any freebies you could provide to hand-out to attendees would be greatly appreciated.
+>
+> Let me know if this event is of any interest to you.
+
 
 Advertising
 -----------
@@ -140,6 +153,7 @@ Posters? Logo? Website? Talks? Prizes?
 
 Talks from organisations/sponsors are discouraged.
 They should be relevant to the community.
+
 
 Tickets
 -------

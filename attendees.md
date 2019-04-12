@@ -11,7 +11,7 @@ Attendees are encouraged to:
 * Share experiences of the event on social media
     * [#bccant](https://twitter.com/search?q=%23bccant)
 
-Under 16's are welcome, but must be accompanied by an adult.
+Under 18's are welcome, but must be accompanied by an adult.
 
 The community is encouraged to take photos/videos and publicly document the event.
 There will be photography.

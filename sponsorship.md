@@ -1,7 +1,7 @@
 Sponsorship
 ===========
 
-BarCamp Canterbury is a free to attend un-conference where the attendees create the content and give the talks. The event is loosely based around the topic of technology. Over the years, this has been a highly successful event where impassioned members of the local community and beyond share their experiences.
+BarCamp Canterbury is a free-to-attend un-conference where the attendees create the content and give the talks. The event is loosely based around the topic of technology. Over the years, this has been a highly successful event where impassioned members of the local community and beyond share their experiences.
 
 BarCamps are memorable events that are heavily reported and shared by the attendees via social media. Previous events can be seen on Twitter [#bccant](https://twitter.com/search?q=%23bccant). Read more about BarCamp Canterbury at [barcampcanterbury.com](https://barcampcanterbury.com/).
 
