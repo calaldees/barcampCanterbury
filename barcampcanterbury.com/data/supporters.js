@@ -3,6 +3,7 @@ build_supporters({
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"http://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
+		{href:"", name:"Calum Ryan", description:""},
 	],
 	"2014": [
 		{href:"http://canthack.org/", name:"Martin Ellis", description:"Wondering Geek"},
