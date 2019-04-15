@@ -168,34 +168,37 @@
 
 
 		<h2>Sponsors</h2>
-		<p>Our sponsors that have enabled this free event to happen.</p>
 		<div class="row">
 			<div class="col">
-				<div id="sponsors"></div>
-				<script>
-					function build_sponsors(data) {
-						const $sponsors = $('#sponsors');
-						for (let sponsor of data) {
-							$sponsors.append(`
-							<div class="col-sm-6 col-md-6 col-lg-4">
-								<div class="card">
-									<img src="${sponsor.image || IMG_NULL}" class="card-img-top" alt="${sponsor.name}">
-									<div class="card-body">
-										<h5 class="card-title">${sponsor.name}</h5>
-										<p class="card-text">${sponsor.description || ''}</p>
-										<a href="${sponsor.href}" class="card-link">${sponsor.href_text || ''}</a>
-									</div>
-								</div>
-							</div>
-							`);
-						}
-					};
-				</script>
-			</div>
-			<div class="w-100"></div>
-			<div class="col my-3">
 				<p>If you would like to sponsor BarCamp Canterbury, please read the <a href="https://github.com/calaldees/barcampCanterbury/blob/master/sponsorship.md#sponsorship">additinal sponsoship details</a> and <a href="mailto:allan@barcampcanterbury.com">email us</a>.</p>
 			</div>
+		</div>
+		<div class="row my-3" id="sponsors">
+			<script>
+				function build_sponsors(data) {
+					const $sponsors = $('#sponsors');
+					for (let sponsor of data) {
+						$sponsors.append(`
+						<div class="col-sm-6 col-md-6 col-lg-4">
+							<div class="card">
+								<img src="${sponsor.image || IMG_NULL}" class="card-img-top" alt="${sponsor.name}">
+								<div class="card-body">
+									<h5 class="card-title">${sponsor.name}</h5>
+									<p class="card-text">${sponsor.description || ''}</p>
+								</div>
+								<div class="card-body">
+									<a href="${sponsor.href}" class="card-link">${sponsor.href_text || ''}</a>
+									<a href="https://twitter.com/${sponsor.twitter || ''}" class="card-link">@${sponsor.twitter || ''}</a>
+								</div>
+							</div>
+						</div>
+						`);
+					}
+				};
+			</script>
+			<!--
+			<div class="w-100"></div>
+			-->
 		</div>
 
 
