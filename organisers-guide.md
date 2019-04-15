@@ -232,6 +232,7 @@ Other Local Groups/Events
     * [Kent CS](https://kentunion.co.uk/activities/computing)
     * [TinkerSoc](https://kentunion.co.uk/activities/tinkersoc)
 * [ThinkNation](https://thinknation.co/)
+* [CodeHarbour](http://codeharbour.co.uk/)
 
 
 Recording Talks
