@@ -11,8 +11,9 @@ build_sponsors([
         name: 'Fruitworks Coworking',
         href: 'https://fruitworks.co/',
         href_text: 'Website',
-        description: 'Fruitworks is a coworking space 30 seconds from Canterbury City Centre',
+        description: 'Offering flexible monthly hot-desking and coworking in Canterbury’s city centre. Last years Fruitworks was voted the best Coworking space in Canterbury',
         image: 'images/logo_fruitworksco.svg',
         twitter: 'fruitworksco',
+        instagram: 'fruitworksco',
     },
 ]);

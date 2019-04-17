@@ -1,8 +1,9 @@
 build_supporters({
 	"2019": [
-		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
-		{href:"http://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
+		{href:"http://perlfu.co.uk/", name:"Carl Ritson", description:"Mad Scientist"},
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
+		{href:"http://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
+		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"", name:"Calum Ryan", description:""},
 	],
 	"2014": [
