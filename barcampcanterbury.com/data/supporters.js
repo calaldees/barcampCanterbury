@@ -5,6 +5,7 @@ build_supporters({
 		{href:"http://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"", name:"Calum Ryan", description:""},
+		{href:"", name:"Joe Reid", description:""},
 	],
 	"2014": [
 		{href:"http://canthack.org/", name:"Martin Ellis", description:"Wondering Geek"},
