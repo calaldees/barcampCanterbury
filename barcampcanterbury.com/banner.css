@@ -1,4 +1,4 @@
-.background {
+.banner .background {
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg");
     background-position: center;
     background-repeat: no-repeat;
@@ -36,20 +36,4 @@ h1 {
 }
 .logo {
     height: 3rem;
-}
-
-
-.flyer {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    align-items: stretch;
-    align-content: stretch;
-
-    height: 100%;
-}
-
-.flyer .header {
-    position: relative;
-    font-size-adjust: 0.7;
 }

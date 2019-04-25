@@ -1,0 +1,91 @@
+.text_center {
+    text-align: center;
+    align-self: center;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0.5em;
+}
+.logo {
+    height: 5rem;
+}
+
+
+
+.flyer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+    height: 100%;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.flyer .background {
+    /*
+    background-image: url("https://live.staticflickr.com/3683/12780929034_23d2457ebf_o.jpg");
+    filter: opacity(0.2);
+    */
+
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    left: 0;
+    top: 0;
+}
+
+.flyer .header {
+    position: relative;
+    font-size-adjust: 0.8;
+    border-bottom: 1px solid black;
+}
+
+.flyer .content {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.flyer .content p {
+    font-size-adjust: 0.8;
+    padding: 0.5rem;
+    line-height: 3rem;
+}
+.flyer .content p em {
+    font-size-adjust: 1;
+    font-weight: bold;
+}
+
+.flyer .content .center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+
+    background-image: url("images/flyer_tree.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.flyer .content .bullet {
+    height: 3rem;
+    font-size-adjust: 1;
+}
+
+
+.flyer .footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 2rem;
+}
+
+.flyer .footer .website {
+    font-size-adjust: 2;
+}
