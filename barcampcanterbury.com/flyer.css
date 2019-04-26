@@ -48,36 +48,58 @@ h1 {
 .flyer .content {
     flex-grow: 1;
     text-align: center;
+    position: relative;
 }
 
 .flyer .content p {
     font-size-adjust: 0.8;
-    padding: 0.5rem;
-    line-height: 3rem;
+    padding: 0.3rem;
+    line-height: 2.5rem;
 }
 .flyer .content p em {
     font-size-adjust: 1;
     font-weight: bold;
 }
 
+.flyer .content .background {
+    position: absolute;
+    z-index: 0;
+}
+/*
 .flyer .content .center {
     position: absolute;
     top: 50%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
+}
 
+.flyer .content .center {
     background-image: url("images/flyer_tree.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
 }
-
+*/
 .flyer .content .bullet {
     height: 3rem;
     font-size-adjust: 1;
 }
 
+.flyer .sponsors {
+    border-top: 1px solid black;
+    align-self: stretch;
+}
+.flyer .sponsors ul {
+    text-align: center;
+}
+.flyer .sponsors li {
+    display: inline-block;
+    list-style: none;
+}
+.flyer .sponsors img {
+    height: 15vh;
+}
 
 .flyer .footer {
     text-align: center;
