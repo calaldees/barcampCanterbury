@@ -50,8 +50,11 @@ Refreshments to facilitate attendee's focused and interacting during the day. Sp
 * Coffee
     * Investigate the hire of a coffee machine/cart/supplier? Maybe a sponsor?
 * Lunch
-    * For events taking place the University of Kent campus, authorised vendors should provide catering
+    * For events taking place on the University of Kent campus, authorised vendors should provide catering
         * [Kent Hospitality](https://www.kent.ac.uk/hospitality/)
+    * For events not taking place on the University of Kent campus
+        * [Sainsburys Select](https://select.sainsburys.co.uk/)
+            * Must be ordered 1 week beforehand
 * Dinner
     * [Domino's](https://www.dominos.co.uk/) is a registered supplier for University of Kent and provide bulk discount
 
@@ -124,8 +127,14 @@ Advertising
 * Societies
     * @TinkerSoc
 
-Signs
------
+Signs & Printing
+----------------
+
+### Printed
+
+* Attendee list
+* Room Signs
+* twitter `#tag`
 
 ### Outside Venue
 
@@ -198,6 +207,8 @@ Activities
 * PowerPoint Karaoke
 * Workshop Space
     * We may be able to bulk order some cheap components and provide a soldering workshop.
+* Swap Shop
+    * Small working devices or tools that your are not using to be given to other hackers that needs them
 
 
 Equipment
