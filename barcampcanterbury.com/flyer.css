@@ -98,7 +98,8 @@ h1 {
     list-style: none;
 }
 .flyer .sponsors img {
-    height: 7rem;
+    max-height: 7rem;
+    max-width: 12rem;
 }
 
 .flyer .footer {

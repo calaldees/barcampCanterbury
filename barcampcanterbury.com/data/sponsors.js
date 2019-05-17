@@ -16,4 +16,13 @@ build_sponsors([
         twitter: 'fruitworksco',
         instagram: 'fruitworksco',
     },
+    {
+        name: 'LevelUp Games',
+        href: 'https://levelup-games.co.uk/',
+        href_text: 'Website',
+        description: 'We buy, sell, and trade in video games and consoles from all eras - focusing primarily on retro paraphernalia.',
+        image: 'images/level_up_games_logo.png',
+        twitter: 'joomlart',
+        instagram: '',
+    },
 ]);
