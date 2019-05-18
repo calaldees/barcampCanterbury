@@ -262,13 +262,14 @@
                         }
 
 						$sponsors.append(`
-						<div class="col-sm-6 col-md-6 col-lg-4">
+						<div class="col-sm-6 col-md-6 col-lg-4" style="display: flex">
 							<div class="card">
 								<img src="${sponsor.image || IMG_NULL}" class="card-img-top" alt="${sponsor.name}">
 								<div class="card-body">
 									<h5 class="card-title">${sponsor.name}</h5>
 									<p class="card-text">${sponsor.description || ''}</p>
 								</div>
+                                <div style="display: flex; flex-grow: 100"></div>
 								<div class="card-body">
 									<a href="${sponsor.href}" class="card-link">${sponsor.href_text || ''}</a>
                                     <a href="https://twitter.com/${sponsor.twitter || ''}" class="card-link">@${sponsor.twitter || ''}</a>
