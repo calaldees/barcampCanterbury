@@ -17,12 +17,11 @@ build_sponsors([
         instagram: 'fruitworksco',
     },
     {
-        name: 'LevelUp Games',
-        href: 'https://levelup-games.co.uk/',
+        name: 'Level Up Games',
+        href: 'https://www.facebook.com/levelupgamescanterbury/',
         href_text: 'Website',
-        description: 'We buy, sell, and trade in video games and consoles from all eras - focusing primarily on retro paraphernalia.',
-        image: 'images/level_up_games_logo.png',
-        twitter: 'joomlart',
-        instagram: '',
+        description: 'Based just off Canterbury\'s main high street, Level Up Games buy, sell, and trade in video games and consoles from all eras!',
+        image: 'images/logo_lug.png',
+        twitter: 'LevelUpGames2',
     },
 ]);
