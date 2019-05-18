@@ -256,6 +256,11 @@
 				function build_sponsors(data) {
 					const $sponsors = $('#sponsors');
 					for (let sponsor of data) {
+                        insta = '';
+                        if (sponsor.instagram) {
+                            insta = `<a href="https://www.instagram.com/${sponsor.instagram}" class="card-link">Instagram</a>`;
+                        }
+
 						$sponsors.append(`
 						<div class="col-sm-6 col-md-6 col-lg-4">
 							<div class="card">
@@ -266,8 +271,8 @@
 								</div>
 								<div class="card-body">
 									<a href="${sponsor.href}" class="card-link">${sponsor.href_text || ''}</a>
-									<a href="https://twitter.com/${sponsor.twitter || ''}" class="card-link">@${sponsor.twitter || ''}</a>
-									<a href="https://www.instagram.com/${sponsor.instagram || ''}" class="card-link">Instagram</a>
+                                    <a href="https://twitter.com/${sponsor.twitter || ''}" class="card-link">@${sponsor.twitter || ''}</a>
+                                    ${insta}
 								</div>
 							</div>
 						</div>
