@@ -14,7 +14,7 @@ build_supporters({
 		{href:"http://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
 		{href:"https://www.youtube.com/watch?v:kfVsfOSbJY0", name:"Matt Hoskins", description:"Coles de Bruselas!"},
 		{href:"http://canthack.org/", name:"Tris Linnell", description:"#canthacker"},
-		{href:"http://canthack.org/", name:"Hannah Greer", description:"Geekery, employability, cats"},
+		{href:"https://twitter.com/hanspanii", name:"Hannah Greer", description:"Geekery, employability, cats"},
 		{name:"Kieran Patel"},
 		{href:"https://atechmedia.com/careers", name:"Dan Wentworth", description:"Love Ruby? Come work with me"},
 		{href:"http://rl0.co.uk/", name:"Richard Lancaster"},
@@ -26,7 +26,7 @@ build_supporters({
 	"2013": [
 		{href:"http://canthack.org/", name:"Martin Ellis", description:"Wondering Geek"},
 		{href:"http://canthack.org/", name:"Tris Linnell", description:"#canthacker"},
-		{href:"http://canthack.org/", name:"Hannah Greer", description:"Geekery, employability, cats."},
+		{href:"https://twitter.com/hanspanii", name:"Hannah Greer", description:"Geekery, employability, cats."},
 		{href:"http://soma.fm/", name:"Edd Barrett"},
 		{href:"http://canthack.org/", name:"Marianne Everett"},
 		{href:"https://www.youtube.com/watch?v:dQw4w9WgXcQ", name:"Robert Bronsdon"},
