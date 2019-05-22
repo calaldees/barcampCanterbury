@@ -9,7 +9,7 @@ build_supporters({
 		{href:"http://canthack.org/", name:"Tris Linnell", description:"#canthacker"},
 	],
 	"2014": [
-		{href:"http://canthack.org/", name:"Martin Ellis", description:"Wondering Geek"},
+		{href:"https://twitter.com/egelmex", name:"Martin Ellis", description:"Wondering Geek"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"http://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
 		{href:"https://www.youtube.com/watch?v:kfVsfOSbJY0", name:"Matt Hoskins", description:"Coles de Bruselas!"},
@@ -24,7 +24,7 @@ build_supporters({
 		{name:"David Hobson", description:"Python, C# bespoke software dev!"},
 	],
 	"2013": [
-		{href:"http://canthack.org/", name:"Martin Ellis", description:"Wondering Geek"},
+		{href:"https://twitter.com/egelmex", name:"Martin Ellis", description:"Wondering Geek"},
 		{href:"http://canthack.org/", name:"Tris Linnell", description:"#canthacker"},
 		{href:"https://twitter.com/hanspanii", name:"Hannah Greer", description:"Geekery, employability, cats."},
 		{href:"http://soma.fm/", name:"Edd Barrett"},
