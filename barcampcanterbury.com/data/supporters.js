@@ -6,6 +6,7 @@ build_supporters({
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"", name:"Calum Ryan", description:""},
 		{href:"", name:"Joe Reid", description:""},
+		{href:"http://canthack.org/", name:"Tris Linnell", description:"#canthacker"},
 	],
 	"2014": [
 		{href:"http://canthack.org/", name:"Martin Ellis", description:"Wondering Geek"},
