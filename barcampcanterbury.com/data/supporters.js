@@ -2,7 +2,7 @@ build_supporters({
 	"2019": [
 		{href:"http://perlfu.co.uk/", name:"Carl Ritson", description:"Mad Scientist"},
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
-		{href:"http://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
+		{href:"https://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"", name:"Calum Ryan", description:""},
 		{href:"", name:"Joe Reid", description:""},
@@ -11,7 +11,7 @@ build_supporters({
 	"2014": [
 		{href:"https://twitter.com/egelmex", name:"Martin Ellis", description:"Wondering Geek"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
-		{href:"http://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
+		{href:"https://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
 		{href:"https://www.youtube.com/watch?v:kfVsfOSbJY0", name:"Matt Hoskins", description:"Coles de Bruselas!"},
 		{href:"http://canthack.org/", name:"Tris Linnell", description:"#canthacker"},
 		{href:"https://twitter.com/hanspanii", name:"Hannah Greer", description:"Geekery, employability, cats"},
