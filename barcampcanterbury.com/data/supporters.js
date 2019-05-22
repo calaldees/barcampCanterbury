@@ -31,7 +31,7 @@ build_supporters({
 		{href:"http://canthack.org/", name:"Marianne Everett"},
 		{href:"https://www.youtube.com/watch?v:dQw4w9WgXcQ", name:"Robert Bronsdon"},
 		{href:"http://www.itscooper.co.uk/", name:"Christopher Cooper", description:"Security fanatic"},
-		{href:"http://canthack.org/", name:"Omer Kilic"},
+		{href:"http://omer.kilic.name/", name:"Omer Kilic"},
 		{href:"http://www.g8osn.net/", name:"Brian Reay"},
 	],
 });
