@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40mm"
+   height="40mm"
+   viewBox="0 0 40 40"
+   version="1.1"
+   id="svg4644"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="earth.svg">
+  <defs
+     id="defs4638" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.36957237"
+     inkscape:cx="92.857143"
+     inkscape:cy="385.71429"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false" />
+  <metadata
+     id="metadata4641">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-257)">
+    <path
+       style="fill:#029255;stroke-width:0.26458332"
+       d="m 3.8170602,291.40462 v -1.5875 H 19.824347 35.831638 v 1.5875 1.5875 H 19.824347 3.8170602 Z m 0,-5.55831 v -1.58957 l 15.9411408,0.0682 15.941145,0.0682 0.07935,1.52136 0.07935,1.52135 H 19.83755 3.8170602 Z m 0,-5.2896 v -1.5875 H 19.824347 35.831638 v 1.5875 1.5875 H 19.824347 3.8170602 Z m 0.17639,-3.88056 c -0.097,-0.097 -0.17639,-0.87185 -0.17639,-1.72186 v -1.54547 l 15.9411408,0.0682 15.941145,0.0682 0.07877,1.65365 0.07877,1.65365 H 20.013361 c -8.713941,0 -15.9229008,-0.0794 -16.0199108,-0.17639 z m -0.12345,-7.1658 0.0794,-1.52135 H 19.824397 35.699396 l 0.07935,1.52135 0.07935,1.52136 H 19.824397 3.7907002 Z m 0.27779,-3.94445 c -0.21216,-0.0863 -0.33073,-0.69578 -0.33073,-1.69999 v -1.56545 H 19.836972 35.856887 l -0.07877,1.65364 -0.07877,1.65365 -15.610416,0.0464 c -8.585729,0.0255 -15.7592408,-0.0142 -15.9411408,-0.0882 z"
+       id="earth"
+       inkscape:connector-curvature="0">
+      <title
+         id="title4717">earth</title>
+    </path>
+  </g>
+</svg>

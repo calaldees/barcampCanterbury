@@ -214,7 +214,25 @@ Activities
 Equipment
 ---------
 
-Foyer - Projector - displaying timetable
+* Foyer - Projector - displaying timetable (optional)
+* Ducktape (for cables)
+* Cleaning Spray
+* Vacuum Cleaner
+* Black sacks
+
+Food/Snacks/Lunch
+-----------------
+
+* Food
+    * Equipment
+        * Paper Tabelcloths
+        * Napkins (x100)
+        * Wooden Cutlery
+    * Eatable
+        * Cereal Bars
+        * Crips
+        * Water
+        * Cans of Drink
 
 
 Volunteers
