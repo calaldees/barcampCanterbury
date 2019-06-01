@@ -220,18 +220,20 @@ Equipment
 * Vacuum Cleaner
 * Black sacks
 
+
 Food/Snacks/Lunch
 -----------------
 
 * Food
     * Equipment
         * Paper Tabelcloths
-        * Napkins (x100)
+        * Napkins
         * Wooden Cutlery
     * Eatable
+        * Water
         * Cereal Bars
         * Crips
-        * Water
+        * Mini sweeties
         * Cans of Drink
 
 
