@@ -5,6 +5,8 @@ Greetings BarCampers!
 
 BarCamp Canterbury is only a week away, so here's some information about the event.
 
+< Having trouble reading this email? You can read it in your browser [here]() >
+
 ## What to expect
 
 ### 4 rooms for talks
