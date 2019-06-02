@@ -1,5 +1,5 @@
-Helpers Guide
-=============
+Volunteers Guide
+================
 
 To run BarCamp we need a number of volunteers to provide a range of roles.
 
@@ -39,6 +39,8 @@ Car transport required - maybe quickly purchase ice on route
             * Masking tape
             * Serving spoons
             * Whiteboard pens + cleaning fluid
+
+???: What could we do to ensure that 'Customer Support' or 'key organisers' are identifiable?
 
 
 Social Media Team
@@ -141,13 +143,15 @@ Pizza Overwatch Team
     * See lunch overwatch
 
 
-Cleanup Crew
-------------
+Teardown Crew
+-------------
 
 9001x
 
 * 17:40 Bring car to front
 * 17:45 Teardown everything
-    * Stash equipment in car
+    * Take signs down
     * Rubbish bags?? (Where do we put them?)
     * Pizza box's? (Where do we put them?)
+    * Rearrange tables back to start of day
+    * Stash equipment in car

@@ -214,11 +214,18 @@ Activities
 Equipment
 ---------
 
-* Foyer - Projector - displaying timetable (optional)
-* Ducktape (for cables)
-* Cleaning Spray
-* Vacuum Cleaner
-* Black sacks
+* Required
+    * DuckTape (for cables)
+    * Masking tape (for signs)
+    * Cleaning Spray
+    * Vacuum Cleaner
+    * Black sacks
+    * Serving spoons (for lunch bits)
+    * Power extender cassette
+    * Adaptors for projector/display USB-c, displayport, HDMI, etc
+    * White board pens + cleaner
+* Optional
+    * Foyer - Projector - displaying timetable
 
 
 Food/Snacks/Lunch
@@ -235,22 +242,6 @@ Food/Snacks/Lunch
         * Crips
         * Mini sweeties
         * Cans of Drink
-
-
-Volunteers
-----------
-
-* Roles
-    * Customer Service (identifiable?)
-* Move Equipment
-    * Bring food up
-* Manage welcome desk
-    * Sign people in
-* Tidyup
-    * Rubbish
-    * Rearange space
-    * Take signs down
-* Talk Camera setup and monitoring (see section below)
 
 
 Other Local Groups/Events
