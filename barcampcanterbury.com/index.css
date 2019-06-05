@@ -83,3 +83,7 @@ a.btn {
 #supporters .card-body {
     padding: 0.25em;
 }
+
+#sponsors .card {
+    margin-bottom: 1em;
+}
