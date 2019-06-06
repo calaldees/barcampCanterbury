@@ -106,8 +106,11 @@ Food Runners
 * 11:30? Sainsburys run (in car)
     * Sainsburys will have our lunch available for collection from 10am
         * Order number needed for collection
-            * document should be on google drive
+            * Document should be on google drive
     * Buy 4 bags of ice (to cool drinks)
+    * Additional food provision (Vegan, Gluten Free, Other)
+        * May require separate runners
+        * Sainsburys and ASDA have no Vegan provisions - M&S and Waitrose have have a small range
 
 
 Lunch Overwatch Team
@@ -120,6 +123,10 @@ Lunch Overwatch Team
     * Cycle drinks (iced?)
         * Empty (water from ice box's if needed)
     * Continually tidy away truly disposable items (empty drinks cans, empty plates)
+    * Compact down all food to minimum number of tables at the end of lunch
+    * Liquid disposal (toilets?)
+        * Unfinished drinks to be poured away before being disposed of
+        * Water from ice box's may need emptying
 
 
 Emergency Food Runners
@@ -138,7 +145,7 @@ Pizza Overwatch Team
 
 2x
 
-* 17:00 - Get pizzas from car park on tables
+* 16:45 - Get pizzas from car park on tables
 * 17:00 - 17:45
     * See lunch overwatch
 

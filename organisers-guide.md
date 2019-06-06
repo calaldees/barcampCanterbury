@@ -273,6 +273,13 @@ Provide a google shared drive to accept uploads from attendees
     * Minimal post processing: audio compression, sycning, title/end graphic (via script), upload
     * If they don't record - not the end of the world - no panic - no stress - no worry
 
+
+Emergencys
+----------
+
+* University of Ken [Emergency Campus Watch Contact](https://www.kent.ac.uk/student/safety/) - 01227 823333
+
+
 Community Beyond the event
 --------------------------
 
