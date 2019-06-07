@@ -98,6 +98,19 @@ Opening Talk (Usher)
     * Ask late arrivals to register once the opening talk has finished.
 
 
+Late Welcome Watch
+------------------
+
+2x
+
+* 10:30 to 13:00
+    * There will be late arrivales
+    * Identify them
+    * Get them a name badge
+    * Tick their attendence
+    * Tell them about the format
+
+
 Food Runners
 ------------
 
@@ -138,6 +151,19 @@ Emergency Food Runners
     * In prep for supper
     * Drink/other supplies dwindling?
     * More ice?
+
+
+Alternate Food Provision Orderer
+--------------------------------
+
+1x
+
+* 15:00ish
+    * We have Vegans/Other that require food ordered on the day to coincide with pizza at 17:00
+    * You will be given a wadge of cash
+    * Co-ordinate with the identified alternate food people
+    * Order food (phone or internet)
+    * Email the receipt to allan@barcampcanterbury.com
 
 
 Pizza Overwatch Team
