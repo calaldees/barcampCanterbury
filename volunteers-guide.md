@@ -4,8 +4,8 @@ Volunteers Guide
 To run BarCamp we need a number of volunteers to provide a range of roles.
 
 
-Event Setup
------------
+Setup Team
+----------
 
 ?x
 
@@ -28,7 +28,7 @@ Car transport required - maybe quickly purchase ice on route
             * Merge drinks with ice box's
             * Open cereal bars and crisp multi-packs
     * Eventrooms
-        * Setup video recording equipment (Matt)
+        * Setup video recording equipment (Video Specalist)
         * Layout rooms (appropriate for talks)
     * Equipment stash space
         * Find space for
