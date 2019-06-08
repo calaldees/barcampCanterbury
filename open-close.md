@@ -71,8 +71,10 @@
 
  * Thanks the sponsors and supporters again
 
- * Up-coming BarCamps -- ask Paul to say a few words?
+ * Up-coming Events
+    * BarCamps - Paul
+    * Code Harbour - Alex
 
- * Social event at the Gulb.
+ * Social - let's head to the Gulbenkian cafe for drinks and social
 
  * Please help to tidy up.
