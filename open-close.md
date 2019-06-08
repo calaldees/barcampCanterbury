@@ -7,9 +7,23 @@
  * Brief Barcamp Canterbury backstory
 
  * Thanks the sponsors
+
     * School of computing
+      The school of Computing has generously donated the venue Woolf College
+      for this event
+
     * Fruitworks Coworking
+      Offering flexible monthly hot-desking and coworking in Canterbury’s city
+      centre. Last years Fruitworks was voted the best Coworking space in
+      Canterbury
+
     * Level Up Games
+      Based just off Canterbury's main high street, Level Up Games buy, sell,
+      and trade in video games and consoles from all eras!
+
+    * Deeson
+      Canterbury-based digital agency Deeson designs and builds web platforms
+      for some of the biggest brands in the UK. Deeson are currently hiring.
 
  * Thanks the supporters
 
