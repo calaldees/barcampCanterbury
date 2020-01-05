@@ -20,14 +20,16 @@ Venue
 
 * Event
     * Event rooms
-        * [University of Kent: School of Computing](https://www.cs.kent.ac.uk/) has generously donated space in previous years.
+        * [University of Kent: School of Computing](https://www.cs.kent.ac.uk/) has generously donated space in previous years
+    * Hands on Space
+        * People bring in cool things to show
+            * E.g. sewing machines, retro machines, electronics
     * Workshop Space (optional)
-        * General conference rooms are not suitable for practical workshop activities
-            * It may be possible to utilise the _Shed_ for workshop sessions.
+        * For for 2+ day events
     * Evening social/food Venue
         * for continued socialising should be organised.
-        * Transport and accessibility for attendees between venues should be considered.
-        * [Gulbenkian cafe](https://thegulbenkian.co.uk/your-visit/eat-drink/) event catering have cordoned off areas in previous years.
+        * Transport and accessibility for attendees between venues should be considered
+        * [Gulbenkian cafe](https://thegulbenkian.co.uk/your-visit/eat-drink/) event catering have cordoned off areas in previous years
 
 Accessibility should be considered
 * Wheelchair access
@@ -131,22 +133,19 @@ Signs & Printing
 ----------------
 
 ### Printed
-
 * Attendee list
+    * Collect data on how they heard of the event
 * Room Signs
 * twitter `#tag`
 
 ### Outside Venue
-
-* Vinyl banner
+* Direction Arrows
+* Vinyl banner?
 
 ### Foyer
-
 * Photography Warning (there will be photos taken)
 
 ### Event Rooms
-
-* Room names outside rooms
 * Vinyl stands (reusable)
 
 Sponsors
@@ -205,15 +204,18 @@ Activities
 ----------
 
 * PowerPoint Karaoke
-* Workshop Space
-    * We may be able to bulk order some cheap components and provide a soldering workshop.
 * Swap Shop
     * Small working devices or tools that your are not using to be given to other hackers that needs them
+* Mini Lightening talks
+    * 5 min
+    * Safer than a 30min talk
 
 
 Equipment
 ---------
 
+* 1 Week before the event
+    * Check AV tech
 * Required
     * DuckTape (for cables)
     * Masking tape (for signs)
@@ -224,6 +226,9 @@ Equipment
     * Power extender cassette
     * Adaptors for projector/display USB-c, displayport, HDMI, etc
     * White board pens + cleaner
+    * Signs
+        * Rooms
+        * Directions
 * Optional
     * Foyer - Projector - displaying timetable
 
@@ -234,14 +239,15 @@ Food/Snacks/Lunch
 * Food
     * Equipment
         * Paper Tabelcloths
-        * Napkins
-        * Wooden Cutlery
-    * Eatable
+        * Hot Water Urn
+    * Light Refreshment
         * Water
-        * Cereal Bars
-        * Crips
-        * Mini sweeties
-        * Cans of Drink
+        * Fruit
+        * Tea/InstantCoffee/Mink/Sugar
+        * Disposable cups
+            * Ask attendees to bring cup (in email)
+    * Lunch
+        * Order pizza (book in advance)
 
 
 Other Local Groups/Events

@@ -3,6 +3,11 @@ Previous Events
 
 * [#bccant](https://twitter.com/search?q=%23bccant)
 
+2019
+----
+
+[website](https://web.archive.org/web/20190606203132/http://barcampcanterbury.com/)
+
 2015
 ----
 
