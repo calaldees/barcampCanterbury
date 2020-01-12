@@ -21,7 +21,8 @@
 }
 .banner .text_center {
     margin: 10vh;
-    font-size: 5vh;
+    font-size: 3vw;
+    flex-grow: 1;
 }
 
 .text_center {
@@ -33,7 +34,8 @@ h1 {
     display: inline-block;
     vertical-align: middle;
     margin: 0.5em;
+    font-size: revert;
 }
 .logo {
-    height: 3rem;
+    height: 25vh;
 }
