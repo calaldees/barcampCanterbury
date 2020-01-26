@@ -5,12 +5,14 @@ BarCamp Canterbury is a free-to-attend un-conference where the attendees create 
 
 BarCamps are memorable events that are heavily reported and shared by the attendees via social media. Previous events can be seen on Twitter [@barcampcant](https://twitter.com/barcampcant) [#bccant](https://twitter.com/search?q=%23bccant). Read more about BarCamp Canterbury at [barcampcanterbury.com](https://barcampcanterbury.com/). The event hosts about 100 attendees.
 
-Sponsors help us provide:
-* Refreshments - Lunch and Snacks (to keep attendees focused on the content and build a community)
-    * Lunch £180 (Pizzas for 100 people)
-    * Snacks (Water and Fruit) £30
-
 Even if you are unable to contribute financially, providing freebies or prizes would always be appreciated by attendees.
+
+Talking at our event about interesting topics that may relate to your business/area are always valued.
+
+Sponsors would help us:
+* Provide Refreshments - Lunch and Snacks (to keep attendees focused on the content and build a community)
+    * Lunch £180 (Pizzas for 100 people)
+    * Snacks (Water and Fruit) £60
 
 We would be able to provide your company with:
 * Your logo displayed in the [sponsors section](http://barcampcanterbury.com/#sponsors) of our Website
