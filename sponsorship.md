@@ -15,13 +15,14 @@ Sponsors would help us:
     * Snacks (Water and Fruit) £60
 
 We would be able to provide your company with:
-* Your logo displayed in the [sponsors section](http://barcampcanterbury.com/#sponsors) of our Website
-* Shout-outs
-    * on Social Media in the run-up to the event
-        * [Example1](https://twitter.com/barcampcant/status/1136278431929384961) [Example2](https://twitter.com/barcampcant/status/1129743602504982528) [Example3](https://twitter.com/barcampcant/status/1117764563775172609)
+* Your logo displayed in
+    * Our Websites [sponsors section](http://barcampcanterbury.com/#sponsors)
     * [Flyers](https://twitter.com/codeHarbour/status/1126086479422341120)
     * Digital Signage (in the School of Computing)
     * YouTube Videos (in-progress; we are working on uploading talks from 2019)
+* Shoutouts
+    * on Social Media in the run-up to the event
+    * [Example1](https://twitter.com/barcampcant/status/1136278431929384961) [Example2](https://twitter.com/barcampcant/status/1129743602504982528) [Example3](https://twitter.com/barcampcant/status/1117764563775172609)
     * at the event
 
 Please let us know if you are interested in sponsoring this event.
