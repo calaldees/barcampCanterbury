@@ -59,10 +59,10 @@ We are flexible with suggestions.
 Logo Format Guidance
 --------------------
 
-If you do sponsor our event and want band exposure. Please provide a logo that meets the following criteria.
+If you do sponsor our event and want brand exposure. Please provide a logo that meets the following criteria.
 * SVG format (png as a fallback)
 * Sufficient padding
 * Suitable for use on a white background
 * Aspect ratio between 1:1 and 16:6
 
-We will use this logo in sections titled _Sponsors_ or _Supported By_
+We will use this logo in sections titled _Sponsors_ or _Supported By_ on our website, printed media and digital signage.
