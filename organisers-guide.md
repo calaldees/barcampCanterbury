@@ -21,7 +21,7 @@ Venue
 * Event
     * Event rooms
         * [University of Kent: School of Computing](https://www.cs.kent.ac.uk/) has generously donated space in previous years
-    * Hands on Space
+    * Hands-on and Share Space
         * People bring in cool things to show
             * E.g. sewing machines, retro machines, electronics
     * Workshop Space (optional)
@@ -40,9 +40,13 @@ Accessibility should be considered
 Branding
 --------
 
+Historically
 https://github.com/vext01/barcamp-canterbury-branding
+It would be good to keep all resources in a single repo
 
 Use of the University of Kent logo is restricted to formal university activities only.
+We can use the Kent logo only in the context of School of Computing.
+LINK
 
 Catering
 --------

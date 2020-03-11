@@ -237,11 +237,6 @@
 
 
 		<h2>Sponsors</h2>
-		<div class="row">
-			<div class="col">
-				<p>If you would like to sponsor BarCamp Canterbury, please read the <a href="https://github.com/calaldees/barcampCanterbury/blob/master/sponsorship.md#sponsorship">additional sponsorship details</a> and <a href="mailto:allan@barcampcanterbury.com">email us</a>.</p>
-			</div>
-		</div>
 		<div class="row my-3" id="sponsors">
 			<script>
 				function build_sponsors(data) {
@@ -255,7 +250,7 @@
 						$sponsors.append(`
 						<div class="col-sm-6 col-md-6 col-lg-4" style="display: flex">
 							<div class="card">
-								<img src="${sponsor.image || IMG_NULL}" class="card-img-top" alt="${sponsor.name}">
+								<img src="${sponsor.image || IMG_NULL}" class="card-img-top" alt="${sponsor.name}" style="${sponsor.image_style || ''}">
 								<div class="card-body">
 									<h5 class="card-title">${sponsor.name}</h5>
 									<p class="card-text">${sponsor.description || ''}</p>
@@ -276,6 +271,12 @@
 			<div class="w-100"></div>
 			-->
 		</div>
+		<div class="row">
+			<div class="col">
+				<p>If you would like to sponsor BarCamp Canterbury, please read the <a href="https://github.com/calaldees/barcampCanterbury/blob/master/sponsorship.md#sponsorship">additional sponsorship details</a> and <a href="mailto:allan@barcampcanterbury.com">email us</a>.</p>
+			</div>
+		</div>
+
 
 
 		<h2>Visiting</h2>
