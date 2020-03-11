@@ -19,6 +19,14 @@ build_sponsors([
         linkedin: '​https://www.linkedin.com/company/thefamiliar',
     },
     /*
+    {
+        name: 'Mythic Beasts',
+        href: 'https://www.mythic-beasts.com/',
+        href_text: 'Website',
+        description: 'Mythic Beasts is a privately owned hosting ISP with a focus on a no-nonsense service backed by excellent technical support',
+        image: 'images/sponsors/mythic-beasts.svg',
+        twitter: 'Mythic_Beasts',
+    },
 
 
 

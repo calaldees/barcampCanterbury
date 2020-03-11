@@ -57,6 +57,12 @@ a.btn {
     color: white !important;
 }
 
+.image-flow-set .img-thumbnail {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
 #sponsors img {
     object-fit: contain;
     max-height: 10em;
