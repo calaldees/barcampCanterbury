@@ -10,6 +10,15 @@ build_sponsors([
         image_style: "padding: 1.2em;",
     },
     {
+        name: 'Mythic Beasts',
+        href: 'https://www.mythic-beasts.com/',
+        href_text: 'Website',
+        description: 'Mythic Beasts is a privately owned hosting ISP with a focus on a no-nonsense service backed by excellent technical support',
+        image: 'https://www.mythic-beasts.com/static/img/logo.png',
+        twitter: 'Mythic_Beasts',
+        image_style: "padding: 1.2em;",
+    },
+    {
         name: 'The Familiar',
         href: 'https://www.thefamiliar.tech/',
         href_text: 'Website',
@@ -18,18 +27,19 @@ build_sponsors([
         twitter: '_The_Familiar',
         linkedin: '​https://www.linkedin.com/company/thefamiliar',
     },
-    /*
     {
-        name: 'Mythic Beasts',
-        href: 'https://www.mythic-beasts.com/',
+        name: 'Sustainability Monitor',
+        href: 'https://susmon.com/',
         href_text: 'Website',
-        description: 'Mythic Beasts is a privately owned hosting ISP with a focus on a no-nonsense service backed by excellent technical support',
-        image: 'images/sponsors/mythic-beasts.svg',
-        twitter: 'Mythic_Beasts',
+        description: 'Tracking the sustainability claims of multinational companies',
+        image: 'https://susmon.com/wp-content/uploads/2019/05/susmon-logo-cropped.png',
+        twitter: 'SusMonitor',
+        linkedin: '',
+        image_style: "padding: 1.2em;",
     },
 
 
-
+/*
     {
         name: 'Fruitworks Coworking',
         href: 'https://fruitworks.co/',

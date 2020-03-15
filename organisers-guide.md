@@ -81,32 +81,21 @@ Website
 Sponsorship
 -----------
 
-### Approach
+Identify _Sponsorship Objectives_.
+Testimonials from previous sponsors.
+Social Media Reach
+Attendees
+Years running
+Videos
 
-#### In person
-* Update relevant version of the letter new/returning with the name of the person you are approaching.
-    * If unsure use Sir/Madam.
-* Print of a take with you, preferably in an envelope to keep it neet.
-#### By email
-* If you do not know the company/person emails should be sent from a _@barcampcanterbury.com_ address.
-* If you know someone at the company personally feel free to use your personal email but CC _@barcampcantebury.com_ in.
-* Update relevant version of the letter new/returning with the name of the person you are approaching.
-    * If unsure use Sir/Madam.
-* Export letter as pdf and attach to email.
-* Write a short cover note in the body of the email.
+Example feedback pitch
+https://www.slideshare.net/Eventbrite/pitchdeck-34422979
+https://www.eventbrite.co.uk/blog/guide-to-event-sponsorship-ds00/
+https://www.slideshare.net/Lizziehodgson01/thinknation-brave-fun-and-important-unlike-anything-ive-seen-before?qid=0dd2f65b-d357-4c20-a52a-f7d0888c09d9&v=&b=&from_search=2
+include quotes
+include photos
+Year long benefits
 
-> Hi,
->
-> I am helping organise BarCamp Canterbury; a free-to-attend community tech un-conference.
-> http://barcampcanterbury.com
-> The event is full of tech tinker-ers and tech hackers.
->
-> We are investigating sponsors for this years event.
-> Additional sponsorship information is available at https://github.com/calaldees/barcampCanterbury/blob/master/sponsorship.md#sponsorship
->
-> Even if you are unable to support financially, any freebies you could provide to hand-out to attendees would be greatly appreciated.
->
-> Let me know if this event is of any interest to you.
 
 
 Advertising

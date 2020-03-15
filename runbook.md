@@ -26,6 +26,8 @@ Checklist for running BarCamp
 2 Months Before
 ---------------
 
+* Hold a progress meeting
+    * Have a date in advance
 * Setup digital signage
     * University of Kent - School of Computing
 * Get in touch with cool possible speakers
@@ -42,6 +44,8 @@ Checklist for running BarCamp
 1 Month Before
 --------------
 
+* Hold a progress meeting
+    * Have a date in advance
 * Print Vinyl Banners
 * Print Mugs (2 weeks before)
 * Cement coffee provision
