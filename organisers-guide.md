@@ -215,28 +215,6 @@ Activities
     * Safer than a 30min talk
 
 
-Equipment
----------
-
-* 1 Week before the event
-    * Check AV tech
-* Required
-    * DuckTape (for cables)
-    * Masking tape (for signs)
-    * Cleaning Spray
-    * Vacuum Cleaner
-    * Black sacks
-    * Serving spoons (for lunch bits)
-    * Power extender cassette
-    * Adaptors for projector/display USB-c, displayport, HDMI, etc
-    * White board pens + cleaner
-    * Signs
-        * Rooms
-        * Directions
-* Optional
-    * Foyer - Projector - displaying timetable
-
-
 Food/Snacks/Lunch
 -----------------
 
