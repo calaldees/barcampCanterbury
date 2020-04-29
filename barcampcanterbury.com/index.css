@@ -67,6 +67,20 @@ a.btn {
     object-fit: cover;
 }
 
+#talks a { margin: 0px; display: block; width: 100%; height: 100%; color: inherit; text-decoration: none;}
+#talks img {
+    object-fit: cover;
+    height: 6em;
+    width: 6em;
+}
+#talks h5 span {
+    font-size: 0.8rem;
+    color: grey;
+}
+#talks p {
+    margin: 0;
+}
+
 #sponsors img {
     object-fit: contain;
     max-height: 10em;

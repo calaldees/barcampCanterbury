@@ -119,6 +119,67 @@
 
 			</div>
 		</div>
+
+		<h3>Scheduled Live Talks on 9th May</h3>
+		<div class="my-3 alert alert-primary" role="alert" style="text-align: center;">
+			To signup for a talk, update this <a href="https://docs.google.com/spreadsheets/d/1OekUZ8BsxRxY0qEUEDVSUg6D8YuqF23UMHAr9vbWcsM/edit?usp=sharing">GoogleSheet</a> and the site will auto-magicly update (within 5min)
+		</div>
+
+		<div class="row my-3">
+			<ul id="talks">
+			</ul>
+
+			<script>
+				function build_talks(data) {
+					const $talks = $('#talks');
+					for (let talk of data) {
+						$talks.append(`
+							<a href="${talk.url || ''}">
+							<li class="media">
+								<img src="${talk.image_url || ''}" class="mr-3">
+								<div class="media-body">
+									<h5 class="mt-0 mb-1">${talk.title} <span>(${talk.duration_in_mins} min)</span></h5>
+									<p class="speaker">by ${talk.speaker_name} (${talk.twitter_username})</p>
+									<p>${talk.description}</p>
+								</div>
+							</li>
+							</a>
+						`);
+					}
+				}
+
+				function parseGoogleSheetData(data) {
+					function* cells() {
+						for (let entry of data.feed.entry) {yield entry['gs$cell'];}
+					}
+					const _col_heading_lookup = [...cells()].reduce((acc, cell)=>{
+						if (cell.row == "1") {
+							acc[cell.col] = cell.inputValue;
+						}
+						return acc;
+					}, {});
+					const rows = [...cells()].reduce((acc, cell)=>{
+						if (cell.row == "1") {return acc;}
+						const row = `row${cell.row - 1}`
+						if (!acc.hasOwnProperty(row)) {acc[row] = {};}
+						acc[row][_col_heading_lookup[cell.col]] = cell.inputValue;
+						return acc;
+					}, {});
+					return Object.values(rows);
+				}
+				// get GoogleSheet data
+				// https://www.freecodecamp.org/news/cjn-google-sheets-as-json-endpoint/
+				fetch(
+					'https://spreadsheets.google.com/feeds/cells/1OekUZ8BsxRxY0qEUEDVSUg6D8YuqF23UMHAr9vbWcsM/1/public/full?alt=json',
+					{method: 'GET', headers: {}},
+				)
+				.then(function (response) {return response.json();})
+				.then(parseGoogleSheetData)
+				.then(build_talks);
+			</script>
+
+		</div>
+
 		<div class="row my-3">
 			<div class="col-lg mx-3">
 				<h3>Talk Structure</h3>
@@ -138,6 +199,7 @@
 				<p>This virtual event could help us test the technology to see if live streaming our upcoming physical events could be possible</p>
 			</div>
 		</div>
+
 
 
 		<h2 class="">Physical Event</h2>
