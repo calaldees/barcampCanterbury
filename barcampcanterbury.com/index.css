@@ -19,6 +19,10 @@ a {
 .navbar .logo {
     height: 2em;
 }
+.navbar .icons img {
+    width: 32px;
+    height: 32px;
+}
 .navbar.navbar-dark a {
     color: white;
 }
