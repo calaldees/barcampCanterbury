@@ -133,8 +133,8 @@
 				function build_talks(data) {
 					const $talks = $('#talks');
 					for (let talk of data) {
+						//<a href="${talk.url || ''}">
 						$talks.append(`
-							<a href="${talk.url || ''}">
 							<li class="media">
 								<img src="${talk.image_url || ''}" class="mr-3">
 								<div class="media-body">
@@ -143,7 +143,6 @@
 									<p>${talk.description}</p>
 								</div>
 							</li>
-							</a>
 						`);
 					}
 				}
