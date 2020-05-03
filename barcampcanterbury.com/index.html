@@ -56,6 +56,9 @@
 				<a href="https://en-gb.facebook.com/barcampcanterbury/">
 					<img src="images/icons/social-1_round-facebook.svg" alt="Facebook"/>
 				</a>
+				<a href="https://www.youtube.com/channel/UCVAXGA8Y9bfdypx160rSJgw">
+					<img src="images/icons/social-1_round-youtube.svg" alt="YouTube"/>
+				</a>
 
 				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="display: inline-block; vertical-align: top;">
 					<input type="hidden" name="cmd" value="_s-xclick" />
@@ -89,21 +92,19 @@
 				<h3>What</h3>
 				<p>The UK is currently in lockdown because of Covid-19; but we can still collaborate/share our projects/ideas using modern browser based streaming tools</p>
 				<p><a href="https://en.wikipedia.org/wiki/BarCamp">BarCamp</a>'s are traditionally free-to-attend tech <a href="https://en.wikipedia.org/wiki/Unconference">unconference</a> where the attendees give talks about their projects/experiences</p>
-				<p>We invite anyone from our Canterbury community (or further afield) to join us on our live-stream and talk about cool tech stuff</p>
+				<p>We invite anyone from our Canterbury community (or further afield) to join us on our live-stream and talk about cool tech/science stuff</p>
 			</div>
 			<div class="col-sm mx-3">
 				<h3>Where</h3>
 				<p>We will broadcast over <a href="https://www.facebook.com/events/221385545794285/?notif_t=event_calendar_create&notif_id=1586782693104843">FacebookLive</a> and <a href="https://www.youtube.com/channel/UCVAXGA8Y9bfdypx160rSJgw">YoutubeLive</a></p>
-				<p>Speakers/Participants will be able to join our online broadcast studio on <a href="https://streamyard.com">StreamYard</a></p>
-				<p>Links to join/participate will be shared on this webpage and social media shortly before the event</p>
+				<p>Speakers/Presenters will be able to join our online broadcast studio on <a href="https://streamyard.com">StreamYard</a></p>
+				<p>Signup below to give a talk!</p>
 			</div>
 			<div class="col-sm mx-3">
 				<h3>When</h3>
 				<p>Saturday 9th May 2020</p>
 				<ul>
-					<li>Virtual Studio Opens at 10am</li>
 					<li>Streaming begins at 11am</li>
-					<li>First talk at 11:10am</li>
 				</ul>
 
 				<div title="Add to Calendar" class="addeventatc">
@@ -138,7 +139,7 @@
 							<li class="media">
 								<img src="${talk.image_url || ''}" class="mr-3">
 								<div class="media-body">
-									<h5 class="mt-0 mb-1">${talk.title} <span>(${talk.duration_in_mins} min)</span></h5>
+									<h5 class="mt-0 mb-1"><a href="${talk.url || ''}">${talk.title}</a> <span>(${talk.duration_in_mins} min)</span></h5>
 									<p class="speaker">by ${talk.speaker_name} (${talk.twitter_username})</p>
 									<p>${talk.description}</p>
 								</div>
