@@ -96,7 +96,7 @@
 			</div>
 			<div class="col-sm mx-3">
 				<h3>Where</h3>
-				<p>We will broadcast over <a href="https://www.facebook.com/events/221385545794285/?notif_t=event_calendar_create&notif_id=1586782693104843">FacebookLive</a> and <a href="https://www.youtube.com/channel/UCVAXGA8Y9bfdypx160rSJgw">YoutubeLive</a></p>
+				<p>We will broadcast over <a href="https://www.youtube.com/channel/UCVAXGA8Y9bfdypx160rSJgw/videos?view=2&flow=grid">YoutubeLive</a> and <a href="https://www.facebook.com/barcampcanterbury/">FacebookLive</a></p>
 				<p>Speakers/Presenters will be able to join our online broadcast studio on <a href="https://streamyard.com">StreamYard</a></p>
 				<p>Signup below to give a talk!</p>
 			</div>
@@ -122,9 +122,16 @@
 		</div>
 
 		<h3>Scheduled Live Talks on 9th May</h3>
+
+		<div class="my-3 alert alert-secondary" role="alert" style="text-align: center;">
+			View live talks on 9th May on <a href="https://www.youtube.com/channel/UCVAXGA8Y9bfdypx160rSJgw/videos?view=2&flow=grid">YouTubeLive</a> or <a href="https://www.facebook.com/barcampcanterbury/">FacebookLive</a>. Comment on the videos or join our <a href="https://discord.gg/ExMHeCb">Discord channel</a> to participate!
+		</div>
+
+		<!--
 		<div class="my-3 alert alert-primary" role="alert" style="text-align: center;">
 			To signup for a talk, update this <a href="https://docs.google.com/spreadsheets/d/1OekUZ8BsxRxY0qEUEDVSUg6D8YuqF23UMHAr9vbWcsM/edit?usp=sharing">GoogleSheet</a> and the site will auto-magicly update (within 5min)
 		</div>
+		-->
 
 		<div class="row my-3">
 			<ul id="talks">
@@ -137,11 +144,11 @@
 						//<a href="${talk.url || ''}">
 						$talks.append(`
 							<li class="media">
-								<img src="${talk.image_url || ''}" class="mr-3">
+								<img src="${talk.image_url || 'images/barcampcanterbury_logo.png'}" class="mr-3">
 								<div class="media-body">
-									<h5 class="mt-0 mb-1"><a href="${talk.url || ''}">${talk.title}</a> <span>(${talk.duration_in_mins} min)</span></h5>
-									<p class="speaker">by ${talk.speaker_name} (${talk.twitter_username})</p>
-									<p>${talk.description}</p>
+									<h5 class="mt-0 mb-1"><a href="${talk.url || ''}">${talk.title}</a> <span>(${talk.duration_in_mins || 'X'} min)</span> <span>${talk.timeslot || ''}</span></h5>
+									<p class="speaker">by ${talk.speaker_name || ''} (${talk.twitter_username || ''})</p>
+									<p>${talk.description || ''}</p>
 								</div>
 							</li>
 						`);
@@ -149,8 +156,9 @@
 				}
 
 				function parseGoogleSheetData(data) {
+					console.log(data);
 					function* cells() {
-						for (let entry of data.feed.entry) {yield entry['gs$cell'];}
+						for (let entry of data.feed.entry) {yield {...entry['gs$cell'], ...entry['content']};}
 					}
 					const _col_heading_lookup = [...cells()].reduce((acc, cell)=>{
 						if (cell.row == "1") {
@@ -162,7 +170,7 @@
 						if (cell.row == "1") {return acc;}
 						const row = `row${cell.row - 1}`
 						if (!acc.hasOwnProperty(row)) {acc[row] = {};}
-						acc[row][_col_heading_lookup[cell.col]] = cell.inputValue;
+						acc[row][_col_heading_lookup[cell.col]] = cell['$t'];
 						return acc;
 					}, {});
 					return Object.values(rows);
