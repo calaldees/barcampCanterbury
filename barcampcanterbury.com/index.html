@@ -86,132 +86,6 @@
 
 	<div class="container">
 
-		<h2 class="my-3">Virtual/Online/LiveStreamed Event</h2>
-		<div class="row my-3">
-			<div class="col-sm mx-3">
-				<h3>What</h3>
-				<p>The UK is currently in lockdown because of Covid-19; but we can still collaborate/share our projects/ideas using modern browser based streaming tools</p>
-				<p><a href="https://en.wikipedia.org/wiki/BarCamp">BarCamp</a>'s are traditionally free-to-attend tech <a href="https://en.wikipedia.org/wiki/Unconference">unconference</a> where the attendees give talks about their projects/experiences</p>
-				<p>We invite anyone from our Canterbury community (or further afield) to join us on our live-stream and talk about cool tech/science stuff</p>
-			</div>
-			<div class="col-sm mx-3">
-				<h3>Where</h3>
-				<p>We will broadcast over <a href="https://www.youtube.com/channel/UCVAXGA8Y9bfdypx160rSJgw/videos?view=2&flow=grid">YoutubeLive</a> and <a href="https://www.facebook.com/barcampcanterbury/">FacebookLive</a></p>
-				<p>Speakers/Presenters will be able to join our online broadcast studio on <a href="https://streamyard.com">StreamYard</a></p>
-				<p>Signup below to give a talk!</p>
-			</div>
-			<div class="col-sm mx-3">
-				<h3>When</h3>
-				<p>Saturday 9th May 2020</p>
-				<ul>
-					<li>Streaming begins at 11am</li>
-				</ul>
-
-				<div title="Add to Calendar" class="addeventatc">
-					Add to Calendar
-					<span class="start">05/09/2020 11:00</span>
-					<span class="end">05/09/2020 14:00</span>
-					<span class="timezone">UK/London</span>
-					<span class="title">Barcamp Canterbury</span>
-					<span class="location">Canterbury, Kent, UK</span>
-					<span class="organizer_email">allan@barcampcanterbury.com</span>
-					<span class="alarm_reminder">1440</span>
-				</div>
-
-			</div>
-		</div>
-
-		<h3>Scheduled Live Talks on Saturday 9th May</h3>
-
-		<div class="my-3 alert alert-secondary" role="alert" style="text-align: center;">
-			View live talks on 9th May on <a href="https://www.youtube.com/channel/UCVAXGA8Y9bfdypx160rSJgw/videos?view=2&flow=grid">YouTubeLive</a> or <a href="https://www.facebook.com/barcampcanterbury/">FacebookLive</a>. Comment on the videos or join our <a href="https://discord.gg/ExMHeCb">Discord channel</a> to participate!
-		</div>
-
-		<!--
-		<div class="my-3 alert alert-primary" role="alert" style="text-align: center;">
-			To signup for a talk, update this <a href="https://docs.google.com/spreadsheets/d/1OekUZ8BsxRxY0qEUEDVSUg6D8YuqF23UMHAr9vbWcsM/edit?usp=sharing">GoogleSheet</a> and the site will auto-magicly update (within 5min)
-		</div>
-		-->
-
-		<div class="row my-3">
-			<ul id="talks">
-			</ul>
-
-			<script>
-				function build_talks(data) {
-					const $talks = $('#talks');
-					for (let talk of data) {
-						//<a href="${talk.url || ''}">
-						$talks.append(`
-							<li class="media">
-								<img src="${talk.image_url || 'images/barcampcanterbury_logo.png'}" class="mr-3">
-								<div class="media-body">
-									<h5 class="mt-0 mb-1"><a href="${talk.url || ''}">${talk.title}</a> <span>(${talk.duration_in_mins || 'X'} min)</span> <span>${talk.timeslot || ''}</span></h5>
-									<p class="speaker">by ${talk.speaker_name || ''} (${talk.twitter_username || ''})</p>
-									<p>${talk.description || ''}</p>
-								</div>
-							</li>
-						`);
-					}
-				}
-
-				function parseGoogleSheetData(data) {
-					console.log(data);
-					function* cells() {
-						for (let entry of data.feed.entry) {yield {...entry['gs$cell'], ...entry['content']};}
-					}
-					const _col_heading_lookup = [...cells()].reduce((acc, cell)=>{
-						if (cell.row == "1") {
-							acc[cell.col] = cell.inputValue;
-						}
-						return acc;
-					}, {});
-					const rows = [...cells()].reduce((acc, cell)=>{
-						if (cell.row == "1") {return acc;}
-						const row = `row${cell.row - 1}`
-						if (!acc.hasOwnProperty(row)) {acc[row] = {};}
-						acc[row][_col_heading_lookup[cell.col]] = cell['$t'];
-						return acc;
-					}, {});
-					return Object.values(rows);
-				}
-				// get GoogleSheet data
-				// https://www.freecodecamp.org/news/cjn-google-sheets-as-json-endpoint/
-				fetch(
-					'https://spreadsheets.google.com/feeds/cells/1OekUZ8BsxRxY0qEUEDVSUg6D8YuqF23UMHAr9vbWcsM/1/public/full?alt=json',
-					{method: 'GET', headers: {}},
-				)
-				.then(function (response) {return response.json();})
-				.then(parseGoogleSheetData)
-				.then(build_talks);
-			</script>
-
-		</div>
-
-		<div class="row my-3">
-			<div class="col-lg mx-3">
-				<h3>Talk Structure</h3>
-				<p>The virtual event will be a bit more freeform than a traditional timetable</p>
-				<p>Talks could range from 5min to 30min</p>
-				<p>Speakers can easily join the studio via a modern web-browser with a webcam and share a second display/desktop.</p>
-				<p>We can take live questions/comments from facebook and youtube to help the stream have a live community feel</p>
-			</div>
-			<div class="col-lg mx-3">
-				<h3>Numbers</h3>
-				<p>This is just a small experiment to keep our community interacting during these difficult times</p>
-				<p>If we could get between 5 to 10 people watching the live talks that would be a good event</p>
-				<p>For now, we just want to see if an event like this could work</p>
-			</div>
-			<div class="col-lg mx-3">
-				<h3>Future of live streaming</h3>
-				<p>This virtual event could help us test the technology to see if live streaming our upcoming physical events could be possible</p>
-			</div>
-		</div>
-
-
-
-		<h2 class="">Physical Event</h2>
-
 		<div class="my-3 alert alert-danger" role="alert" style="text-align: center;">
 			The physical event 'Barcamp Canterbury 2020' has been postponed because of Covid-19
 		</div>
@@ -302,7 +176,8 @@
 				-->
 				<p>See snippets from previous events:</p>
 				<ul>
-					<li><a href="https://www.youtube.com/channel/UCVAXGA8Y9bfdypx160rSJgw">YouTube Channel</a> Talks from 2019</li>
+					<li><a href="https://www.youtube.com/playlist?list=PLVexpjGAzOBZTXZNsKWa_OXS8D0yY5H7w">Virtual BarCamp Canterbury 2020</a></li>
+					<li><a href="https://www.youtube.com/playlist?list=PLVexpjGAzOBb8o8xNAWM4fhFd8KdHR8HQ">BarCamp Cantebruy 2019</a></li>
 					<li><a href="https://twitter.com/search?src=typd&q=%23bccant">#bccant</a></li>
 					<li><a href="https://www.flickr.com/photos/jonnyentropy/albums/72157633434600085">BarCamp Canterbury 3 photos</a></li>
 					<li><a href="https://www.flickr.com/photos/vext01/albums/72157633347321185">BarCamp Canterbury 2013 photos</a></li>
@@ -332,6 +207,9 @@
 				<p>Need ideas for the topic of your talk?</p>
 				<ul>
 					<li>
+						<a href="https://docs.google.com/spreadsheets/d/1OekUZ8BsxRxY0qEUEDVSUg6D8YuqF23UMHAr9vbWcsM/edit?usp=sharing">Talk Grid Timetable for mini virtual BarCamp Canterbury 2020</a>
+					</li>
+					<li>
 						<a href="https://docs.google.com/spreadsheets/d/15Cab_062Vn9U5mYSgCINijwkz8oCMCQuPPNSUnYioCc/edit?usp=sharing">Talk Grid Timetable 2019 - Barcamp Canterbury</a>
 					</li>
 					<li>
@@ -359,7 +237,7 @@
 		<div class="row my-1">
 			<div class="col-md image-flow-set">
 				<h3>Last Year</h3>
-				<p>Last year we had talks about home automation, car meachanice, automating stage lighting, <a href="https://youtu.be/f7uwfvsxrWk">building digital badges</a>, science of creating vegan cheese, biohacking, and more ...</p>
+				<p>Last year we had talks about home automation, car mechanics, automating stage lighting, <a href="https://youtu.be/f7uwfvsxrWk">building digital badges</a>, <a href="https://youtu.be/mQNdrupclLk">science of creating vegan cheese</a>, bio-hacking, and more ...</p>
 				<p>Our theme was loosely based on 'The Fifth Element' with digital interactive badges and intriguing team based <a href="https://github.com/danielknox/Barcamp6/tree/master/Puzzle">puzzles</a></p>
 				<img src="images/2019/D8jFgcsXsAA3C7O.jpg" alt="..." class="img-thumbnail rounded float-left">
 				<img src="images/2019/D8jDLydXUAAUph5.jpg" alt="..." class="img-thumbnail rounded float-left">
@@ -434,36 +312,26 @@
 		</div>
 
 
-
-		<h2>Visiting</h2>
-
-		<h3>Transport</h3>
-		<div class="row">
-			<div class="col-md">
-				<h4>By Train &#128646;</h4>
-				<ul>
-					<li>London (St Pancras) to Canterbury West: High speed trains – journey time approximately 56 minutes. Trains depart on an hourly basis.</li>
-					<li>London (Charing Cross or Waterloo East) to Canterbury West: journey time approximately 90 minutes.</li>
-					<li>London (Victoria) to Canterbury East: journey time approximately 85 minutes.</li>
-					<li>Onward Travel:
-						<ul>
-							<li>There is a pleasant <a href="https://www.google.co.uk/maps/dir/Canterbury+West+Station,+Canterbury+CT2+8AN/Woolf+College,+Kent,+Virginia+Woolf+College+The+Pavilion,+Giles+Ln,+Canterbury/@51.2920973,1.0644335,15z/data=!4m15!4m14!1m5!1m1!1s0x47decbb6b3822607:0x74d4a56ca0064a0a!2m2!1d1.0754923!2d51.2841375!1m5!1m1!1s0x47decba7f13d5a4f:0x97a868184d1b55d6!2m2!1d1.0708494!2d51.3000791!3e2!5i1">30min walk to campus from Canterbury West</a>
-							</li>
-							<li><a href="https://www.kent.ac.uk/transport/bus/canterbury/index.html">Uni1 and Uni2</a> Bus's service the train stations</li>
-							<li>Taxis are available at the train station.</li>
-						</ul>
-					</li>
-				</ul>
+		<h2 class="my-3">Previous Virtual/Online/LiveStreamed Event</h2>
+		<div class="row my-3">
+			<div class="col-sm mx-3">
+				<h3>What</h3>
+				<p>While the UK was in lockdown because of Covid-19; we ran a mini proof of concept online streamed event on Saturday 9th May 2020</p>
+				<p>We had 5 great speakers and a solid 20 live viewers. We had a good stream of live comments and followup discussions on Discord.</p>
+				<p>It was really nice to get our small community together online.</p>
 			</div>
-			<div class="col-md">
-				<h4>By Car &#128663;</h4>
-				<p>Parking on camps can be free at weekends. <a href="https://www.kent.ac.uk/transport/byroad/public/index.html">Carpark 9</a> is the closest to Woolf College</p>
+			<div class="col-sm mx-3">
+				<h3>Where</h3>
+				<p>You can view recordings of our live streams on <a href="https://www.youtube.com/playlist?list=PLVexpjGAzOBZTXZNsKWa_OXS8D0yY5H7w">YoutubeLive</a> and FacebookLive</p>
+			</div>
+			<div class="col-sm mx-3">
+				<h3>Future Streaming?</h3>
+				<p>This was a good proof of concept event. We may consider streaming more of our event talks.</p>
 			</div>
 		</div>
 
-		<!--
-		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19961.63249340082!2d1.0524241!3d51.2889687!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47decba7f13d5a4f%3A0x97a868184d1b55d6!2sWoolf+College!5e0!3m2!1sen!2suk!4v1552505880518" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-		-->
+
+		<!-- --------------------------------------------------------------- -->
 
 		<h2 id="supporters_heading">Supporters</h2>
 		<p>We would like to thank our supporters who have helped to make BarCamp Possible.</p>
