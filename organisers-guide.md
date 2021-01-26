@@ -141,6 +141,14 @@ Signs & Printing
 ### Event Rooms
 * Vinyl stands (reusable)
 
+
+Money
+-----
+
+* PayPal?
+* Future? Investigate? https://opencollective.com/
+
+
 Sponsors
 --------
 
