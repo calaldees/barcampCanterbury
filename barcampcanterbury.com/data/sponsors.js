@@ -1,5 +1,18 @@
 build_sponsors([
     {
+        name: 'Canterbury Christ Church University: School of Engineering, Technology and Design',
+        href: 'https://www.canterbury.ac.uk/science-engineering-and-social-sciences/engineering-technology-and-design/',
+        href_text: 'Website',
+        description: 'The school of Engineering, Technology and Design has generously donated the venue "Verena Holmes" for this event',
+        //image: 'https://www.cs.kent.ac.uk/webimages/home/about-us.png',
+        image: 'images/sponsors/CCCU-logo-2colour.svg',
+        twitter: 'canterburyccuni',
+        image_style: "padding: 1.2em;",
+    },
+
+
+/*    2019
+    {
         name: 'University of Kent: School of Computing',
         href: 'https://www.cs.kent.ac.uk/',
         href_text: 'Website',
@@ -37,6 +50,7 @@ build_sponsors([
         linkedin: '',
         image_style: "padding: 1.2em;",
     },
+*/
 
 
 /*

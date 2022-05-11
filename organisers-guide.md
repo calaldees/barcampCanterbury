@@ -9,25 +9,38 @@ BarCamp is an established format for an free and open 'un-conference'.
 * [BarCamp on Wikipedia](https://en.wikipedia.org/wiki/BarCamp)
 * [barcamp.org](http://barcamp.org)
 
+
 Terminology
 -----------
 
-The ethos of Barcamp is free, open, community. Some terms and phrases that do not align with these principles can cause friction.
-Business terminology is encouraged to be avoided.
+* The ethos of Barcamp is free, open, community.
+* Some terms and phrases that do not align with these principles can cause friction.
+* Business terminology is suggested to be avoided.
+
+
+Timeline
+--------
+
+1. Secure venue
+    * Catering
+2. Secure affiliation (logo's of local organisations that support local tech community)
+3. Adverting (digital signage in universitys + schools?)
+
 
 Venue
 -----
 
 * Event
-    * Event rooms
+    * Venue
         * [University of Kent: School of Computing](https://www.cs.kent.ac.uk/) has generously donated space in previous years
+            * [Woolf College](https://www.kent.ac.uk/maps/canterbury/canterbury-campus/building/woolf-college)
+        * [Canterbury Christ Church University: verena-holmes-building](https://www.canterbury.ac.uk/study-here/student-life/our-locations/canterbury-campus/verena-holmes-building)
     * Hands-on and Share Space
         * People bring in cool things to show
             * E.g. sewing machines, retro machines, electronics
     * Workshop Space (optional)
-        * For for 2+ day events
     * Evening social/food Venue
-        * for continued socialising should be organised.
+        * For continued socialising should be organised.
         * Transport and accessibility for attendees between venues should be considered
         * [Gulbenkian cafe](https://thegulbenkian.co.uk/your-visit/eat-drink/) event catering have cordoned off areas in previous years
 
@@ -44,17 +57,20 @@ Historically
 https://github.com/vext01/barcamp-canterbury-branding
 It would be good to keep all resources in a single repo
 
-Use of the University of Kent logo is restricted to formal university activities only.
-We can use the Kent logo only in the context of School of Computing.
+Use of the 'University of Kent' logo is restricted to formal university activities only.
+We can use the Kent logo only in the context of 'School of Computing'.
 LINK
+
 
 Catering
 --------
 
-Refreshments to facilitate attendee's focused and interacting during the day. Sponsorship provides finances for refreshments.
+* Refreshments to facilitate attendee's focused and interacting during the day. Sponsorship provides finances for refreshments.
+* Check what are valid/approved food vendors for your venue.
 
-* Coffee
-    * Investigate the hire of a coffee machine/cart/supplier? Maybe a sponsor?
+
+* Coffee (throughout)
+    * Investigate the hire of a coffee machine/cart/supplier? Maybe a sponsor? Venue catering teams can ensure this is managed
 * Lunch
     * For events taking place on the University of Kent campus, authorised vendors should provide catering
         * [Kent Hospitality](https://www.kent.ac.uk/hospitality/)
@@ -63,6 +79,8 @@ Refreshments to facilitate attendee's focused and interacting during the day. Sp
             * Must be ordered 1 week beforehand
 * Dinner
     * [Domino's](https://www.dominos.co.uk/) is a registered supplier for University of Kent and provide bulk discount
+    * Pizza is the best 'price point'. 
+        * As this is a free community event, it is regrettable, but we can't provide specialist food
 
 Finances
 --------
@@ -78,23 +96,42 @@ Website
 * [2015](https://web.archive.org/web/20160423191619/http://barcampcanterbury.com/)
 
 
-Sponsorship
+Affiliation
 -----------
 
-Identify _Sponsorship Objectives_.
-Testimonials from previous sponsors.
-Social Media Reach
-Attendees
-Years running
-Videos
+* Requesting 'Sponsorship' was not effective. Many small organisations did not have money.
+* What we want is 'affiliation'. Logo's of organisation 'legitimise' our event
 
-Example feedback pitch
-https://www.slideshare.net/Eventbrite/pitchdeck-34422979
-https://www.eventbrite.co.uk/blog/guide-to-event-sponsorship-ds00/
-https://www.slideshare.net/Lizziehodgson01/thinknation-brave-fun-and-important-unlike-anything-ive-seen-before?qid=0dd2f65b-d357-4c20-a52a-f7d0888c09d9&v=&b=&from_search=2
-include quotes
-include photos
-Year long benefits
+### Sponsorship
+
+Talks from organisations/sponsors are discouraged.
+They should be relevant to the community.
+
+If we do want to approach sponsors
+
+* Identify _Sponsorship Objectives_.
+* Testimonials from previous sponsors.
+* Social Media Reach
+* Number of Attendees
+* Years running
+* Videos
+
+* Example feedback pitch
+    * https://www.slideshare.net/Eventbrite/pitchdeck-34422979
+    * https://www.eventbrite.co.uk/blog/guide-to-event-sponsorship-ds00/
+    * https://www.slideshare.net/Lizziehodgson01/thinknation-brave-fun-and-important-unlike-anything-ive-seen-before?qid=0dd2f65b-d357-4c20-a52a-f7d0888c09d9&v=&b=&from_search=2
+    * include quotes
+    * include photos
+    * Year long benefits?
+
+Tiers
+* £x
+    * ?
+* £xx
+    * ?
+
+Posters? Logo? Website? Talks? Prizes?
+
 
 
 
@@ -103,17 +140,20 @@ Advertising
 
 ### Social Media
 
-* [Facebook](https://en-gb.facebook.com/barcampcanterbury/)
-* [Twitter](https://twitter.com/barcampcant) #bccant
-    * TODO: A script to possibly extract any twitterhandle that has messaged @barcampcant or posted on #bccant (within a timebox) and publicly message them to announce the date for the new barcamp.
-        * This keeps communication transparent and prevents us from holding personal data
-* _flickr_ (todo: setup group)
-* _Instagram_
+* [friendsplus.me](https://friendsplus.me/)
+    * [Facebook](https://en-gb.facebook.com/barcampcanterbury/)
+    * [Twitter](https://twitter.com/barcampcant) #bccant
+        * TODO: A script to possibly extract any twitterhandle that has messaged @barcampcant or posted on #bccant (within a timebox) and publicly message them to announce the date for the new barcamp.
+            * This keeps communication transparent and prevents us from holding personal data
+    * _flickr_ (todo: setup group)
+    * _Instagram_
+
 
 ### Previous Tickets
 
-* Could we ask permission to use people email to alert them about the next event?
-    * Not keen on the GDPR implications
+* Do not use/keep emails of attendees from previous event
+    * Could we ask permission to use people email to alert them about the next event?
+        * Not keen on the GDPR implications
 
 ### Campus
 
@@ -121,6 +161,8 @@ Advertising
 
 * Societies
     * @TinkerSoc
+    * MORE ...
+
 
 Signs & Printing
 ----------------
@@ -134,12 +176,13 @@ Signs & Printing
 ### Outside Venue
 * Direction Arrows
 * Vinyl banner?
+    * Could this be used over multiple years?
 
 ### Foyer
 * Photography Warning (there will be photos taken)
 
 ### Event Rooms
-* Vinyl stands (reusable)
+* Vinyl stands with logo (reusable)
 
 
 Money
@@ -149,25 +192,12 @@ Money
 * Future? Investigate? https://opencollective.com/
 
 
-Sponsors
---------
-
-Tiers
-* £x
-    * ?
-* £xx
-    * ?
-
-Posters? Logo? Website? Talks? Prizes?
-
-Talks from organisations/sponsors are discouraged.
-They should be relevant to the community.
-
 
 Tickets
 -------
 
-Previous events have targeted 100 attendees. 30% of released tickets typically don't attend.
+Previous events have targeted 100 attendees.
+30% of released tickets typically don't attend.
 
 * [Eventbrite](https://www.eventbrite.com/) ([free ticket event](https://www.eventbrite.com/create))
     * Accept donations from attendees
@@ -175,7 +205,16 @@ Previous events have targeted 100 attendees. 30% of released tickets typically d
 * https://github.com/vext01/barcamp-tickets
 * Shed - Laser cut wood badges with drinks tokens
 
-* Investigate mechanisms to return/cancel a ticket in the case of non attendance.
+* Investigate mechanisms to return/cancel/recycle a ticket in the case of non attendance.
+
+
+Under 18's
+----------
+
+* With parent or guardian
+* We do not vet or control the attendees or the content
+* See [code-of-conduct.md](./code-of-conduct.md)
+
 
 Timetable
 ---------
@@ -215,10 +254,10 @@ Activities
 Food/Snacks/Lunch
 -----------------
 
-* Food
+* Food (venue cantering?)
     * Equipment
         * Paper Tabelcloths
-        * Hot Water Urn
+        * Hot Water Urn? 
     * Light Refreshment
         * Water
         * Fruit
@@ -226,7 +265,7 @@ Food/Snacks/Lunch
         * Disposable cups
             * Ask attendees to bring cup (in email)
     * Lunch
-        * Order pizza (book in advance)
+        * Order pizza (book in advance) Domino's do mad good deals in advance on bulk
 
 
 Other Local Groups/Events
@@ -255,14 +294,27 @@ Provide a google shared drive to accept uploads from attendees
     * Source and GoPro and a XoomBox from the community to each room
     * Use 128gb MicroSD card (£20)
     * Leave devices with mains power recording for the entire 6 hours
-    * Minimal post processing: audio compression, sycning, title/end graphic (via script), upload
+    * Minimal post processing: audio volume compression, sycning, title/end graphic (via script), upload
     * If they don't record - not the end of the world - no panic - no stress - no worry
 
 
-Emergencys
-----------
+Record of Talks?
+---------------
 
-* University of Ken [Emergency Campus Watch Contact](https://www.kent.ac.uk/student/safety/) - 01227 823333
+* Could we start to collect details of previous talks
+* Could someone help curate these?
+    * title
+    * name (not email)
+    * image
+    * 2 or 3 sentence description
+    * permissions to put this on website.
+
+
+
+Emergencies
+-----------
+
+* University of Kent [Emergency Campus Watch Contact](https://www.kent.ac.uk/student/safety/) - 01227 823333
 
 
 Community Beyond the event
@@ -276,6 +328,7 @@ What events/gatherings/activities/communication can we use to facilitate a commu
     * Meals?
     * Trips?
 * Forms of communication?
+* Code Dojo?
 
 ### IRC/Discord
 

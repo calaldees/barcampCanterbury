@@ -1,3 +1,7 @@
 serve:
 	$(MAKE) --directory bootstrap
-	python3 -m http.server 8080
+	python3 -m http.server
+
+deploy:
+	ssh barcampcanterbury \
+		'cd barcampcanterbury.com && git pull'
