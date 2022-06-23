@@ -163,7 +163,7 @@ Alternate Food Provision Orderer
     * You will be given a wadge of cash
     * Co-ordinate with the identified alternate food people
     * Order food (phone or internet)
-    * Email the receipt to allan@barcampcanterbury.com
+    * Email the receipt to admin@barcampcanterbury.com
 
 
 Pizza Overwatch Team

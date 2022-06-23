@@ -95,4 +95,4 @@ Thank you all!
 We look forward to seeing you all at BarCamp Canterbury next weekend.
 
 If you have any questions, please don't hesitate to email us at
-allan@barcampcanterbury.com.
+admin@barcampcanterbury.com.
