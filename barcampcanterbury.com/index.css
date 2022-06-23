@@ -55,6 +55,15 @@ a {
     height: 4em;
 }
 
+
+#supportersOrganisation_logos img {
+    max-height: 2em;
+    padding: 0;
+    margin-left: 1em;
+    margin-right: 1em;
+    display:inline;
+}
+
 h2 {
     border-bottom: solid 1px;
 }
