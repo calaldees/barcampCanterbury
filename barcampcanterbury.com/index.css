@@ -83,33 +83,34 @@ a.btn {
     margin: 0;
 }
 
-#sponsors img {
+#supportersOrganisation img {
     object-fit: contain;
     max-height: 10em;
 }
+#supportersOrganisation .card {
+    margin-bottom: 1em;
+}
 
 
-#supporters {
+#supportersIndividual {
     font-size-adjust: 0.4;
 }
 
-#supporters img {
+#supportersIndividual img {
     max-height: 0em;
 }
 
-#supporters .card_container {
+#supportersIndividual .card_container {
     display: flex;
     flex-wrap: wrap;
 }
-#supporters .card {
+#supportersIndividual .card {
     width: 12rem;
     flex: none;
     margin: 0.25em;
 }
-#supporters .card-body {
+#supportersIndividual .card-body {
     padding: 0.25em;
 }
 
-#sponsors .card {
-    margin-bottom: 1em;
-}
+

@@ -4,13 +4,14 @@ Runbook
 Checklist for running BarCamp
 
 
-3 Months Before
+6 Months Before
 ---------------
 
 * Hold meeting
-    * build a committee + mailinglist/thread
+    * build a committee + mailing-list/thread
 * Book venue
-* Announce event on social media
+    * Risk assessment
+    * Catering discussion
 * Setup branding
     * Twitter
         * Header
@@ -18,12 +19,13 @@ Checklist for running BarCamp
     * Facebook
         * Header
         * Description
-* Seek sponsorship
+* Announce event on social media
+* Seek supporters (logos)
 * Identify local events to cross-promote/speak at
     * Assign dates to people
 
 
-2 Months Before
+3 Months Before
 ---------------
 
 * Hold a progress meeting
@@ -35,8 +37,9 @@ Checklist for running BarCamp
 * Organize after party/gathering space
 * Consider puzzles/prizes at event
 * Investigate Video-Camera Equipment hire
-* Investigate coffee provision
-* Food quote
+* Investigate coffee/catering provision
+    * Food quote
+    * Coffee
 * Setup social media post auto/queue/timeline
 * Attend local tech events to cross promote
 
@@ -48,7 +51,7 @@ Checklist for running BarCamp
     * Have a date in advance
 * Print Vinyl Banners
 * Print Mugs (2 weeks before)
-* Cement coffee provision
+* Cement coffee provision + catering
 
 
 1 Week Before
@@ -57,8 +60,10 @@ Checklist for running BarCamp
 * Email attendees
     * Code of conduct
     * What to bring
+    * Talk prep
 * Print
     * Signs
+        * Direction Arrows to building + identify locations + ways to attach these
         * Photography will happen
         * Room signs
     * Lists
@@ -75,12 +80,12 @@ Checklist for running BarCamp
 
 * Projector - Foyer - displaying timetable
 * Video Camera + Xoom Box
-* DuckTape (for cables)
+* DuckTape (for cables) + Trunking?
 * Masking tape (for signs)
 * Cleaning Spray
 * Vacuum Cleaner
 * Black sacks
-* Power extender cassette
+* Power extender cassettes
 * Adaptors for projector/display USB-c, displayport, HDMI, etc
 * White board pens + cleaner
 * Signs
@@ -91,4 +96,3 @@ Checklist for running BarCamp
     * Urns?
     * Paper tablecloths
     * Water/Fruit
-

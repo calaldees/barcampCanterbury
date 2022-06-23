@@ -1,4 +1,5 @@
-build_sponsors([
+build_supportersOrganisation([
+/*      2022
     {
         name: 'Canterbury Christ Church University: School of Engineering, Technology and Design',
         href: 'https://www.canterbury.ac.uk/science-engineering-and-social-sciences/engineering-technology-and-design/',
@@ -9,6 +10,18 @@ build_sponsors([
         twitter: 'canterburyccuni',
         image_style: "padding: 1.2em;",
     },
+    {
+        name: 'University of Kent: School of Computing',
+        href: 'https://www.cs.kent.ac.uk/',
+        href_text: 'Website',
+        description: 'The school of Computing has historically supported BarCamp Canterbury for over 10 years.',
+        //image: 'https://www.cs.kent.ac.uk/webimages/home/about-us.png',
+        image: 'images/sponsors/kent_schoolofcomputing_logo.png',
+        twitter: 'UniKentComp',
+        image_style: "padding: 1.2em;",
+    },
+
+*/
 
 
 /*    2019

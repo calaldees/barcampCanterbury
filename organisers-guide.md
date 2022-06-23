@@ -23,7 +23,8 @@ Timeline
 
 1. Secure venue
     * Catering
-2. Secure affiliation (logo's of local organisations that support local tech community)
+    * Risk Assessment
+2. Secure supporter (logo's of local organisations that support local tech community)
 3. Adverting (digital signage in universitys + schools?)
 
 
@@ -74,6 +75,7 @@ Catering
 * Lunch
     * For events taking place on the University of Kent campus, authorised vendors should provide catering
         * [Kent Hospitality](https://www.kent.ac.uk/hospitality/)
+        * []
     * For events not taking place on the University of Kent campus
         * [Sainsburys Select](https://select.sainsburys.co.uk/)
             * Must be ordered 1 week beforehand
@@ -93,25 +95,33 @@ Website
 -------
 
 * [barcampcanterbury.com](http://barcampcanterbury.com)
+* [2012](https://web.archive.org/web/20120614223910/http://barcampcanterbury.com/)
 * [2015](https://web.archive.org/web/20160423191619/http://barcampcanterbury.com/)
+* [2019](https://web.archive.org/web/20190517080640/http://barcampcanterbury.com/)
 
 
-Affiliation
+
+Supporters
 -----------
 
 * Requesting 'Sponsorship' was not effective. Many small organisations did not have money.
-* What we want is 'affiliation'. Logo's of organisation 'legitimise' our event
+    * Sponsor (implys commercial involvement)
+* What we want is 'support'. Logo's of organisation 'legitimise' our event
+    * The following terms have formal connertaions and should not be used
+        * 'affiliated'
+        * 'associated'
+        * 'endorsed'
+        
 
-### Sponsorship
+### Supporters (financial/donation)
 
-Talks from organisations/sponsors are discouraged.
+Talks from organisations/commercial-interests are discouraged.
 They should be relevant to the community.
 
-If we do want to approach sponsors
-
-* Identify _Sponsorship Objectives_.
-* Testimonials from previous sponsors.
-* Social Media Reach
+If we do want to approach supporter for money
+* Identify _Supporter Objectives_
+* Testimonials from previous supporters
+* Social Media Reach (numbers)
 * Number of Attendees
 * Years running
 * Videos
@@ -151,11 +161,10 @@ Advertising
 
 ### Previous Tickets
 
-* Do not use/keep emails of attendees from previous event
-    * Could we ask permission to use people email to alert them about the next event?
-        * Not keen on the GDPR implications
+* DO NOT use/keep emails of attendees from previous event
+    * GDPR implications
 
-### Campus
+### Existing Communities
 
 @UniKentComp
 
@@ -201,11 +210,9 @@ Previous events have targeted 100 attendees.
 
 * [Eventbrite](https://www.eventbrite.com/) ([free ticket event](https://www.eventbrite.com/create))
     * Accept donations from attendees
-
 * https://github.com/vext01/barcamp-tickets
-* Shed - Laser cut wood badges with drinks tokens
-
-* Investigate mechanisms to return/cancel/recycle a ticket in the case of non attendance.
+* Laser cut wood badges with drinks tokens
+* Investigate mechanisms to return/cancel/recycle a ticket in the case of non attendance
 
 
 Under 18's
@@ -314,7 +321,7 @@ Record of Talks?
 Emergencies
 -----------
 
-* University of Kent [Emergency Campus Watch Contact](https://www.kent.ac.uk/student/safety/) - 01227 823333
+* Have an emergency site contact - security?
 
 
 Community Beyond the event
