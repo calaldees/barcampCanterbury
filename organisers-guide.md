@@ -215,6 +215,9 @@ Previous events have targeted 100 attendees.
 * https://github.com/vext01/barcamp-tickets
 * Laser cut wood badges with drinks tokens?
 * Investigate mechanisms to return/cancel/recycle a ticket in the case of non attendance
+* Ticket batches
+    * Previously the event has been popular and tickets have been released in batches
+    * Additional tickets have been available by solving online puzzles
 
 
 Badges
@@ -265,14 +268,18 @@ Activities
     * 5 min
     * Safer than a 30min talk
 
+It is recommended that larger overarching activities are not encouraged. This takes the focus away from the talks. Activities should be time-boxed to a timeslot if needed.
+
 
 Food/Snacks/Lunch
 -----------------
 
+It is part of the BarCamp ethos to ensure everything is always completely free for attendees
+
 * Food (venue cantering?)
     * Equipment
         * Paper Tabelcloths
-        * Hot Water Urn? 
+        * Hot Water Urn?
     * Light Refreshment
         * Water
         * Fruit
