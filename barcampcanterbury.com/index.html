@@ -175,7 +175,17 @@
 					<span class="organizer_email">admin@barcampcanterbury.com</span>
 					<span class="alarm_reminder">1440</span>
 				</div>
-				<p><a href="calender/event.ics">&#128197; iCal</a></p>
+				<a href="calender/event.ics">&#128197; iCal</a></p>
+
+				<p id="days_until_event"></p>
+				<script>
+					const days_between = (d1, d2) => Math.ceil((d1.getTime() - d2.getTime()) / (1000 * 3600 * 24)) // https://linuxhint.com/calculate-days-between-two-dates-javascript/
+					const event_date = new Date('10/29/2022')
+					const days = days_between(event_date, new Date())
+					if (days > 0) {
+						document.getElementById("days_until_event").textContent = `${days} days until BarCamp`
+					}
+				</script>
 			</div>
 		</div>
 

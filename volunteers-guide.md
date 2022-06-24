@@ -53,6 +53,7 @@ Social Media Team
     * Using our BarCamp login
         * Twitter
         * Facebook
+    * Monitoring for abuse
 
 
 Video Equipment Overwatch
@@ -174,6 +175,25 @@ Pizza Overwatch Team
 * 16:45 - Get pizzas from car park on tables
 * 17:00 - 17:45
     * See lunch overwatch
+
+
+Waste Overwatch Team
+--------------------
+
+2x
+
+* 10:00 to 17:00 - circulate + intercept
+
+
+Fire Stewards
+-------------
+
+4x (on standby) with known locations
+
+* In event of evacuation
+* Keep pathways clears
+* Slip trip hazzards removed
+* Rooms cannot be overfilled?
 
 
 Teardown Crew

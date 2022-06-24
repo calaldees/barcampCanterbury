@@ -75,7 +75,6 @@ Catering
 * Lunch
     * For events taking place on the University of Kent campus, authorised vendors should provide catering
         * [Kent Hospitality](https://www.kent.ac.uk/hospitality/)
-        * []
     * For events not taking place on the University of Kent campus
         * [Sainsburys Select](https://select.sainsburys.co.uk/)
             * Must be ordered 1 week beforehand
@@ -179,8 +178,8 @@ Signs & Printing
 ### Printed
 * Attendee list
     * Collect data on how they heard of the event
-* Room Signs
-* twitter `#tag`
+* List of emergency contact people and numbers
+* Volunteer Guides
 
 ### Outside Venue
 * Direction Arrows
@@ -188,10 +187,23 @@ Signs & Printing
     * Could this be used over multiple years?
 
 ### Foyer
+* QR Code (barcampcanterbury.com) + URL for The Grid
 * Photography Warning (there will be photos taken)
+* Map (also online)
+    * Rooms
+    * Fire escape
+* twitter `#tag`
 
-### Event Rooms
+### In Event Rooms
+* (Outside) Room Signs
 * Vinyl stands with logo (reusable)
+    * twitter `#tag`
+    * barcampcanterbury.com
+    * QR Code (to barcampcanterbury.com)
+
+### Swap Shop
+* Everything on this table is Free! Help yourself!
+* (please take away your uncollected shit afterwards)
 
 
 Money
@@ -264,6 +276,8 @@ Activities
 * PowerPoint Karaoke
 * Swap Shop
     * Small working devices or tools that your are not using to be given to other hackers that needs them
+    * Ideas
+        * Raspbery pi1's, power supplys, nuts/bolts/hardware, fabric, wood offcuts, adhesives, LED's, lights, tools, wire, old laptops, duplicates of games, cards.
 * Mini Lightening talks
     * 5 min
     * Safer than a 30min talk

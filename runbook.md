@@ -10,8 +10,6 @@ Checklist for running BarCamp
 * Hold meeting
     * build a committee + mailing-list/thread
 * Book venue
-    * Risk assessment
-    * Catering discussion
 * Setup branding
     * Twitter
         * Header
@@ -30,8 +28,21 @@ Checklist for running BarCamp
 
 * Hold a progress meeting
     * Have a date in advance
+* Venue
+    * Risk assessment
+        * Security? First Aiders?
+        * Fire stewards?
+        * Electrical equipment, PAT Testing
+        * Under 18s
+        * Rubbish?
+        * Responsible names
+        * Tables? Setup-Teardown, Trollys for heavy equipment?
+        * Cleanup tools (slipping?`)
+    * Catering discussion
+    * Notify 
+        * AV
+        * Security
 * Setup digital signage
-    * University of Kent - School of Computing
 * Get in touch with cool possible speakers
     * Get them to tweet
 * Organize after party/gathering space
@@ -42,6 +53,7 @@ Checklist for running BarCamp
     * Coffee
 * Setup social media post auto/queue/timeline
 * Attend local tech events to cross promote
+* Ask hosting venues marketing team to assist in cross promotion (make them aware of what the event is)
 
 
 1 Month Before
@@ -74,9 +86,11 @@ Checklist for running BarCamp
         * Room signs
     * Lists
         * Registration list + I have read code of conduct
+        * Emergency contact numbers/names
 * Consider venue/room layout
     * Social/demo space
 * Check Room AV Tech
+* Book a feedback meeting (learning for next year, etc)
 
 
 1 Day Before
