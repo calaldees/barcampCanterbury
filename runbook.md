@@ -52,6 +52,12 @@ Checklist for running BarCamp
 * Print Vinyl Banners
 * Print Mugs (2 weeks before)
 * Cement coffee provision + catering
+* Consider ways to identify volunteers/staff
+* Who will monitor social media during the event?
+    * Twitter
+    * Facebook
+    * Discord
+        * Reports/Harassment
 
 
 1 Week Before

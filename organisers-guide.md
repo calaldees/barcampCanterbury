@@ -162,7 +162,7 @@ Advertising
 ### Previous Tickets
 
 * DO NOT use/keep emails of attendees from previous event
-    * GDPR implications
+    * see [privacy-policy.md](./privacy-policy.md)
 
 ### Existing Communities
 
@@ -210,9 +210,17 @@ Previous events have targeted 100 attendees.
 
 * [Eventbrite](https://www.eventbrite.com/) ([free ticket event](https://www.eventbrite.com/create))
     * Accept donations from attendees
+    * Ask under 18
+    * By signing up to this event you have read and agree to code-of-conduct + privacy-policy
 * https://github.com/vext01/barcamp-tickets
-* Laser cut wood badges with drinks tokens
+* Laser cut wood badges with drinks tokens?
 * Investigate mechanisms to return/cancel/recycle a ticket in the case of non attendance
+
+
+Badges
+------
+
+* [On the Usability of Name Tags](https://karl-voit.at/2011/06/09/usability-name-tags/)
 
 
 Under 18's
