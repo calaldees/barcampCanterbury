@@ -182,9 +182,10 @@
 					const days_between = (d1, d2) => Math.ceil((d1.getTime() - d2.getTime()) / (1000 * 3600 * 24)) // https://linuxhint.com/calculate-days-between-two-dates-javascript/
 					const event_date = new Date('10/29/2022')
 					const days = days_between(event_date, new Date())
-					if (days > 0) {
-						document.getElementById("days_until_event").textContent = `${days} days until BarCamp`
-					}
+					const $el = document.getElementById("days_until_event")
+					if      (days > 7) {$el.textContent = `${Math.floor(days/7)} weeks until BarCamp`}
+					else if (days > 0) {$el.textContent =                `${days} days until BarCamp`}
+					else {}
 				</script>
 			</div>
 		</div>
