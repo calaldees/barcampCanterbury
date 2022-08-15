@@ -65,6 +65,8 @@ Checklist for running BarCamp
 * Print Mugs (2 weeks before)
 * Cement coffee provision + catering
 * Consider ways to identify volunteers/staff
+    * Bulk buy cheap plain colour tshirts £2.50 each?
+        * https://www.ebay.co.uk/itm/283283832702
 * Who will monitor social media during the event?
     * Twitter
     * Facebook
