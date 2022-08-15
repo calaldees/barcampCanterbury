@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth; /* https://stackoverflow.com/a/61692096/3356840 */
+}
+
 a {
     color: #ed8e09;
 }
