@@ -61,12 +61,16 @@ a {
 
 
 #supportersOrganisation_logos img {
-    max-height: 3em;
+    max-height: 2em;
     padding: 0;
     margin-left: 1em;
     margin-right: 1em;
     display:inline;
 }
+#supportersOrganisation_logos a:nth-child(3) img {
+    max-height: 4em; /* Temp Hack for Fruitworks Logo - need a better solution */
+}
+
 
 h2 {
     border-bottom: solid 1px;
