@@ -6,3 +6,5 @@
 | VH.1.29 | Active Learning Lab     |  26 | Talk Room 4 |
 | VH.1.02 | Specialist Computer Lab |  34 | Talk Room 5 |
 | VH.1.08 | Maker Space             |  50 | Showcase / Food / Social |
+
+VH.1.07 , VH.1.14a, VH.1.14b, VH.1.29, VH.1.02, VH.1.08

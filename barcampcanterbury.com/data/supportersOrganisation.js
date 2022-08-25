@@ -18,8 +18,19 @@ build_supportersOrganisation([
         twitter: 'UniKentComp',
         image_style: "padding: 1.2em;",
     },
+    {
+        name: 'Fruitworks Coworking',
+        href: 'https://fruitworks.co/',
+        href_text: 'Website',
+        description: 'Fruitworks is a dedicated Coworking & hot desking space based in Canterbury. Offering open plan hot desking, private studio offices, multiple meeting & conference rooms, coffee shop, & event space all within Canterbury city centre.',
+        image: 'images/sponsors/logo_fruitworksco.svg',
+        twitter: 'fruitworksco',
+        instagram: 'fruitworksco',
+    },
 
 
+
+    
 
 
 /*    2019
