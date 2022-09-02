@@ -41,6 +41,7 @@ Car transport required - maybe quickly purchase ice on route
             * Whiteboard pens + cleaning fluid
 
 ???: What could we do to ensure that 'Customer Support' or 'key organisers' are identifiable?
+Plain Orange T-Shirts (bulk? https://www.ebay.co.uk/itm/283283832702)
 
 
 Social Media Team
@@ -48,7 +49,7 @@ Social Media Team
 
 2x
 
-* 10:00 to 17:00
+* 09:00 to 17:00
     * Ongoing event cometary
     * Using our BarCamp login
         * Twitter
@@ -63,6 +64,16 @@ Video Equipment Overwatch
 
 * 9:00 to 16:30
     * Setup/check/maintain recording equipment
+
+
+Equipment Lugging Brute Squad
+-----------------------------
+
+2x
+
+* 08:00 to 10:00
+    * Have access to trolley for moving heavy objects
+    * Help attendees bring in and setup any equipment
 
 
 Welcome Desk Team
@@ -88,6 +99,21 @@ Welcome Desk Team
     * Register late arrivals
 
 
+
+Late Welcome Watch
+------------------
+
+2x
+
+* 10:30 to 13:00
+    * There will be late arrivals
+    * Identify them
+    * Get them a name badge
+    * Tick their attendance
+    * Tell them about the format
+
+
+
 Opening Talk (Usher)
 --------------------
 
@@ -99,17 +125,6 @@ Opening Talk (Usher)
     * Ask late arrivals to register once the opening talk has finished.
 
 
-Late Welcome Watch
-------------------
-
-2x
-
-* 10:30 to 13:00
-    * There will be late arrivales
-    * Identify them
-    * Get them a name badge
-    * Tick their attendence
-    * Tell them about the format
 
 
 Food Runners
