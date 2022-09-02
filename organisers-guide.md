@@ -149,10 +149,10 @@ Advertising
 
 ### Social Media
 
-* [friendsplus.me](https://friendsplus.me/)
+* [planable.io](https://app.planable.io/)
     * [Facebook](https://en-gb.facebook.com/barcampcanterbury/)
-    * [Twitter](https://twitter.com/barcampcant) #bccant
-        * TODO: A script to possibly extract any twitterhandle that has messaged @barcampcant or posted on #bccant (within a timebox) and publicly message them to announce the date for the new barcamp.
+    * Twitter [@BarCampCant](https://twitter.com/BarCampCant) #BarCampCant (#bccant old)
+        * TODO: A script to possibly extract any twitterhandle that has messaged @BarCampCant or posted on #BarCampCant (within a timebox) and publicly message them to announce the date for the new barcamp.
             * This keeps communication transparent and prevents us from holding personal data
     * _flickr_ (todo: setup group)
     * _Instagram_
@@ -166,6 +166,9 @@ Advertising
 ### Existing Communities
 
 @UniKentComp
+@cccu_computing
+@CCCUEdgeHub
+
 
 * Societies
     * @TinkerSoc
@@ -182,7 +185,7 @@ Signs & Printing
 * Volunteer Guides
 
 ### Outside Venue
-* Direction Arrows
+* Direction Arrows (maybe setup official by venue - digital signs)
 * Vinyl banner?
     * Could this be used over multiple years?
 

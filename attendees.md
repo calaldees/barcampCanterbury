@@ -12,7 +12,8 @@ Under 18's are welcome, but must be accompanied by an adult.
 Attendees are encouraged to:
 * Give a talk
 * Share experiences of the event on social media
-    * [#bccant](https://twitter.com/search?q=%23bccant)
+    * [#BarCampCant](https://twitter.com/search?q=%23BarCampCant)
+    * [#bccant](https://twitter.com/search?q=%23bccant) (old hashtag, please don't use)
 
 The community is encouraged to take photos/videos and publicly document the event.
 There *will* be photography if you attend the event.

@@ -3,7 +3,7 @@ Supporters
 
 BarCamp Canterbury is a free-to-attend un-conference where the attendees create the content and give the talks. The event is loosely based around the topic of technology. Over the years, this has been a highly successful event where impassioned members of the local community and beyond share their experiences.
 
-BarCamps are memorable events that are heavily reported and shared by the attendees via social media. Previous events can be seen on Twitter [@barcampcant](https://twitter.com/barcampcant) [#bccant](https://twitter.com/search?q=%23bccant). Read more about BarCamp Canterbury at [barcampcanterbury.com](https://barcampcanterbury.com/). The event hosts about 100 attendees.
+BarCamps are memorable events that are heavily reported and shared by the attendees via social media. Previous events can be seen on Twitter [@BarCampCant](https://twitter.com/barcampcant) [#BarCampCant](https://twitter.com/search?q=%23BarCampCant). Read more about BarCamp Canterbury at [barcampcanterbury.com](https://barcampcanterbury.com/). The event hosts about 100 attendees.
 
 Supporting our small event makes us feel part of a wider community.
 Providing freebies or prizes is always appreciated by attendees.
