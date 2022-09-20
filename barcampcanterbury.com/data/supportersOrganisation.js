@@ -27,6 +27,15 @@ build_supportersOrganisation([
         twitter: 'fruitworksco',
         instagram: 'fruitworksco',
     },
+    {
+        name: 'The Familiar',
+        href: 'https://www.thefamiliar.tech/',
+        href_text: 'Website',
+        description: 'The Familiar uses human-centred design & technology to help teams & leaders make products, services & decisions of lasting impact.',
+        image: 'images/sponsors/TF_Main_16-6_RGB_WBack_WMargin.svg',
+        twitter: '_The_Familiar',
+        linkedin: '​https://www.linkedin.com/company/thefamiliar',
+    },
 
 
 
