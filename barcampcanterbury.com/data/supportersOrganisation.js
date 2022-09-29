@@ -36,7 +36,28 @@ build_supportersOrganisation([
         twitter: '_The_Familiar',
         linkedin: '​https://www.linkedin.com/company/thefamiliar',
     },
+    {
+        name: 'The Institution of Engineering and Technology (IET)',
+        href: 'https://www.theiet.org/',
+        href_text: 'Website',
+        description: 'Supporting our local community of current and future engineers and technologists',
+        image: 'images/sponsors/iet.jpg',
+        twitter: 'TheIET',
+        linkedin: 'https://www.linkedin.com/school/iet/',
+        image_style: "padding: 1.2em;",
+    },
 
+    {
+        name: 'The STEM Hub',
+        href: 'https://thestemhub.org.uk/',
+        href_text: 'Website',
+        description: 'Canterbury Christ Church University operating as The STEM Hub holds the STEM Learning STEM Ambassador and schools network contract for the South East of England and provides information and links to Science, Technology, Engineering and Maths (STEM) Enhancement & Enrichment activities.',
+        image: 'images/sponsors/the-stem-hub-logo-primary.svg',
+        twitter: 'STEMHUB_SE',
+        image_style: "padding: 1.2em;",
+    },
+
+    
 
 
     
