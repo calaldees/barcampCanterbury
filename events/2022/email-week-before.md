@@ -4,9 +4,9 @@ Email: Week Before
 
 Greetings BarCampers!
 
-BarCamp Canterbury is only a few days away. Here is information about the event.
+BarCamp Canterbury is only a few days away. Here is some information about the event.
 
-Having trouble reading this email? You can read it in your browser
+Having trouble reading this email? You can read it in your browser:
 https://github.com/calaldees/barcampCanterbury/blob/master/events/2022/email-week-before.md
 
 ## What to expect
@@ -19,7 +19,7 @@ https://github.com/calaldees/barcampCanterbury/blob/master/events/2022/email-wee
 
 ### Food and drink
 
-* Refreshments are provided free of charge thanks to "Canterbury Christ Church University: School of Engineering Technology and Design" and personal donations.
+* Refreshments are provided free of charge thanks to _Canterbury Christ Church University: School of Engineering Technology and Design_ and personal donations.
 * Lunch is at 1pm. Pizza.
     * There will be vegan and vegetarian options available.
 
@@ -28,7 +28,7 @@ https://github.com/calaldees/barcampCanterbury/blob/master/events/2022/email-wee
 ### Items for the _Swap Shop_
 
 Help yourself to free items at the "Swap Shop"!
-If you have any small working components, items or tools you think anyone else could use for any projects please bring them to the event for the "Swap Shop".
+If you have any small working components, items or tools you think anyone else could use for any projects please bring them to the event for the Swap Shop.
 
 ### Exhibits
 
@@ -38,7 +38,7 @@ Feel free to bring items you want to demo/exhibit.
 
 ### Possible ideas for a talk
 
-Talks are informal and can be on (almost) any topic you like. The best talks are those on accessible topics that will appeal to the diverse audience we expect to attend the event. You don't need "a PowerPoint". Talks can be off the cuff, on the spot, interactive, more like a discussion session.
+Talks are informal and can be on (almost) any topic you like. The best talks are those on accessible topics that will appeal to the diverse audience we expect to attend the event. A PowerPoint isn't required. Talks can be off the cuff, on the spot, interactive, more like a discussion session.
 
 ## Schedule Overview
 
@@ -80,7 +80,7 @@ For instructions on how "refund"/release your ticket on EventBrite, see:
 
 ## Thanks to our sponsors and supporters
 
-We'd like to say a BIG thanks to our sponsors, without whom this event would not be possible. Our sponsors this year are:
+We'd like to say a BIG thank you to our sponsors, without whom this event would not be possible. Our sponsors this year are:
 
 * [Canterbury Christ Church University: School of Engineering Technology and Design](https://www.canterbury.ac.uk/science-engineering-and-social-sciences/engineering-technology-and-design/school-of-engineering-technology-and-design.aspx)
 * [University of Kent: School of Computing](https://www.cs.kent.ac.uk/)
