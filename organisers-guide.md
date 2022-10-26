@@ -254,18 +254,19 @@ Timetable
 
 | Time  | Activity |
 |-------|----------|
-| 10:00 | Arrival/Registration |
-| 10:30 | Welcome and Introduction |
-| 11:00 | Talk Slot 1 |
-| 11:30 | Talk Slot 2 |
-| 12:00 | Talk Slot 3 |
-| 12:30 | Talk Slot 4 |
+| 09:00 | Arrival/Registration |
+| 10:00 | Welcome and Introduction |
+| 10:30 | Talk Slot 1 |
+| 11:00 | Talk Slot 2 |
+| 11:30 | Talk Slot 3 |
+| 12:00 | Talk Slot 4 |
+| 12:30 | Talk Slot 5 |
 | 13:00 | Lunch |
-| 14:00 | Talk Slot 5 |
-| 14:30 | Talk Slot 6 |
-| 15:00 | Talk Slot 7 |
-| 15:30 | Talk Slot 8 |
-| 16:00 | Talk Slot 9 |
+| 14:00 | Talk Slot 6 |
+| 14:30 | Talk Slot 7 |
+| 15:00 | Talk Slot 8 |
+| 15:30 | Talk Slot 9 |
+| 16:00 | Talk Slot 10 |
 | 16:30 | PowerPoint Karaoke |
 | 17:00 | Closing |
 | 17:30 | Tidyup |
