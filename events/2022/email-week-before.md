@@ -4,9 +4,10 @@ Email: Week Before
 
 Greetings BarCampers!
 
-BarCamp Canterbury is only a week away, so here's some information about the event.
+BarCamp Canterbury is only a few days away. Here is information about the event.
 
-< Having trouble reading this email? You can read it in your browser [here]() >
+Having trouble reading this email? You can read it in your browser
+https://github.com/calaldees/barcampCanterbury/blob/master/events/2022/email-week-before.md
 
 ## What to expect
 
@@ -27,7 +28,13 @@ BarCamp Canterbury is only a week away, so here's some information about the eve
 ### Items for the _Swap Shop_
 
 Help yourself to free items at the "Swap Shop"!
-If you have any small working components, items or tools you think anyone else could use for any projects please bring them to the event for the "swap shop".
+If you have any small working components, items or tools you think anyone else could use for any projects please bring them to the event for the "Swap Shop".
+
+### Exhibits
+
+We will have a large hack space to exhibit items/projects of interest.
+Feel free to bring items you want to demo/exhibit.
+(You bring these items at your own risk. We cannot be responsible for loss or damage)
 
 ### Possible ideas for a talk
 
@@ -48,7 +55,7 @@ The community is encouraged to take photos/videos and publicly document the even
 There will be photography if you attend the event.
 
 If you want to tweet (Twitter) before/during/after the event, please use the hash tag #barcampcant
-* [twitter](https://twitter.com/search?q=%23barcampcant)
+* [twitter #barcampcant](https://twitter.com/search?q=%23barcampcant)
 
 ## Parking
 
@@ -92,4 +99,3 @@ We look forward to seeing you all at BarCamp Canterbury on Saturday 29th October
 
 If you have any questions, please don't hesitate to email us at
 allan@barcampcanterbury.com
-
