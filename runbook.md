@@ -85,6 +85,8 @@ Checklist for running BarCamp
     * What to bring
     * Talk prep
     * Swap shop
+    * Parking
+    * (reflect this on the website too - people don't read emails)
 * Print
     * Signs
         * Direction Arrows to building + identify locations + ways to attach these
