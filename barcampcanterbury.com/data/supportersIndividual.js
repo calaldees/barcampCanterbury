@@ -3,7 +3,7 @@ build_supportersIndividual({
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"https://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
-		{href:"https://www.martinellis.me/", name:"Martin Ellis", description:"@egelmex"},
+		{href:"https://www.martinellis.me/", name:"Mex", desciption:"Cyber Security Guy"}
 		{href:"https://github.com/richlanc", name:"Richard Lancaster"},
 	],
 	"2020": [
@@ -11,6 +11,7 @@ build_supportersIndividual({
 		{href:"https://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"https://spod.cx/", name:"Ben Charlton", description:"@bencc"},
+		{href:"https://www.martinellis.me/", name:"Mex", desciption:"Cyber Security Guy"}
 		// Alex?
 		// Ed?
 	],
@@ -25,7 +26,7 @@ build_supportersIndividual({
 		{href:"http://canthack.org/", name:"Tris Linnell", description:"#canthacker"},
 	],
 	"2014": [
-		{href:"https://twitter.com/egelmex", name:"Martin Ellis", description:"Wondering Geek"},
+		{href:"https://www.martinellis.me/", name:"Mex", desciption:"Cyber Security Guy"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"https://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
 		{href:"https://www.youtube.com/watch?v:kfVsfOSbJY0", name:"Matt Hoskins", description:"Coles de Bruselas!"},
@@ -40,7 +41,7 @@ build_supportersIndividual({
 		{name:"David Hobson", description:"Python, C# bespoke software dev!"},
 	],
 	"2013": [
-		{href:"https://twitter.com/egelmex", name:"Martin Ellis", description:"Wondering Geek"},
+		{href:"https://www.martinellis.me/", name:"Mex", desciption:"Cyber Security Guy"},
 		{href:"http://canthack.org/", name:"Tris Linnell", description:"#canthacker"},
 		{href:"https://twitter.com/hanspanii", name:"Hannah Greer", description:"Geekery, employability, cats."},
 		{href:"http://soma.fm/", name:"Edd Barrett"},
