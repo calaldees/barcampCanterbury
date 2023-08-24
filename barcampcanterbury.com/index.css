@@ -67,8 +67,8 @@ a {
     margin-right: 1em;
     display:inline;
 }
-#supportersOrganisation_logos a:nth-child(3) img {
-    max-height: 4em; /* Temp Hack for Fruitworks Logo - need a better solution */
+#supportersOrganisation_logos a:nth-child(4) img {
+    /* max-height: 4em; /* Temp Hack for Fruitworks Logo - need a better solution */
 }
 
 

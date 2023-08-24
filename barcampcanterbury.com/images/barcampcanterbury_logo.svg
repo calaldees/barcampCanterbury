@@ -100,16 +100,16 @@
            id="path3272" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:140.055px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.875343"
+
+           style="font-size:160px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:sans-serif;"
            x="-263.35147"
            y="-597.12805"
-           id="text2994"
-           transform="scale(0.95454367,1.047621)"><tspan
+           id="text2994"><tspan
              sodipodi:role="line"
              id="tspan2996"
-             x="-263.35147"
-             y="-597.12805"
-             style="font-size:140.055px;line-height:1.25;stroke-width:0.875343">23</tspan></text>
+             x="-245"
+             y="-620"
+            >23</tspan></text>
       </g>
     </g>
   </g>

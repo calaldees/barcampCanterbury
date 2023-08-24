@@ -20,6 +20,7 @@
 	<link rel="stylesheet" type="text/css" href="index.css" />
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<!--
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137407575-1"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
@@ -27,6 +28,7 @@
 		gtag('js', new Date());
 		gtag('config', 'UA-137407575-1');
 	</script>
+	-->
 
 	<!-- AddEvent script -->
 	<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
@@ -80,8 +82,8 @@
 			<p class="lead font-weight-normal">
 				A free-to-attend community tech unconference
 			</p>
-			<!--<p>Saturday October 29th 2022</p>-->
-			<p>Happening sometime in 2023 ...</p>
+			<p>Saturday October 28th 2023</p>
+			<!--<p>Happening sometime in 2023 ...</p>-->
 			<p><i style="font-size: small;">Hosted last year by</i> 
 				Canterbury Christ Church University: School of Engineering, Technology and Design
 			</p>
@@ -123,7 +125,7 @@
 			<div class="col-sm mx-3">
 				<h3>Where</h3>
 				<p>Canterbury, Kent, UK</p>
-				<p>Venue: To be confirmed ...</p>
+				<p>Venue: <a href="https://www.kent.ac.uk/library-it/templeman">University of Kent: Templeman Library</a></p>
 				
 				<!--
 				<p><a href="https://what3words.com/takes.vision.stem">what3words.com/takes.vision.stem</a></p>
@@ -132,9 +134,9 @@
 			</div>
 			<div class="col-sm mx-3">
 				<h3>When</h3>
-				<p>BarCamp Canterbury will return sometime in 2023?
-				<!--
-				<p>Saturday October 29th 2022</p>
+				<!-- <p>BarCamp Canterbury will return sometime in 2024? -->
+
+				<p>Saturday October 28th 2023</p>
 				<ul>
 					<li>09:00 Doors</li>
 					<li>10:00 Opening talk</li>
@@ -144,21 +146,20 @@
 
 				<div title="Add to Calendar" class="addeventatc">
 					Add to Calendar
-					<span class="start">10/29/2022 10:00</span>
-					<span class="end">10/29/2022 17:00</span>
+					<span class="start">10/28/2023 10:00</span>
+					<span class="end">10/28/2023 17:00</span>
 					<span class="timezone">UK/London</span>
 					<span class="title">Barcamp Canterbury</span>
-					<span class="location">Verena Holmes, Canterbury, Kent, UK</span>
+					<span class="location">Templeman Library, University of Kent, Canterbury, Kent, UK</span>
 					<span class="organizer_email">admin@barcampcanterbury.com</span>
 					<span class="alarm_reminder">1440</span>
 				</div>
 				<a href="calender/event.ics">&#128197; iCal</a></p>
-				-->
 
 				<p id="days_until_event"></p>
 				<script>
 					const days_between = (d1, d2) => Math.ceil((d1.getTime() - d2.getTime()) / (1000 * 3600 * 24)) // https://linuxhint.com/calculate-days-between-two-dates-javascript/
-					const event_date = new Date('10/29/2022')
+					const event_date = new Date('10/28/2023')
 					const days = days_between(event_date, new Date())
 					const $el = document.getElementById("days_until_event")
 					if      (days > 7) {$el.textContent = `${Math.floor(days/7)} weeks until BarCamp`}
@@ -186,9 +187,10 @@
 				<p>
 					Events host between 50 and 160 attendees.
 				<p>
-					<p><a href="https://www.canterbury.ac.uk/science-engineering-and-social-sciences/engineering-technology-and-design/'">Canterbury Christ Church University's - School of Engineering, Technology and Design</a>: Proudly hosted BarCamp Canterbury in their <a href="https://www.canterbury.ac.uk/study-here/student-life/our-locations/canterbury-campus/verena-holmes-building">Verena Holmes</a> Maker Space last year.
-				<p>
 					<a href="https://www.cs.kent.ac.uk/">The University of Kent School of Computing</a> has historicity hosted the event for over 10 years and provided immense support in fostering our community.
+				<p>
+					<a href="https://www.canterbury.ac.uk/science-engineering-and-social-sciences/engineering-technology-and-design/'">Canterbury Christ Church University's - School of Engineering, Technology and Design</a>: Proudly hosted BarCamp Canterbury in their <a href="https://www.canterbury.ac.uk/study-here/student-life/our-locations/canterbury-campus/verena-holmes-building">Verena Holmes</a> Maker Space in 2022.
+
 			</div>
 
 			<div class="col-lg mx-3">
@@ -274,8 +276,8 @@
 
 				<ul>
 					<li>BarCamp Canterbury 2022</li>
-					<li><a href="https://www.youtube.com/playlist?list=PLVexpjGAzOBZTXZNsKWa_OXS8D0yY5H7w">Virtual BarCamp Canterbury 2020</a></li>
-					<li><a href="https://www.youtube.com/playlist?list=PLVexpjGAzOBb8o8xNAWM4fhFd8KdHR8HQ">BarCamp Cantebruy 2019</a></li>
+					<li>Virtual BarCamp Canterbury 2020</li><!-- <a href="https://www.youtube.com/playlist?list=PLVexpjGAzOBZTXZNsKWa_OXS8D0yY5H7w"> -->
+					<li>BarCamp Cantebruy 2019</li><!-- <a href="https://www.youtube.com/playlist?list=PLVexpjGAzOBb8o8xNAWM4fhFd8KdHR8HQ"> -->
 					<li><a href="https://twitter.com/search?src=typd&q=%23BarCampCant">#BarCampCant</a> <a href="https://twitter.com/search?src=typd&q=%23bccant">#bccant (old)</a></li>
 					<li>BarCamp Canterbury 2013 <a href="https://www.flickr.com/photos/jonnyentropy/albums/72157633434600085">photos1</a> <a href="https://www.flickr.com/photos/vext01/albums/72157633347321185">photos2</a></li>
 				</ul>
