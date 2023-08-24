@@ -39,9 +39,13 @@ Checklist for running BarCamp
         * Tables? Setup-Teardown, Trollys for heavy equipment?
         * Cleanup tools (slipping?`)
     * Catering discussion
+        * Rough numbers
     * Notify 
         * AV
         * Security
+    * Other
+        * Parking arrangements
+        * Wifi Guest details
 * Setup digital signage
 * Get in touch with cool possible speakers
     * Get them to tweet
