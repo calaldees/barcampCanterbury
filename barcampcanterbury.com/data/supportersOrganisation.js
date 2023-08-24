@@ -20,6 +20,16 @@ build_supportersOrganisation([
     image_style: "padding: 1.2em;",
 },
 {
+    name: 'CodeHarbour',
+    href: 'https://codeharbour.co.uk/',
+    href_text: 'Website',
+    description: 'codeHarbour is a technology meetup in Kent. Every month we watch two talks from technology enthusiasts, followed by general networking.',
+    image: 'images/sponsors/codeharbour-logo.webp',
+    twitter: 'codeharbour',
+    linkedin: 'https://www.linkedin.com/company/codeharbour/',
+    image_style: "padding: 1.2em;",
+},
+{
     name: 'The Familiar',
     href: 'https://www.thefamiliar.tech/',
     href_text: 'Website',
@@ -28,6 +38,7 @@ build_supportersOrganisation([
     twitter: '_The_Familiar',
     linkedin: '​https://www.linkedin.com/company/thefamiliar',
 },
+
 /*
 {
     name: 'Canterbury Christ Church University: School of Engineering, Technology and Design',
