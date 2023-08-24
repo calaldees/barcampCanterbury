@@ -9,7 +9,7 @@ Setup Team
 
 ?x
 
-Car transport required - maybe quickly purchase ice on route
+Car transport required
 
 * 8:45 Arrive with car
 * 9:00
@@ -18,15 +18,12 @@ Car transport required - maybe quickly purchase ice on route
     * Arrange Swap Shop table (Foyer)
     * Signs
         * Setup eventroom signs
-            * Some with video symbol
-        * Setup BarCamp signs (maybe with arrows) on doors leading to eventspace
+            * Some with video symbol?
+        * Setup BarCamp signs 
+            * A-Frames?
         * Swapshop sign
     * Main Room
-        * Arrange desks around the ourside and chairs in middle
-        * Put paper tablecloths on outside tables
-        * Setup breakfast snacks and drinks on outside tables
-            * Merge drinks with ice box's
-            * Open cereal bars and crisp multi-packs
+        * Arrange desks to floor plan
     * Eventrooms
         * Setup video recording equipment (Video Specalist)
         * Layout rooms (appropriate for talks)
@@ -37,10 +34,12 @@ Car transport required - maybe quickly purchase ice on route
             * Extra electronic cables/adaptors
             * Ducktape
             * Masking tape
-            * Serving spoons
             * Whiteboard pens + cleaning fluid
+* Team informed of contact/emergency information
+    *  Printed
 
 ???: What could we do to ensure that 'Customer Support' or 'key organisers' are identifiable?
+Plain Orange T-Shirts (bulk? https://www.ebay.co.uk/itm/283283832702)
 
 
 Social Media Team
@@ -48,7 +47,7 @@ Social Media Team
 
 2x
 
-* 10:00 to 17:00
+* 09:00 to 17:00
     * Ongoing event cometary
     * Using our BarCamp login
         * Twitter
@@ -56,13 +55,32 @@ Social Media Team
     * Monitoring for abuse
 
 
-Video Equipment Overwatch
--------------------------
+Videographer 
+------------
 
 1x (specialist)
 
 * 9:00 to 16:30
     * Setup/check/maintain recording equipment
+
+
+Talk Support
+------------
+
+1x (seasoned + trustworthy)
+
+* Some speakers may want support or be nervous
+    * May not want photography - needs enforcing
+
+
+Equipment Lugging Brute Squad
+-----------------------------
+
+2x
+
+* 08:00 to 10:00
+    * Have access to trolley for moving heavy objects
+    * Help attendees bring in and setup any equipment
 
 
 Welcome Desk Team
@@ -88,6 +106,21 @@ Welcome Desk Team
     * Register late arrivals
 
 
+
+Late Welcome Watch
+------------------
+
+2x
+
+* 10:30 to 13:00
+    * There will be late arrivals
+    * Identify them
+    * Get them a name badge
+    * Tick their attendance
+    * Tell them about the format
+
+
+
 Opening Talk (Usher)
 --------------------
 
@@ -99,84 +132,6 @@ Opening Talk (Usher)
     * Ask late arrivals to register once the opening talk has finished.
 
 
-Late Welcome Watch
-------------------
-
-2x
-
-* 10:30 to 13:00
-    * There will be late arrivales
-    * Identify them
-    * Get them a name badge
-    * Tick their attendence
-    * Tell them about the format
-
-
-Food Runners
-------------
-
-2x
-
-* 11:30? Sainsburys run (in car)
-    * Sainsburys will have our lunch available for collection from 10am
-        * Order number needed for collection
-            * Document should be on google drive
-    * Buy 4 bags of ice (to cool drinks)
-    * Additional food provision (Vegan, Gluten Free, Other)
-        * May require separate runners
-        * Sainsburys and ASDA have no Vegan provisions - M&S and Waitrose have have a small range
-
-
-Lunch Overwatch Team
---------------------
-
-2x
-* 12:00ish
-    * Layout incoming food
-    * Napkins/plates/cutlery accessible
-    * Cycle drinks (iced?)
-        * Empty (water from ice box's if needed)
-    * Continually tidy away truly disposable items (empty drinks cans, empty plates)
-    * Compact down all food to minimum number of tables at the end of lunch
-    * Liquid disposal (toilets?)
-        * Unfinished drinks to be poured away before being disposed of
-        * Water from ice box's may need emptying
-
-
-Emergency Food Runners
-----------------------
-
-2x (hopefully not required but we should have people on standby)
-
-* 16:00 Emergency food run (in car)?
-    * In prep for supper
-    * Drink/other supplies dwindling?
-    * More ice?
-
-
-Alternate Food Provision Orderer
---------------------------------
-
-1x
-
-* 15:00ish
-    * We have Vegans/Other that require food ordered on the day to coincide with pizza at 17:00
-    * You will be given a wadge of cash
-    * Co-ordinate with the identified alternate food people
-    * Order food (phone or internet)
-    * Email the receipt to admin@barcampcanterbury.com
-
-
-Pizza Overwatch Team
---------------------
-
-2x
-
-* 16:45 - Get pizzas from car park on tables
-* 17:00 - 17:45
-    * See lunch overwatch
-
-
 Waste Overwatch Team
 --------------------
 
@@ -185,15 +140,18 @@ Waste Overwatch Team
 * 10:00 to 17:00 - circulate + intercept
 
 
-Fire Stewards
--------------
+Emergency Response Team
+-----------------------
 
-4x (on standby) with known locations
+4x (on standby) 
 
-* In event of evacuation
-* Keep pathways clears
-* Slip trip hazzards removed
-* Rooms cannot be overfilled?
+* Fire exit - with known locations
+    * In event of evacuation
+    * Keep pathways clears
+    * Slip trip hazards removed
+    * Rooms cannot be overfilled?
+* Contact/run to security office for support and first aid
+* Aware of risk assessment (read printout)
 
 
 Teardown Crew
@@ -205,6 +163,5 @@ Teardown Crew
 * 17:45 Teardown everything
     * Take signs down
     * Rubbish bags?? (Where do we put them?)
-    * Pizza box's? (Where do we put them?)
     * Rearrange tables back to start of day
     * Stash equipment in car

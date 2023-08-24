@@ -1,0 +1,24 @@
+name: deploy_website
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '.github/workflows/deploy_website.yml'
+      - 'barcampcanterbury.com/**'
+
+jobs:
+  test:
+    name: deploy_website
+    runs-on: ubuntu-latest
+
+    steps:
+      - id: ssh
+        uses: invi5H/ssh-action@v1
+        with:
+          SSH_HOST: barcampcanterbury.com
+          #SSH_PORT: ${{ secrets.SSH_PORT }}
+          SSH_USER: barcampcanterbury
+          SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+      - run: ssh ${{ steps.ssh.outputs.SERVER }} 'cd barcampcanterbury.com && git pull'

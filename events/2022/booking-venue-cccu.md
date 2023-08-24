@@ -20,6 +20,10 @@ CCCU
 * [Digital Signage](https://cccu.canterbury.ac.uk/marketing-and-communications/services/digital-signage.aspx)
     * Digital screen content request Form
 * Ticketing?
+* Security
+    * Informed in advance
+        * Ventilation + Rooms
+        * Doors electronically unlocked?
+    * Contact Security by emailing facilities-helpdesk@canterbury.ac.uk (minimum 2 weeks before)
 
 
-* Contact Security by emailing facilities-helpdesk@canterbury.ac.uk (minimum 2 weeks before)

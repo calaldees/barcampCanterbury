@@ -18,8 +18,49 @@ build_supportersOrganisation([
         twitter: 'UniKentComp',
         image_style: "padding: 1.2em;",
     },
+    {
+        name: 'Fruitworks Coworking',
+        href: 'https://fruitworks.co/',
+        href_text: 'Website',
+        description: 'Fruitworks is a dedicated Coworking & hot desking space based in Canterbury. Offering open plan hot desking, private studio offices, multiple meeting & conference rooms, coffee shop, & event space all within Canterbury city centre.',
+        image: 'images/sponsors/logo_fruitworksco.svg',
+        twitter: 'fruitworksco',
+        instagram: 'fruitworksco',
+    },
+    {
+        name: 'The Familiar',
+        href: 'https://www.thefamiliar.tech/',
+        href_text: 'Website',
+        description: 'The Familiar uses human-centred design & technology to help teams & leaders make products, services & decisions of lasting impact.',
+        image: 'images/sponsors/TF_Main_16-6_RGB_WBack_WMargin.svg',
+        twitter: '_The_Familiar',
+        linkedin: '​https://www.linkedin.com/company/thefamiliar',
+    },
+    {
+        name: 'The Institution of Engineering and Technology (IET)',
+        href: 'https://www.theiet.org/',
+        href_text: 'Website',
+        description: 'Supporting our local community of current and future engineers and technologists',
+        image: 'images/sponsors/iet.jpg',
+        twitter: 'TheIET',
+        linkedin: 'https://www.linkedin.com/school/iet/',
+        image_style: "padding: 1.2em;",
+    },
+
+    {
+        name: 'The STEM Hub',
+        href: 'https://thestemhub.org.uk/',
+        href_text: 'Website',
+        description: 'Canterbury Christ Church University operating as The STEM Hub holds the STEM Learning STEM Ambassador and schools network contract for the South East of England and provides information and links to Science, Technology, Engineering and Maths (STEM) Enhancement & Enrichment activities.',
+        image: 'images/sponsors/the-stem-hub-logo-primary.svg',
+        twitter: 'STEMHUB_SE',
+        image_style: "padding: 1.2em;",
+    },
+
+    
 
 
+    
 
 
 /*    2019

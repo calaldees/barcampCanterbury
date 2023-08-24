@@ -44,7 +44,7 @@ General Instructions
 --------------------
 
 * Do not run on site
-* Attendees under 18 years old must be accompanied by a responsible parent/guardian.
+* Attendees under 18 years old are welcome, but must be accompanied by a responsible parent/guardian.
 
 
 References

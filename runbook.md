@@ -39,9 +39,13 @@ Checklist for running BarCamp
         * Tables? Setup-Teardown, Trollys for heavy equipment?
         * Cleanup tools (slipping?`)
     * Catering discussion
+        * Rough numbers
     * Notify 
         * AV
         * Security
+    * Other
+        * Parking arrangements
+        * Wifi Guest details
 * Setup digital signage
 * Get in touch with cool possible speakers
     * Get them to tweet
@@ -54,6 +58,7 @@ Checklist for running BarCamp
 * Setup social media post auto/queue/timeline
 * Attend local tech events to cross promote
 * Ask hosting venues marketing team to assist in cross promotion (make them aware of what the event is)
+* Parking investigation
 
 
 1 Month Before
@@ -72,6 +77,8 @@ Checklist for running BarCamp
     * Facebook
     * Discord
         * Reports/Harassment
+* Book venue for after gathering
+* Parking cementing arrangements
 
 
 1 Week Before
@@ -81,6 +88,9 @@ Checklist for running BarCamp
     * Code of conduct
     * What to bring
     * Talk prep
+    * Swap shop
+    * Parking
+    * (reflect this on the website too - people don't read emails)
 * Print
     * Signs
         * Direction Arrows to building + identify locations + ways to attach these
@@ -93,6 +103,10 @@ Checklist for running BarCamp
     * Social/demo space
 * Check Room AV Tech
 * Book a feedback meeting (learning for next year, etc)
+* Recruit volunteers for roles
+* Setup talk online/open talk grid document
+* Setup "On the day" section of website
+    * hashtag
 
 
 1 Day Before
@@ -118,3 +132,4 @@ Checklist for running BarCamp
     * Urns?
     * Paper tablecloths
     * Water/Fruit
+* Setup link to talk grid
