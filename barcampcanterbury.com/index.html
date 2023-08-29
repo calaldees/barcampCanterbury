@@ -376,37 +376,6 @@
 
 		<!-- --------------------------------------------------------------- -->
 
-		<h2 id="supporters_heading">Individual Supporters</h2>
-		<p>
-			We would like to thank our supporters over the years who have contributed time, money or wares to make BarCamp Possible.
-		<p>
-			(Add yourself to the supporters list via <a href="https://github.com/calaldees/barcampCanterbury/blob/master/barcampcanterbury.com/data/supportersIndividual.js">Pull Request</a>)
-
-		<div class="row">
-			<div class="col my-3">
-				<div id="supportersIndividual"></div>
-				<script>
-					function build_supportersIndividual(data) {
-						const $supportersIndividual = $('#supportersIndividual');
-						for (let year of Object.getOwnPropertyNames(data).reverse()) {
-							$supportersIndividual.append(`<h4>${year}</h4>`);
-							const $supporters_year = $supportersIndividual.append('<div class="card_container"></div>').children().last();
-							for (let supporter of data[year]) {
-								$supporters_year.append(`
-									<div class="card">
-  										<img src="${supporter.image || IMG_NULL}" class="card-img-top" alt="${supporter.name}">
-										<div class="card-body">
-											<a class="card-title" href="${supporter.href || ''}">${supporter.name}</a>
-											<p class="card-text">${supporter.description || ''}</p>
-										</div>
-									</div>
-								`);
-							}
-						}
-					};
-				</script>
-			</div>
-		</div>
 
 		<h2>Other Bits</h2>
 		<div class="row my-3">
@@ -439,6 +408,43 @@
 			</div>
 
 		</div><!-- end row -->
+
+		<!-- --------------------------------------------------------------- -->
+
+
+		<h2 id="supporters_heading">Individual Supporters</h2>
+		<p>
+			We would like to thank our supporters over the years who have contributed time, money or wares to make BarCamp Possible.
+		<p>
+			(Add yourself to the supporters list via <a href="https://github.com/calaldees/barcampCanterbury/blob/master/barcampcanterbury.com/data/supportersIndividual.js">Pull Request</a>)
+
+		<div class="row">
+			<div class="col my-3">
+				<div id="supportersIndividual"></div>
+				<script>
+					function build_supportersIndividual(data) {
+						const $supportersIndividual = $('#supportersIndividual');
+						for (let year of Object.getOwnPropertyNames(data).reverse()) {
+							$supportersIndividual.append(`<h4>${year}</h4>`);
+							const $supporters_year = $supportersIndividual.append('<div class="card_container"></div>').children().last();
+							for (let supporter of data[year]) {
+								$supporters_year.append(`
+									<div class="card">
+  										<img src="${supporter.image || IMG_NULL}" class="card-img-top" alt="${supporter.name}">
+										<div class="card-body">
+											<a class="card-title" href="${supporter.href || ''}">${supporter.name}</a>
+											<p class="card-text">${supporter.description || ''}</p>
+										</div>
+									</div>
+								`);
+							}
+						}
+					};
+				</script>
+			</div>
+		</div>
+
+
 
 		
 		<h2>Credits</h2>
