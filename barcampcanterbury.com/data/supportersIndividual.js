@@ -16,7 +16,7 @@ build_supportersIndividual({
 		{href:"https://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"https://spod.cx/", name:"Ben Charlton", description:"@bencc"},
-		{href:"https://www.martinellis.me/", name:"Mex", desciption:"Cyber Security Guy"}
+		{href:"https://www.martinellis.me/", name:"Mex", description:"Cyber Security Guy"},
 		// Alex?
 		// Ed?
 	],
@@ -31,7 +31,7 @@ build_supportersIndividual({
 		{href:"http://canthack.org/", name:"Tris Linnell", description:"#canthacker"},
 	],
 	"2014": [
-		{href:"https://www.martinellis.me/", name:"Mex", desciption:"Cyber Security Guy"},
+		{href:"https://www.martinellis.me/", name:"Mex", description:"Cyber Security Guy"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"https://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
 		{href:"https://www.youtube.com/watch?v:kfVsfOSbJY0", name:"Matt Hoskins", description:"Coles de Bruselas!"},
