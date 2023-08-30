@@ -44,7 +44,7 @@ build_supportersOrganisation([
     name: 'Canterbury Christ Church University: School of Engineering, Technology and Design',
     href: 'https://www.canterbury.ac.uk/science-engineering-and-social-sciences/engineering-technology-and-design/',
     href_text: 'Website',
-    description: 'The school of Engineering, Technology and Design has generously donated the venue "Verena Holmes" for 2022.',
+    description: 'The school of Engineering, Technology and Design proudly hosted BarCamp Canterbury 2022 in there Verena Holmes maker space.',
     image: 'images/sponsors/CCCU-logo-2colour.svg',
     twitter: 'canterburyccuni',
     image_style: "padding: 1.2em;",
