@@ -1,6 +1,16 @@
 build_supportersOrganisation([
 /* 2023 */
 {
+    name: 'University of Kent: Library and IT Services',
+    href: 'https://www.kent.ac.uk/library-it',
+    href_text: 'Website',
+    description: 'Information Services has generously donated some of The Templeman Library study space to host our community event.',
+    image: 'images/sponsors/kent.svg',
+    twitter: 'UniKentLibIT',
+    image_style: "padding: 1.2em;",
+},
+/*
+{
     name: 'University of Kent: School of Computing',
     href: 'https://www.cs.kent.ac.uk/',
     href_text: 'Website',
@@ -9,6 +19,7 @@ build_supportersOrganisation([
     twitter: 'UniKentComp',
     image_style: "padding: 1.2em;",
 },
+*/
 {
     name: 'The Institution of Engineering and Technology (IET)',
     href: 'https://www.theiet.org/',
