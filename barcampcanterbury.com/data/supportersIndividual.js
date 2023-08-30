@@ -46,7 +46,7 @@ build_supportersIndividual({
 		{name:"David Hobson", description:"Python, C# bespoke software dev!"},
 	],
 	"2013": [
-		{href:"https://www.martinellis.me/", name:"Mex", desciption:"Cyber Security Guy"},
+		{href:"https://www.martinellis.me/", name:"Mex", description:"Cyber Security Guy"},
 		{href:"http://canthack.org/", name:"Tris Linnell", description:"#canthacker"},
 		{href:"https://twitter.com/hanspanii", name:"Hannah Greer", description:"Geekery, employability, cats."},
 		{href:"http://soma.fm/", name:"Edd Barrett"},
