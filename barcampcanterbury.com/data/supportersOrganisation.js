@@ -9,6 +9,15 @@ build_supportersOrganisation([
     twitter: 'UniKentLibIT',
     image_style: "padding: 1.2em;",
 },
+{
+    name: 'Canterbury Christ Church University: School of Engineering, Technology and Design',
+    href: 'https://www.canterbury.ac.uk/science-engineering-and-social-sciences/engineering-technology-and-design/',
+    href_text: 'Website',
+    description: 'The school of Engineering, Technology and Design proudly hosted BarCamp Canterbury 2022 in there Verena Holmes maker space.',
+    image: 'images/sponsors/CCCU-logo-2colour.svg',
+    twitter: 'canterburyccuni',
+    image_style: "padding: 1.2em;",
+},
 /*
 {
     name: 'University of Kent: School of Computing',
@@ -49,17 +58,7 @@ build_supportersOrganisation([
     twitter: '_The_Familiar',
     linkedin: '​https://www.linkedin.com/company/thefamiliar',
 },
-
 /*
-{
-    name: 'Canterbury Christ Church University: School of Engineering, Technology and Design',
-    href: 'https://www.canterbury.ac.uk/science-engineering-and-social-sciences/engineering-technology-and-design/',
-    href_text: 'Website',
-    description: 'The school of Engineering, Technology and Design proudly hosted BarCamp Canterbury 2022 in there Verena Holmes maker space.',
-    image: 'images/sponsors/CCCU-logo-2colour.svg',
-    twitter: 'canterburyccuni',
-    image_style: "padding: 1.2em;",
-},
 {
     name: 'Fruitworks Coworking',
     href: 'https://fruitworks.co/',
