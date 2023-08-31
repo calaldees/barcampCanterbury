@@ -12,12 +12,9 @@ Engineering blog (post) (Maxines old?)
 
 Reflective peice
 
-Jamie Steveans
-Stephan 
+(media team) will be in contact
 
-Janett (media team) will be in contat
-
-Requst though to marketing services digital signages
+Request though to marketing services digital signage
 
 
 
@@ -111,94 +108,10 @@ CCCU Social Platforms
 
     Engineering Blog 
 
- 
-
- 
-
- 
-
- 
-	
 
 05/09/2022 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 29/10/2022 
-
- 
 
 01/11/2022 
 	
@@ -206,118 +119,17 @@ CCCU Social Platforms
 Allan (?) 
 
 Higher Education – General 
-	
-
- 
-	
-
- 
-	
-
- 
-	
-
- 
 
 Higher Education - Students 
-	
-
- 
-	
-
- 
-	
-
- 
-	
-
- 
 
 Higher Education - Staff 
 	
 
- 
-	
-
- 
-	
-
- 
-	
-
- 
-
 Industry and Professionals 
 	
 
- 
-	
-
- 
-	
-
- 
-	
-
- 
-
 Schools 
 	
-
- 
-	
-
- 
-	
-
- 
-	
-
- 
-
- 
-	
-
- 
-	
-
- 
-	
-
- 
-	
-
- 
-
- 
-	
-
- 
-	
-
- 
-	
-
- 
-	
-
- 
-
- 
-	
-
- 
-	
-
- 
-	
-
- 
-	
-
- 
-
- 
 
 Note: All dates are final deadlines and therefore all deliverables (EG copy, print, artwork etc…) must be handed over to the relevant distributor by these dates. 
 
@@ -360,10 +172,6 @@ Schools
     Teachers (Computing / DT) 
 
     STEM Ambassadors (via STEMHub) 
-
- 
-
- 
 
  
 
