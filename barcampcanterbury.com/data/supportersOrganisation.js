@@ -36,7 +36,7 @@ build_supportersOrganisation([
     description: 'Supporting our local community of current and future engineers and technologists',
     image: 'images/sponsors/iet.jpg',
     twitter: 'TheIET',
-    linkedin: 'https://www.linkedin.com/school/iet/',
+    linkedin: 'school/iet/',
     image_style: "padding: 1.2em;",
 },
 {
@@ -46,7 +46,7 @@ build_supportersOrganisation([
     description: 'codeHarbour is a technology meetup in Kent. Every month we watch two talks from technology enthusiasts, followed by general networking.',
     image: 'images/sponsors/codeharbour-logo.webp',
     twitter: 'codeharbour',
-    linkedin: 'https://www.linkedin.com/company/codeharbour/',
+    linkedin: 'company/codeharbour/',
     image_style: "padding: 1.2em;",
 },
 {
@@ -56,7 +56,16 @@ build_supportersOrganisation([
     description: 'The Familiar uses human-centred design & technology to help teams & leaders make products, services & decisions of lasting impact.',
     image: 'images/sponsors/TF_Main_16-6_RGB_WBack_WMargin.svg',
     twitter: '_The_Familiar',
-    linkedin: '​https://www.linkedin.com/company/thefamiliar',
+    linkedin: 'company/thefamiliar',
+},
+{
+    name: 'Sustainable Engineering',
+    href: 'https://sustainable.engineering/',
+    href_text: 'Website',
+    description: "The Sustainable Engineering Project is the world's first open-source, collaborative database of sustainability-positive engineering products, materials, technologies and processes. The Project's objective is to help environmentally conscious engineers make better informed sustainability decisions when specifying bills-of-materials for new and updated products.",
+    image: 'images/sponsors/sustainable-engineering-logo.webp',
+    linkedin: 'company/sustainable-engineering-project/',
+    image_style: "padding: 1.2em;",
 },
 /*
 {

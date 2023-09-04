@@ -302,9 +302,17 @@
 					const $supportersOrganisation = $('#supportersOrganisation');
 					const $supportersOrganisation_logos = $('#supportersOrganisation_logos');
 					for (let supporter of data) {
-						instagram_link = '';
+						let twitter_link = ''
+						let instagram_link = ''
+						let linkedin_link = ''
+						if (supporter.twitter) {
+							twitter_link = `<a href="https://twitter.com/${supporter.twitter || ''}" class="card-link">@${supporter.twitter || ''}</a>`
+						}
 						if (supporter.instagram) {
-							instagram_link = `<a href="https://www.instagram.com/${supporter.instagram}" class="card-link">Instagram</a>`;
+							instagram_link = `<a href="https://www.instagram.com/${supporter.instagram}" class="card-link">Instagram</a>`
+						}
+						if (supporter.linkedin) {
+							linkedin_link = `<a href="https://www.linkedin.com/${supporter.linkedin}" class="card-link">LinkedIn</a>`
 						}
 
 						$supportersOrganisation.append(`
@@ -318,8 +326,9 @@
 								<div style="display: flex; flex-grow: 100"></div>
 								<div class="card-body">
 									<a href="${supporter.href}" class="card-link">${supporter.href_text || ''}</a>
-									<a href="https://twitter.com/${supporter.twitter || ''}" class="card-link">@${supporter.twitter || ''}</a>
+									${twitter_link}
 									${instagram_link}
+									${linkedin_link}
 								</div>
 							</div>
 						</div>
