@@ -2,7 +2,7 @@ Previous Events
 ===============
 
 * [#bccant](https://twitter.com/search?q=%23bccant) (old hashtag - do not use)
-* [#BarCampCant](https://twitter.com/search?q=%23BarCampCant)
+* [#BarCampCant](https://twitter.com/search?q=%23BarCampCant) (this is inline with username @BarCampCant)
 
 2019
 ----
