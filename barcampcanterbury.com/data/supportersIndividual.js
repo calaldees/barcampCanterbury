@@ -3,6 +3,7 @@ build_supportersIndividual({
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
 		{href:"https://alexcachia.co.uk/", name:"Alex Cachia", description:"@AlexCachia5"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
+		{href:"https://www.martinellis.me/", name:"Mex", description:"Cyber Security Guy"},
 	],
 	"2022": [
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
