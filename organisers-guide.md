@@ -13,7 +13,7 @@ BarCamp is an established format for an free and open 'un-conference'.
 Terminology
 -----------
 
-* The ethos of Barcamp is free, open, community.
+* The ethos of BarCamp is free, open, community.
 * Some terms and phrases that do not align with these principles can cause friction.
 * Business terminology is suggested to be avoided.
 
@@ -25,7 +25,7 @@ Timeline
     * Catering
     * Risk Assessment
 2. Secure supporter (logo's of local organisations that support local tech community)
-3. Adverting (digital signage in universitys + schools?)
+3. Adverting (digital signage in universities + schools?)
 
 
 Venue
@@ -156,6 +156,8 @@ Advertising
             * This keeps communication transparent and prevents us from holding personal data
     * _flickr_ (todo: setup group)
     * _Instagram_
+* buffer.com
+    * Charges a fortune
 
 
 ### Previous Tickets
@@ -237,6 +239,10 @@ Previous events have targeted 100 attendees.
 
 Badges
 ------
+
+Providing pre printed named badges help the event 'feel' like a conference.
+This create an important atmosphere.
+I would highly discourage 'just' writing name badges with pen and stickers.
 
 * [On the Usability of Name Tags](https://karl-voit.at/2011/06/09/usability-name-tags/)
 
