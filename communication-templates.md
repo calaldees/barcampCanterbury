@@ -9,3 +9,4 @@ home automation, car mechanics, automating stage lighting, building digital badg
 Lunch will also be provided and the event itself will be concluded with a closing talk followed by an amusing session of Slideshow karaoke!
 For more information, including how to order tickets, please visit https://barcampcanterbury.com/
 
+

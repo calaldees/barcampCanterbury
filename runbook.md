@@ -68,10 +68,13 @@ Checklist for running BarCamp
     * Have a date in advance
 * Print Vinyl Banners
 * Print Mugs (2 weeks before)
-* Cement coffee provision + catering
+* Cement coffee provision + catering?
+    * Get quotes from food suppliers
 * Consider ways to identify volunteers/staff
     * Bulk buy cheap plain colour tshirts £2.50 each?
         * https://www.ebay.co.uk/itm/283283832702
+* Trophies/Prizes?
+    * Buy and cute gifts or trophies
 * Who will monitor social media during the event?
     * Twitter
     * Facebook
@@ -91,7 +94,12 @@ Checklist for running BarCamp
     * Swap shop
     * Parking
     * (reflect this on the website too - people don't read emails)
+* Purchase
+    * Cans of Drink and Snacks
+    * (Book Pizzas's?)
 * Print
+    * Code of conduct
+    * Privacy policy
     * Signs
         * Direction Arrows to building + identify locations + ways to attach these
         * Photography will happen
@@ -132,4 +140,6 @@ Checklist for running BarCamp
     * Urns?
     * Paper tablecloths
     * Water/Fruit
-* Setup link to talk grid
+* Website
+    * Setup link to talk grid
+    * Parking

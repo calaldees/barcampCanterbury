@@ -93,12 +93,7 @@ Welcome Desk Team
         * Electronic should be accessible to the rest of the team (suggest Google doc)
     * Greet people
     * Tick/Mark record attendance
-    * Allocate Tribe
-        * Attempt to balance equal numbers per tribe
-            * Blaze (red), Cloud (white/black), Flood (navy blue), Terra (dark green)
-            * Gently encourage groups/friends to join different tribes
-        * Ask if they would like an electronic badge
-        * Give colored sticker dot for their badge
+    * Check attendees have read code of conduct and privacy policy (printed)
     * Gently recruit additional helper roles (see roles below)
         * Give them a timeslot and a role
         * Maintain a Helper List (paper or electronic)
