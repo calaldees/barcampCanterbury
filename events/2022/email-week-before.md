@@ -22,6 +22,9 @@ https://github.com/calaldees/barcampCanterbury/blob/master/events/2022/email-wee
 * Refreshments are provided free of charge thanks to _Canterbury Christ Church University: School of Engineering Technology and Design_ and personal donations.
 * Lunch is at 1pm. Pizza.
     * There will be vegan and vegetarian options available.
+    * (As this an event that is run on community donations, we may not be able to cater for specialist dietary needs)
+* Bring a coat! We will be eating our pizzas in the gazebos outside. 
+    * We are super grateful to The University of Kent for generously donating the space for us to use. We have ordered pizza for lunch to keep the cost of feeding everyone down, but we can't eat these inside the university buildings.
 
 ## What to bring
 
