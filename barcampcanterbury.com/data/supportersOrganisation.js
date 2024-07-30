@@ -1,5 +1,5 @@
 build_supportersOrganisation([
-/* 2023 */
+/* 2024 */
 {
     name: 'University of Kent: Library and IT Services',
     href: 'https://www.kent.ac.uk/library-it',
@@ -9,6 +9,7 @@ build_supportersOrganisation([
     twitter: 'UniKentLibIT',
     image_style: "padding: 1.2em;",
 },
+/*
 {
     name: 'Canterbury Christ Church University: School of Engineering, Technology and Design',
     href: 'https://www.canterbury.ac.uk/science-engineering-and-social-sciences/engineering-technology-and-design/',
@@ -18,6 +19,7 @@ build_supportersOrganisation([
     twitter: 'canterburyccuni',
     image_style: "padding: 1.2em;",
 },
+*/
 /*
 {
     name: 'University of Kent: School of Computing',
@@ -29,6 +31,7 @@ build_supportersOrganisation([
     image_style: "padding: 1.2em;",
 },
 */
+/*
 {
     name: 'The Institution of Engineering and Technology (IET)',
     href: 'https://www.theiet.org/',
@@ -39,6 +42,7 @@ build_supportersOrganisation([
     linkedin: 'school/iet/',
     image_style: "padding: 1.2em;",
 },
+*/
 {
     name: 'CodeHarbour',
     href: 'https://codeharbour.co.uk/',
@@ -49,6 +53,7 @@ build_supportersOrganisation([
     linkedin: 'company/codeharbour/',
     image_style: "padding: 1.2em;",
 },
+/*
 {
     name: 'The Familiar',
     href: 'https://www.thefamiliar.tech/',
@@ -58,6 +63,8 @@ build_supportersOrganisation([
     twitter: '_The_Familiar',
     linkedin: 'company/thefamiliar',
 },
+*/
+/*
 {
     name: 'Sustainable Engineering',
     href: 'https://sustainable.engineering/',
@@ -67,6 +74,7 @@ build_supportersOrganisation([
     linkedin: 'company/sustainable-engineering-project/',
     image_style: "padding: 1.2em;",
 },
+*/
 /*
 {
     name: 'Fruitworks Coworking',
