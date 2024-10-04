@@ -31,7 +31,6 @@ build_supportersOrganisation([
     image_style: "padding: 1.2em;",
 },
 */
-/*
 {
     name: 'The Institution of Engineering and Technology (IET)',
     href: 'https://www.theiet.org/',
@@ -42,7 +41,6 @@ build_supportersOrganisation([
     linkedin: 'school/iet/',
     image_style: "padding: 1.2em;",
 },
-*/
 {
     name: 'CodeHarbour',
     href: 'https://codeharbour.co.uk/',
