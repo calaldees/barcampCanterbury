@@ -46,7 +46,7 @@ build_supportersOrganisation([
     href: 'https://ksu.co.uk/activities/kent-engineering-soc',
     href_text: 'Website',
     description: 'Kent Engineering Society (KES): Stands For Ambition',
-    image: 'images/sponsors/kent_engineering.png',
+    image: 'images/sponsors/kent_engineering_society_text.webp',
 },
 {
     name: 'CodeHarbour',
