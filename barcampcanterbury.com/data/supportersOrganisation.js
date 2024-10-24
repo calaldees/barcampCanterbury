@@ -9,6 +9,15 @@ build_supportersOrganisation([
     twitter: 'UniKentLibIT',
     image_style: "padding: 1.2em;",
 },
+{
+    name: 'Mythic Beasts',
+    href: 'https://www.mythic-beasts.com/',
+    href_text: 'Website',
+    description: 'Mythic Beasts is a privately owned UK based hosting ISP with a focus on a no-nonsense service backed by excellent technical support',
+    image: "images/sponsors/mythic_beasts.text.svg",
+    twitter: 'Mythic_Beasts',
+    image_style: "padding: 1.2em;",
+},
 /*
 {
     name: 'Canterbury Christ Church University: School of Engineering, Technology and Design',
@@ -47,6 +56,7 @@ build_supportersOrganisation([
     href_text: 'Website',
     description: 'Kent Engineering Society (KES): Stands For Ambition',
     image: 'images/sponsors/kent_engineering_society_text.webp',
+    image_style: "padding: 1.2em;",
 },
 {
     name: 'CodeHarbour',

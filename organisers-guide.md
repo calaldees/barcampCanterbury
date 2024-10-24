@@ -17,6 +17,13 @@ Terminology
 * Some terms and phrases that do not align with these principles can cause friction.
 * Business terminology is suggested to be avoided.
 
+Feel
+----
+
+* Small event, real local people.
+* It should feel like you're an invited guest to a conference. There is a personalised name badge for you at reception/welcome.
+* With the personalised mugs; people kept them on their shelf to remember "that conference they spoke at". It might be small compared to the world, but this is an important event for people.
+
 
 Timeline
 --------
@@ -314,18 +321,6 @@ It is part of the BarCamp ethos to ensure everything is always completely free f
         * Order pizza (book in advance) Domino's do mad good deals in advance on bulk
 
 
-Other Local Groups/Events
-------------
-
-* [Digibury](https://www.meetup.com/Digibury/)
-* [oggcamp](https://oggcamp.org/)
-    * oggcamp 17 was held at [Canterbury Christ Church](https://www.canterbury.ac.uk/social-and-applied-sciences/events/oggcamp-17.aspx)
-* [Kent Union Societies](https://kentunion.co.uk/activities/societies)
-    * [Kent CS](https://kentunion.co.uk/activities/computing)
-    * [TinkerSoc](https://kentunion.co.uk/activities/tinkersoc)
-* [ThinkNation](https://thinknation.co/)
-* [CodeHarbour](http://codeharbour.co.uk/)
-
 
 Recording Talks
 ---------------
@@ -355,6 +350,24 @@ Record of Talks?
     * 2 or 3 sentence description
     * permissions to put this on website.
 
+
+Avoid Competition
+-----------------
+
+Concept is "awards" not "competition".
+The purpose/goal is comedy, fun and participation, not competition and ranking.
+
+We will present a range of "awards" at the closing ceremony.
+Over the day we should come up with fun award titles that fit a talk/project/thing.
+These award titles will be dumb and comedic. They can be hilariously low bar (tiny plastic trophies with hand written stickers on).
+e.g. Categories like "Least Cheesiest Talk" (Because it was about vegan cheese), "Bringer of Anarchy", "Most likely to smash the loom"
+Things to avoid "Best Talk", "Best Presentation Style". We don't want people to think we've ranked them by some arbitrary criteria.
+
+We should come up with these award title on the day because they should be related to the people and things that happened at the event.
+If (most of) these awards could be decided and written before powerpoint karaoke, that will allow us to enjoy the final segments of the event.
+If each organiser(?) could come up with 2(?) award titles each, that would give us 8 awards. That's pretty good going.
+
+Real poor cheap plastic trophies? or maybe 3D printed.
 
 
 Emergencies

@@ -120,26 +120,36 @@ Checklist for running BarCamp
 1 Day Before
 ------------
 
+### Badges
+
+
+### Catering
+
+* Confirm Catering
+
 ### Equipment
 
-* Projector - Foyer - displaying timetable
-* Video Camera + Xoom Box
-* DuckTape (for cables) + Trunking?
-* Masking tape (for signs)
-* Cleaning Spray
-* Vacuum Cleaner
-* Black sacks
-* Power extender cassettes
+* Foyer
+    * Projector - Foyer - displaying timetable
+    * Power extender cassettes
+* Signage
+    * DuckTape (for cables) + Trunking?
+    * Masking tape (for signs)
+* Cleaning
+    * Cleaning Spray
+    * Vacuum Cleaner
+    * Black sacks
 * Adaptors for projector/display USB-c, displayport, HDMI, etc
 * White board pens + cleaner
 * Signs
     * Rooms
     * Directions
 * Food/Drink
-    * Spoons?
     * Urns?
     * Paper tablecloths
-    * Water/Fruit
+    * Water
+    * Fruit? Snacks?
 * Website
     * Setup link to talk grid
     * Parking
+* Video Camera + Xoom Box
