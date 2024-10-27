@@ -79,3 +79,14 @@ If you're coming to the event and don't have a ticket sign up now so that you ha
 ## TODO:
 * What to bring
 
+---
+
+## Thursday 24th October
+Mythic Beasts (a local UK based hosting provider) have offered to support us with lunch at our event next Saturday!
+Many thanks for helping us keep our conversations going!
+https://www.mythic-beasts.com/
+
+## Sunday 27th October
+Our supporters Mythic Beasts (providing awesome UK based hosting) will be brining a range of free mugs and goodies for us at the event next Saturday!
+The only way to get these much converted items is to join us in person at the Kent Templeman Library at 10am!
+https://www.mythic-beasts.com/
