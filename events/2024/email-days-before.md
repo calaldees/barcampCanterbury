@@ -44,7 +44,7 @@ Talks are informal and can be on (almost) any topic you like. The best talks are
 ### Food and drink
 
 * Refreshments are provided free of charge thanks to members of our community donating.
-* Lunch is at 1pm. Pizza. (Provided free by our amazing supporters [Mythic Beats](https://www.mythic-beasts.com/))
+* Lunch is at 1pm. Pizza. (Provided free by our amazing supporters [Mythic Beasts](https://www.mythic-beasts.com/))
     * There will be vegan and vegetarian options available.
     * (As this an event that is run on community donations, we may not be able to cater for all specialist dietary needs)
 
@@ -65,7 +65,7 @@ Feel free to bring items you want to demo/exhibit.
 
 ### Interactive Activities
 
-If you have a laptop it may be worth brining. Some people may want to run some interactive activities and this may be a way for you to get involved.
+If you have a laptop it may be worth bringing. Some people may want to run some interactive activities and this may be a way for you to get involved.
 
 ## Schedule Overview
 
