@@ -87,7 +87,7 @@ Checklist for running BarCamp
 1 Week Before
 -------------
 
-* Email attendees
+* Setup timing email for attendees (3 days before)
     * Code of conduct
     * What to bring
     * Talk prep
@@ -98,6 +98,7 @@ Checklist for running BarCamp
     * Cans of Drink and Snacks
     * (Book Pizzas's?)
 * Print
+    * Badges (with names)
     * Code of conduct
     * Privacy policy
     * Signs
@@ -115,6 +116,8 @@ Checklist for running BarCamp
 * Setup talk online/open talk grid document
 * Setup "On the day" section of website
     * hashtag
+* Trophies for awards?
+* Check powerpoint presentation sites (are they still there)
 
 
 1 Day Before

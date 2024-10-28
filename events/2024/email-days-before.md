@@ -44,7 +44,7 @@ Talks are informal and can be on (almost) any topic you like. The best talks are
 ### Food and drink
 
 * Refreshments are provided free of charge thanks to members of our community donating.
-* Lunch is at 1pm. Pizza.
+* Lunch is at 1pm. Pizza. (Provided free by our amazing supporters [Mythic Beats](https://www.mythic-beasts.com/))
     * There will be vegan and vegetarian options available.
     * (As this an event that is run on community donations, we may not be able to cater for all specialist dietary needs)
 
@@ -62,6 +62,10 @@ If you have any small working components, items or tools you think anyone else c
 We will have an atrium to exhibit items/projects of interest.
 Feel free to bring items you want to demo/exhibit.
 (You bring these items at your own risk. We cannot be responsible for loss or damage)
+
+### Interactive Activities
+
+If you have a laptop it may be worth brining. Some people may want to run some interactive activities and this may be a way for you to get involved.
 
 ## Schedule Overview
 
@@ -99,7 +103,8 @@ For instructions on how "refund"/release your ticket on EventBrite, see:
 
 We'd like to say a BIG thank you to our sponsors, without whom this event would not be possible. Our sponsors this year are:
 
-* [University of Kent: IT-Service](https://www.cs.kent.ac.uk/)
+* [University of Kent: IT-Service](https://www.cs.kent.ac.uk/) (for providing the space)
+* [Mythic Beats](https://www.mythic-beasts.com/) (for providing the food)
 * [Kent Engineering Society](https://ksu.co.uk/activities/kent-engineering-soc)
 * [The Institute of Engineering and Technology](https://www.theiet.org/)
 * [CodeHarbour](https://codeharbour.co.uk/)
