@@ -105,6 +105,7 @@ We'd like to say a BIG thank you to our sponsors, without whom this event would 
 
 * [University of Kent: IT-Service](https://www.cs.kent.ac.uk/) (for providing the space)
 * [Mythic Beats](https://www.mythic-beasts.com/) (for providing the food)
+* [BCS - The Chartered Institute for IT (Kent Branch)](https://www.bcs.org/membership-and-registrations/member-communities/kent-branch/)
 * [Kent Engineering Society](https://ksu.co.uk/activities/kent-engineering-soc)
 * [The Institute of Engineering and Technology](https://www.theiet.org/)
 * [CodeHarbour](https://codeharbour.co.uk/)
