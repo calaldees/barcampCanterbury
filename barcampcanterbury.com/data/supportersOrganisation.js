@@ -18,6 +18,19 @@ build_supportersOrganisation([
     twitter: 'Mythic_Beasts',
     image_style: "padding: 1.2em;",
 },
+
+{
+    name: 'BCS - The Chartered Institute for IT',
+    href: 'https://www.bcs.org/membership-and-registrations/member-communities/kent-branch/',
+    href_text: 'Website Kent',
+    description: 'The Kent Branch of BCS supports IT professionals within the county of Kent.',
+    image: "images/sponsors/bcs.png",
+    twitter: 'bcs',
+    linkedin: 'groups/1165957/',
+    image_style: "padding: 1.2em;",
+},
+
+
 /*
 {
     name: 'Canterbury Christ Church University: School of Engineering, Technology and Design',
