@@ -3,7 +3,7 @@ Code of Conduct
 
 BarCamps should create an open and welcoming environment so that all of our attendees feel able to participate while being safe.
 
-We do not tolerate harassment of unconference participants in any form. 
+We do not tolerate harassment of unconference participants in any form.
 Unconference participants violating these rules may be sanctioned or expelled from the unconference at the discretion of the BarCamp volunteers.
 
 * Respect others
@@ -34,18 +34,18 @@ Event organisers may take action to redress anything designed to, or with the cl
 We expect participants to follow these rules at all event venues and event-related social activities.
 
 
-General Instructions
---------------------
-
-* Do not run on site
-* Attendees under 18 years old are welcome, but must be accompanied by a responsible parent/guardian.
-
-
 Reporting
 ---------
 
 * During the event: Organisers are identified with T-Shirts
 * Outside of the event: Website has email contact
+
+
+Other Bits
+----------
+
+* Do not run on site
+* Attendees under 18 years old are welcome, but must be accompanied by a responsible parent/guardian.
 
 
 References
