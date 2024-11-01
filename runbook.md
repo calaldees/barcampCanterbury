@@ -132,6 +132,13 @@ Checklist for running BarCamp
 
 ### Equipment
 
+* Printing
+  * Signs
+      * Rooms
+      * Directions
+      * SwapShop
+  * Attendee List
+  * Code of conduct
 * Foyer
     * Projector - Foyer - displaying timetable
     * Power extender cassettes
@@ -144,15 +151,12 @@ Checklist for running BarCamp
     * Black sacks
 * Adaptors for projector/display USB-c, displayport, HDMI, etc
 * White board pens + cleaner
-* Signs
-    * Rooms
-    * Directions
 * Food/Drink
-    * Urns?
     * Paper tablecloths
     * Water
     * Fruit? Snacks?
-* Website
-    * Setup link to talk grid
-    * Parking
 * Video Camera + Xoom Box
+
+### Website
+* Setup link to talk grid
+* Parking
