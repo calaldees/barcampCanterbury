@@ -5,6 +5,7 @@ build_supportersIndividual({
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"http://www.bobeager.uk/", name:"Bob Eager", description:"@rde42@mastodonapp.uk"},
 		{href:"https://spod.cx/", name:"Ben Charlton", description:"@bencc@morehammer.uk"},
+		{href:"https://www.linkedin.com/in/henryaward/", name:"Henry Ward", description:"LinkedIn"},
 	],
 	"2023": [
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
