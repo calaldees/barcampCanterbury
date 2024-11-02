@@ -33,6 +33,16 @@
     * Under 18s (accompanied by parent/guardian)
 * Swap Shop
     * Please take your bits that are not used at the end
+* Lunch and Refreshments
+    * Pizza
+      * Provided by Mythic Beasts! (Thank you so much!)
+      * 13:00 Walk to Jennison Building
+      * Vegetarian and Gluten free (let us know)
+    * Coffee Bar
+      * Provided by The BCS (Thank you so much!)
+      * We have a tab!
+      * Show your badge
+      * Working on the honor system - one each please
 * Social media hashtag, use #barcampcant
 * 16:30 PowerPoint Karaoke
     * Comedy Improv - members of the audience attempt to deliver another persons presentation
