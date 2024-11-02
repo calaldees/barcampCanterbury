@@ -99,6 +99,8 @@ Checklist for running BarCamp
     * (Book Pizzas's?)
 * Print
     * Badges (with names)
+      * Double check the name list - many sponsors/supports or people close to the project don't sign up for tickets - add them manually
+      * Consider what to do about people signing up the day before
     * Code of conduct
     * Privacy policy
     * Signs
