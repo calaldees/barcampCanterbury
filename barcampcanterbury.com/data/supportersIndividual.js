@@ -5,6 +5,9 @@ build_supportersIndividual({
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"http://www.bobeager.uk/", name:"Bob Eager", description:"@rde42@mastodonapp.uk"},
 		{href:"https://spod.cx/", name:"Ben Charlton", description:"@bencc@morehammer.uk"},
+		{href:"www.harmonyinautumn.com", name:"Matthew Jones", description:"Video dude"},
+		{href:"", name:"Giuseppe Joulianou", description:""},
+		{href:"", name:"Dan Bard", description:""},
 	],
 	"2023": [
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
