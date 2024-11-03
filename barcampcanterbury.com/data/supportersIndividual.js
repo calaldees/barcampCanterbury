@@ -8,6 +8,7 @@ build_supportersIndividual({
 		{href:"www.harmonyinautumn.com", name:"Matthew Jones", description:"Video dude"},
 		{href:"", name:"Giuseppe Joulianou", description:""},
 		{href:"", name:"Dan Bard", description:""},
+		{href:"", name:"Edmond Lepedus", description:""},
 	],
 	"2023": [
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
