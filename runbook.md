@@ -40,7 +40,7 @@ Checklist for running BarCamp
         * Cleanup tools (slipping?`)
     * Catering discussion
         * Rough numbers
-    * Notify 
+    * Notify
         * AV
         * Security
     * Other
@@ -56,6 +56,9 @@ Checklist for running BarCamp
     * Food quote
     * Coffee
 * Setup social media post auto/queue/timeline
+  * e.g. [[social_posts]]
+  * Setup posts for during the event (where the pizzas are etc)
+  * Setup posts for after the event (thanking sponsors and attendees)
 * Attend local tech events to cross promote
 * Ask hosting venues marketing team to assist in cross promotion (make them aware of what the event is)
 * Parking investigation
@@ -82,6 +85,7 @@ Checklist for running BarCamp
         * Reports/Harassment
 * Book venue for after gathering
 * Parking cementing arrangements
+* Refresh/add social media post auto/queue/timeline
 
 
 1 Week Before
@@ -155,6 +159,7 @@ Checklist for running BarCamp
 * White board pens + cleaner
 * Food/Drink
     * Paper tablecloths
+    * Paper Plates
     * Water
     * Fruit? Snacks?
 * Video Camera + Xoom Box

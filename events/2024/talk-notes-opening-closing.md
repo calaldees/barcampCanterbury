@@ -16,7 +16,7 @@
     * Talk grid linked from [barcampcanterbury.com](https://barcampcanterbury.com). Edit the google-sheet. Talk Grid is displayed in the foyer
 * Thanks our supporters
     * [University of Kent: IT-Service](https://www.cs.kent.ac.uk/) (for providing the space)
-    * [Mythic Beats](https://www.mythic-beasts.com/) (for providing the food)
+    * [Mythic Beasts](https://www.mythic-beasts.com/) (for providing the food)
         * Privately owned, organicly grown, UK hosting for your projects
         * (I will be switching `barcampcantebury.com` to them next year)
     * [BCS - The Chartered Institute for IT (Kent Branch)](https://www.bcs.org/membership-and-registrations/member-communities/kent-branch/) (providing coffee)

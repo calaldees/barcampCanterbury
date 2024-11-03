@@ -60,15 +60,23 @@ Looking for a tech talk fix before BarCamp Canterbury next weekend? Check out ou
 ## Thursday 24th October
 Talking to a few people about BarCamp Canterbury next week. We may have a talk about old analog photography and try to develop some photo negatives in front of a live audience. Join the action!
 
+## Thursday 24th October
+Mythic Beasts (a local UK based hosting provider) have offered to support us with lunch at our event next Saturday!
+Many thanks for helping us keep our conversations going!
+https://www.mythic-beasts.com/
+
 ## Friday 25th October
 8 days to go! We have free parking for the event.
 Kent <a href="https://media.www.kent.ac.uk/se/5893/visitor-parking-map.pdf">Visitor Parking Map</a>
 We suggest using Car Parks 9, 17 or 10 (for Disabled/Accessible parking)</a>.
 
-
 ## Saturday 26th October
 If your coming to @BarCampCanterbury next weekend, be sure to bring some old tech or tools that you want to recycle. I'm sure someone would love your junk to start their own projects with! Bring it along to join our free swap shop! #barcampcant
 
+## Sunday 27th October
+Our supporters Mythic Beasts (providing awesome UK based hosting) will be brining a range of free mugs and goodies for us at the event next Saturday!
+The only way to get these much converted items is to join us in person at the Kent Templeman Library at 10am!
+https://www.mythic-beasts.com/
 
 ## Monday 28th October
 BarCamp Canterbury is only a few days away. (Saturday 2nd November)
@@ -78,15 +86,17 @@ If you're coming to the event and don't have a ticket sign up now so that you ha
 
 ## TODO:
 * What to bring
+  * laptop?
 
 ---
 
-## Thursday 24th October
-Mythic Beasts (a local UK based hosting provider) have offered to support us with lunch at our event next Saturday!
-Many thanks for helping us keep our conversations going!
-https://www.mythic-beasts.com/
+## Sunday 3rd November
 
-## Sunday 27th October
-Our supporters Mythic Beasts (providing awesome UK based hosting) will be brining a range of free mugs and goodies for us at the event next Saturday!
-The only way to get these much converted items is to join us in person at the Kent Templeman Library at 10am!
+Thank you everyone for such a great day yesterday.
+Loads of talks and constant buzz of conversation filled the air.
+Thanks to our awesome sponsors for keeping the event free!
+The BCS (for coffee) and Mythic Beasts (for the legendary amount of pizza).
 https://www.mythic-beasts.com/
+https://www.bcs.org/membership-and-registrations/member-communities/kent-branch/
+Join our online community on Discord https://discord.gg/ExMHeCb
+There are possible rumours about another event maybe around Easter. We will keep you posted!
