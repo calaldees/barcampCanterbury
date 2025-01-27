@@ -4,8 +4,8 @@ BarCamp Canterbury 2025 - Rebranding Brief
 * [BarCamp Canterbury](https://barcampcanterbury.com/) - a free-to-attend community tech unconference
     * https://barcampcanterbury.com/
 
-* Goal: A logo redesign that captures barcamp canterbury's identity.
-    * Each BarCamp takes the original barcamp logo template and adds their own identity
+* Goal: A logo redesign that captures BarCamp canterbury's identity.
+    * Each BarCamp takes the original BarCamp logo template and adds their own identity
 
 * Other BarCamp Logo exemplars
     * ![Original barcamp logo](http://barcamp.org/f/1226374475/barcamp_logo.png) template
@@ -24,7 +24,7 @@ BarCamp Canterbury 2025 - Rebranding Brief
         * ![BarCamp London X11](https://twelve.barcamplondon.org/logo-purple.png)
         * [BarCamp London 13](https://thirteen.barcamplondon.org/) returned to plain blue and white (because updating it each year is not feasible)
 
-## Thematic Identifiers of a BarCamp
+## Thematic General Identifiers of a BarCamp
 
 * Prototyping (hacking a solution together), building, making
 * Tech, Innovation, emerging, digital, experimental
@@ -40,6 +40,8 @@ BarCamp Canterbury 2025 - Rebranding Brief
     * Cutout of canterbury cathedral
 * [Wikipedia: Canterbury Westgate Towers](https://en.wikipedia.org/wiki/Westgate,_Canterbury)
     ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Westgate%2C_Canterbury.jpg/600px-Westgate%2C_Canterbury.jpg)
+    * ![A4 Print](https://www.canterbury-cathedral.org/media/fcxj4yzd/print_goff_westgate.jpg?anchor=center&mode=crop&width=900&height=900&rnd=133633658222670000) [giftshop](https://www.canterbury-cathedral.org/shop/a4-print-westgate-towers/)
+
 * [Bulkhead Statue](https://rolandsragbag.wordpress.com/2016/10/24/the-man-in-the-iron-mask/)
     * Each segment is cut from a different active seafaring ship
     * [Google](https://www.google.com/search?q=canterbury+iron+face)
@@ -53,7 +55,7 @@ BarCamp Canterbury 2025 - Rebranding Brief
         * Colour palette (2 or 3 colours?)
         * Typography guidelines
     * Secondarily
-        * Guidance with website design, layout, idetenty, message and impact
+        * Guidance with website design, layout, identity, message and impact
 
 * Logo
     * Logo 1:1 (square)
@@ -61,20 +63,20 @@ BarCamp Canterbury 2025 - Rebranding Brief
     * Mono + 2(or3) colour version
 * Logo: intended use
     * Website (favicon) 1:1 small
-    * Website Banner 4:1?
-    * Cut into badges - used on lanyards?
+    * Website Banner 4:1? Logo + text
+    * Laser cut into badges? - used on lanyards?
 * Website
     * Single page (mobile responsive)
     * Link Preview 2:1? (Logo and date of event?)
 
 
 ## Other considerations
-* Can the logo be represented by a simple set of lines (e.g. cut into a badge? gradients may have to ommited in some versions)
+* Can the logo be represented by a simple set of lines (e.g. cut into a badge? gradients may have to omitted in some versions)
 * Can it be updated each year? Can a year be added to the logo and updated in an SVG?
 * The current logo colour was chosen at almost random. It does not have to be ued, but could be to continue the legacy.
 
 ## Ideas
 * Colours that come to mind
     * Sandy yellow of the cathedral stonework
-    * Grey stone of wesgate towers and the city wall
+    * Grey stone of Wesgate towers and the city wall
 * 
