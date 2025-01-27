@@ -33,7 +33,7 @@ BarCamp Canterbury 2025 - Rebranding Brief
 ## Canterbury Identifiers
 * [Wikipedia: Canterbury Cathedral](https://en.wikipedia.org/wiki/Canterbury_Cathedral)
     * Central icon of the city
-    * ![]()
+    * ![Canterbury Cathedral](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Canterbury_Cathedral_-_Front.jpg/440px-Canterbury_Cathedral_-_Front.jpg)
 * [Canterbury Cross](https://en.wikipedia.org/wiki/Canterbury_cross) Chaucer Cross
     * ![Canterbury Cross](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cantercross.svg/440px-Cantercross.svg.png)
 * ![Canterbury Council Logo](https://www.canterbury.gov.uk/sites/default/files/logo.png)
@@ -78,5 +78,4 @@ BarCamp Canterbury 2025 - Rebranding Brief
 ## Ideas
 * Colours that come to mind
     * Sandy yellow of the cathedral stonework
-    * Grey stone of Wesgate towers and the city wall
-* 
+    * Grey stone of Westgate towers and the city wall
