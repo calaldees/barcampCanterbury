@@ -1,0 +1,80 @@
+BarCamp Canterbury 2025 - Rebranding Brief
+=======================
+
+* [BarCamp Canterbury](https://barcampcanterbury.com/) - a free-to-attend community tech unconference
+    * https://barcampcanterbury.com/
+
+* Goal: A logo redesign that captures barcamp canterbury's identity.
+    * Each BarCamp takes the original barcamp logo template and adds their own identity
+
+* Other BarCamp Logo exemplars
+    * ![Original barcamp logo](http://barcamp.org/f/1226374475/barcamp_logo.png) template
+    * [BarCamps UK](https://barcamp.org.uk/)
+        * Logos of active barcamps in the uk
+    * ![BarCampOxford](http://barcamp.org/f/1273251365/barcamp_oxford_100.png) 2011
+        * Logo has silouette of oxford skyline
+    * ![BarCamp Beijing](https://pbs.twimg.com/profile_images/3186734726/798df67549a6a08f113e64b4dba98de3_400x400.png) 2015 [x.com](https://x.com/barcampbeijing)
+        * Logo is part the head of a dragon
+    * ![BarCamp Miami](http://farm1.static.flickr.com/139/350931611_b8ff6d2ac5.jpg) 2015 [](http://barcampmiami.org/)
+    * ![BarCamp Armenia](https://barcamp.am/images/logo.svg)
+        * Digital circitbord? colours of the Armenia flag?
+    * ![](https://media.am/wp-content/uploads/2016/01/barcamp11_0.jpg)
+    * ![](https://a1plus.am/static/articles/10/04/73/l-lFQZkilonR.jpg)
+    * [BarCamp London 12 X11](https://twelve.barcamplondon.org/)
+        * ![BarCamp London X11](https://twelve.barcamplondon.org/logo-purple.png)
+        * [BarCamp London 13](https://thirteen.barcamplondon.org/) returned to plain blue and white (because updating it each year is not feasible)
+
+## Thematic Identifiers of a BarCamp
+
+* Prototyping (hacking a solution together), building, making
+* Tech, Innovation, emerging, digital, experimental
+* Participation, community
+
+## Canterbury Identifiers
+* [Wikipedia: Canterbury Cathedral](https://en.wikipedia.org/wiki/Canterbury_Cathedral)
+    * Central icon of the city
+    * ![]()
+* [Canterbury Cross](https://en.wikipedia.org/wiki/Canterbury_cross) Chaucer Cross
+    * ![Canterbury Cross](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cantercross.svg/440px-Cantercross.svg.png)
+* ![Canterbury Council Logo](https://www.canterbury.gov.uk/sites/default/files/logo.png)
+    * Cutout of canterbury cathedral
+* [Wikipedia: Canterbury Westgate Towers](https://en.wikipedia.org/wiki/Westgate,_Canterbury)
+    ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Westgate%2C_Canterbury.jpg/600px-Westgate%2C_Canterbury.jpg)
+* [Bulkhead Statue](https://rolandsragbag.wordpress.com/2016/10/24/the-man-in-the-iron-mask/)
+    * Each segment is cut from a different active seafaring ship
+    * [Google](https://www.google.com/search?q=canterbury+iron+face)
+
+
+## Logo requirements
+
+* We want
+    * Primarily "Identity"
+        * Logo (shape design)
+        * Colour palette (2 or 3 colours?)
+        * Typography guidelines
+    * Secondarily
+        * Guidance with website design, layout, idetenty, message and impact
+
+* Logo
+    * Logo 1:1 (square)
+    * Logo + Text 4:1?
+    * Mono + 2(or3) colour version
+* Logo: intended use
+    * Website (favicon) 1:1 small
+    * Website Banner 4:1?
+    * Cut into badges - used on lanyards?
+* Website
+    * Single page (mobile responsive)
+    * Link Preview 2:1? (Logo and date of event?)
+
+
+## Other considerations
+* Can the logo be represented by a simple set of lines (e.g. cut into a badge? gradients may have to ommited in some versions)
+* Can it be updated each year? Can a year be added to the logo and updated in an SVG?
+* The current logo colour was chosen at almost random. It does not have to be ued, but could be to continue the legacy.
+
+## Ideas
+* Colours that come to mind
+    * Sandy yellow of the cathedral stonework
+    * Grey stone of wesgate towers and the city wall
+* 
