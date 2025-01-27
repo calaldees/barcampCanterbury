@@ -54,8 +54,9 @@ BarCamp Canterbury 2025 - Rebranding Brief
         * Logo (shape design)
         * Colour palette (2 or 3 colours?)
         * Typography guidelines
-    * Secondarily
+    * Secondarily (for another downstream project)
         * Guidance with website design, layout, identity, message and impact
+        * It seems to be difficult to convey what BarCamp Canterbury is. People remark that the website does not help them 'get it'. The wording on the website has been repeatedly refined. Perhaps the concept does take some reading and time to comprehend and cannot be shortcutted?
 
 * Logo
     * Logo 1:1 (square)
