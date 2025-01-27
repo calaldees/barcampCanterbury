@@ -36,16 +36,23 @@ BarCamp Canterbury 2025 - Rebranding Brief
     * ![Canterbury Cathedral](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Canterbury_Cathedral_-_Front.jpg/440px-Canterbury_Cathedral_-_Front.jpg)
 * [Canterbury Cross](https://en.wikipedia.org/wiki/Canterbury_cross) Chaucer Cross
     * ![Canterbury Cross](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cantercross.svg/440px-Cantercross.svg.png)
-* ![Canterbury Council Logo](https://www.canterbury.gov.uk/sites/default/files/logo.png)
-    * Cutout of canterbury cathedral
+    * Used around the city. There are railings that have this cross motif. Local schools have it incorporated in their logos.
 * [Wikipedia: Canterbury Westgate Towers](https://en.wikipedia.org/wiki/Westgate,_Canterbury)
     ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Westgate%2C_Canterbury.jpg/600px-Westgate%2C_Canterbury.jpg)
     * ![A4 Print](https://www.canterbury-cathedral.org/media/fcxj4yzd/print_goff_westgate.jpg?anchor=center&mode=crop&width=900&height=900&rnd=133633658222670000) [giftshop](https://www.canterbury-cathedral.org/shop/a4-print-westgate-towers/)
-
+    * [Google Images Westgate Gardens](https://www.google.com/search?q=westgate+gardens)
+        * high budget well kept gardens. Kent is often referred to as "the garden of england"
 * [Bulkhead Statue](https://rolandsragbag.wordpress.com/2016/10/24/the-man-in-the-iron-mask/)
     * Each segment is cut from a different active seafaring ship
     * [Google](https://www.google.com/search?q=canterbury+iron+face)
+* [baobab-planes-of-canterbury](http://elmparadise.blogspot.com/2017/05/the-baobab-planes-of-canterbury.html)
+    * ![westgate gardens fat tree](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz40TGXI3b_m-VmvDGS6fzxwb3-0xuNPXB3DwGnF89s5e-Uyz8huDkyY_wOAkX3Ac67kGYWSohtxgjiYkStFTvispNjCYcNVTeBloVYWiMD8W3XkC5K9V94FI_9aoJrrpSonnx3gVknejq/s640/TREES_westgate2.jpg)
+    * [WestGate Gardens - Famous tree](https://news.canterbury.gov.uk/news/westgate-gardens-plane-tree-features-in-queens-green-canopy/)
 
+### Canterbury organizations logos
+
+* ![Canterbury Council Logo](https://www.canterbury.gov.uk/sites/default/files/logo.png)
+    * Cutout of canterbury cathedral
 
 ## Logo requirements
 
