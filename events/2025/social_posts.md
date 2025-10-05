@@ -1,7 +1,7 @@
-Social Posts 2024
+Social Posts 2025
 =================
 
-## Tuesday 7th October 2024
+## Tuesday 7th October
 BarCamp Canterbury is back!
 Sunday 23rd November 2025
 A smaller more intimate little venue 'The Long Rest' in the heart of Canterbury.
@@ -9,8 +9,7 @@ A smaller more intimate little venue 'The Long Rest' in the heart of Canterbury.
 What have you all be tinkering with the past year?
 #BarCampCant https://barcampcanterbury.com/
 
-
-## Friday 17th October 2024
+## Friday 17th October
 BarCamp Canterbury is all about sharing cool tech projects and the buzz of creating.
 What makes #BarCamp is great people.
 The first rule of BarCamp is that you talk about BarCamp.
