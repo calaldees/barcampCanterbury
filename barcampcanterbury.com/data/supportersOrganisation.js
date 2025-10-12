@@ -1,5 +1,17 @@
 build_supportersOrganisation([
+/* 2025 */
+{
+    name: 'The Long Rest',
+    href: 'https://www.thelongrestcanterbury.com/',
+    href_text: 'Website',
+    description: 'An independently owned cafe and event space, with a growing library of board games for all ages.',
+    image: 'images/sponsors/TLR_Full_Colour2.avif',
+    /*image_style: "padding: 1.2em;",*/
+},
+
+
 /* 2024 */
+/*
 {
     name: 'University of Kent: Library and IT Services',
     href: 'https://www.kent.ac.uk/library-it',
@@ -29,7 +41,7 @@ build_supportersOrganisation([
     linkedin: 'groups/1165957/',
     image_style: "padding: 1.2em;",
 },
-
+*/
 
 /*
 {
@@ -53,6 +65,8 @@ build_supportersOrganisation([
     image_style: "padding: 1.2em;",
 },
 */
+
+/*
 {
     name: 'The Institution of Engineering and Technology (IET)',
     href: 'https://www.theiet.org/',
@@ -71,6 +85,7 @@ build_supportersOrganisation([
     image: 'images/sponsors/kent_engineering_society_text.webp',
     image_style: "padding: 1.2em;",
 },
+*/
 {
     name: 'CodeHarbour',
     href: 'https://codeharbour.co.uk/',
@@ -81,6 +96,8 @@ build_supportersOrganisation([
     linkedin: 'company/codeharbour/',
     image_style: "padding: 1.2em;",
 },
+
+
 /*
 {
     name: 'The Familiar',

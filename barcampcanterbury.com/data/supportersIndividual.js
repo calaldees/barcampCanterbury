@@ -1,4 +1,8 @@
 build_supportersIndividual({
+	"2025": [
+		{href:"https://alexcachia.co.uk/", name:"Alex Cachia", description:"@AlexCachia5"},
+		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
+	],
 	"2024": [
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
 		{href:"https://alexcachia.co.uk/", name:"Alex Cachia", description:"@AlexCachia5"},
@@ -24,6 +28,7 @@ build_supportersIndividual({
 		{href:"https://theunixzoo.co.uk/", name:"Edd Barrett", description:"CompSci-Python-OpenBSD-Retro"},
 		{href:"https://www.martinellis.me/", name:"Mex", description:"Cyber Security Guy"},
 		{href:"https://github.com/richlanc", name:"Richard Lancaster"},
+		{href:"www.harmonyinautumn.com", name:"Matthew Jones", description:"Video dude"},
 	],
 	"2020": [
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
