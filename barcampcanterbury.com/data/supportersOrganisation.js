@@ -8,6 +8,25 @@ build_supportersOrganisation([
     image: 'images/sponsors/TLR_Full_Colour2.avif',
     /*image_style: "padding: 1.2em;",*/
 },
+{
+    name: 'The Institution of Engineering and Technology (IET)',
+    href: 'https://www.theiet.org/',
+    href_text: 'Website',
+    description: 'Supporting our local community of current and future engineers and technologists',
+    image: 'images/sponsors/iet.jpg',
+    twitter: 'TheIET',
+    linkedin: 'school/iet/',
+    image_style: "padding: 1.2em;",
+},
+{
+    name: 'Mythic Beasts',
+    href: 'https://www.mythic-beasts.com/',
+    href_text: 'Website',
+    description: 'Mythic Beasts is a privately owned UK based hosting ISP with a focus on a no-nonsense service backed by excellent technical support',
+    image: "images/sponsors/mythic_beasts.text.svg",
+    twitter: 'Mythic_Beasts',
+    image_style: "padding: 1.2em;",
+},
 
 
 /* 2024 */
@@ -21,16 +40,6 @@ build_supportersOrganisation([
     twitter: 'UniKentLibIT',
     image_style: "padding: 1.2em;",
 },
-{
-    name: 'Mythic Beasts',
-    href: 'https://www.mythic-beasts.com/',
-    href_text: 'Website',
-    description: 'Mythic Beasts is a privately owned UK based hosting ISP with a focus on a no-nonsense service backed by excellent technical support',
-    image: "images/sponsors/mythic_beasts.text.svg",
-    twitter: 'Mythic_Beasts',
-    image_style: "padding: 1.2em;",
-},
-
 {
     name: 'BCS - The Chartered Institute for IT',
     href: 'https://www.bcs.org/membership-and-registrations/member-communities/kent-branch/',
@@ -67,16 +76,6 @@ build_supportersOrganisation([
 */
 
 /*
-{
-    name: 'The Institution of Engineering and Technology (IET)',
-    href: 'https://www.theiet.org/',
-    href_text: 'Website',
-    description: 'Supporting our local community of current and future engineers and technologists',
-    image: 'images/sponsors/iet.jpg',
-    twitter: 'TheIET',
-    linkedin: 'school/iet/',
-    image_style: "padding: 1.2em;",
-},
 {
     name: 'Kent Engineering Society',
     href: 'https://ksu.co.uk/activities/kent-engineering-soc',

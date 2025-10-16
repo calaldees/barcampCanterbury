@@ -1,7 +1,7 @@
 Social Posts 2025
 =================
 
-## Tuesday 7th October
+## Monday 12th October
 BarCamp Canterbury is back!
 Sunday 23rd November 2025
 A smaller more intimate little venue 'The Long Rest' in the heart of Canterbury.
@@ -9,20 +9,31 @@ A smaller more intimate little venue 'The Long Rest' in the heart of Canterbury.
 What have you all be tinkering with the past year?
 #BarCampCant https://barcampcanterbury.com/
 
-## Friday 17th October
+## Thursday 16th October
+Let's get this party started!
+Eventbrite Tickets are out for our mini BarCamp 2025.
+Plenty of talking about cool projects. Plenty of food.
+
+## Saturday 17th October
+We are looking for a big venue for Easter 2026,
+In the meantime, this year we've got a more intimate cosy space at 'The Long Rest'.
+We're hoping for lots of table discussions and some mini talks.
+We're looking forward to trying a different spin on the format.
+
+## Monday 20th October
 BarCamp Canterbury is all about sharing cool tech projects and the buzz of creating.
 What makes #BarCamp is great people.
 The first rule of BarCamp is that you talk about BarCamp.
 Spread the word about Sunday 23nd November! It's only 5 weeks away!
 #BarCampCant https://barcampcanterbury.com/
 
-## Monday 20th October
+## Wednesday 22nd October
 Wow #BarCamp Canterbury is just under in 5 weeks time.
-What possible talks are people brewing?
+What possible talks/topics/discussions are people brewing?
 Let us know! We'll post some of the ideas we here about about.
 #BarCampCant https://barcampcanterbury.com/
 
-## Wednesday 22nd October
+## Thursday 23rd October
 Attendance at community events has dwindled in recent years.
 Younger people often haven't been exposed to seeing the joy of creating, building and sharing.
 Do you know of any new hackers/builders that would be inspired by a #BarCamp?
@@ -30,42 +41,38 @@ Talk to them about it!
 BarCamp Canterbury is 5 weeks away
 #BarCampCant https://barcampcanterbury.com/
 
-## Saturday 25th October
+## Friday 24th October
+Come join our Canterbury tech community this Thursday 30th October for CodeHarbour at Flock Brewery.
+https://codeharbour.co.uk/
+
+## Sunday 26th October
 We have a Discord group in preparation for #BarCamp Canterbury on Sunday 23rd November.
 Join us and get involved in the conversations
 https://discord.gg/ExMHeCb
 #BarCampCant
 
-## Monday 27th October
-Come join our Canterbury tech community this Thursday 30th October for CodeHarbour at Flock Brewery.
-https://codeharbour.co.uk/
-
-
 ## Wednesday 29th October
 BarCamp's will always be free to attend.
 Refreshments and venue are provided by generous donations from our attendees.
-If you believe in a community of hacking, building, making and sharing. Help us cover our food costs with a donation of £5.
+This year with our mini venue hire and food, is costing around £15 per attendee.
+We are a community of hacking, building, making and sharing.
 #BarCamp #BarCampCant https://barcampcanterbury.com/
-
 
 ## Friday 31st October
 What is better than one #BarCamp? More BarCamps! http://barcamp.org.uk/
 If anyone is interested in starting a BarCamp in another area we would love to share our knowledge and support.
 Come and talk to us at BarCamp Canterbury on Sunday 23rd November.
 
-
 ## Sunday 2nd November
 BarCamp Canterbury is 3 weeks away! (Sunday 23rd Nov)
 We have a swap-shop table!
 Come and bring your old tools, wires, reference manuals, single board computers, for others to kick start their next projects.
-
 
 ## Tuesday 4th November
 BarCamp's are free to attend for everyone.
 Venue hire and food comes from our attendees donations.
 Help us keep it free to everyone.
 Donation details on our website https://barcampcanterbury.com/
-
 
 ## Friday 7th November
 Talking to a few people about BarCamp Canterbury in 2 weeks.
