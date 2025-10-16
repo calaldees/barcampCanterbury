@@ -10,11 +10,11 @@ What have you all be tinkering with the past year?
 #BarCampCant https://barcampcanterbury.com/
 
 ## Thursday 16th October
-Let's get this party started!
 Eventbrite Tickets are out for our mini BarCamp 2025.
 Plenty of talking about cool projects. Plenty of food.
+https://www.eventbrite.co.uk/e/barcamp-canterbury-2025-tickets-1815617513859
 
-## Saturday 17th October
+## Saturday 18th October
 We are looking for a big venue for Easter 2026,
 In the meantime, this year we've got a more intimate cosy space at 'The Long Rest'.
 We're hoping for lots of table discussions and some mini talks.
@@ -42,8 +42,8 @@ BarCamp Canterbury is 5 weeks away
 #BarCampCant https://barcampcanterbury.com/
 
 ## Friday 24th October
-Come join our Canterbury tech community this Thursday 30th October for CodeHarbour at Flock Brewery.
-https://codeharbour.co.uk/
+Come join our Canterbury tech community this Thursday 30th October for https://codeharbour.co.uk/ at Flock Brewery.
+Tina Eager is giving a talk about "Why don't girls do Computing?"
 
 ## Sunday 26th October
 We have a Discord group in preparation for #BarCamp Canterbury on Sunday 23rd November.
