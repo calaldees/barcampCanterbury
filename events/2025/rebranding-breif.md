@@ -1,6 +1,10 @@
 BarCamp Canterbury 2025 - Rebranding Brief
 =======================
 
+* [Wikipedia: BarCamp](https://en.wikipedia.org/wiki/BarCamp)
+    * > BarCamp is an international network of user-generated conferences primarily focused on technology and the web. They are open, participatory workshop-events, the content of which is provided by participants.
+    * [barcamp.org](http://www.barcamp.org/) (Original site from 2010)
+    * [barcamp.org.uk](https://barcamp.org.uk/) (list of UK events)
 * [BarCamp Canterbury](https://barcampcanterbury.com/) - a free-to-attend community tech unconference
     * https://barcampcanterbury.com/
 

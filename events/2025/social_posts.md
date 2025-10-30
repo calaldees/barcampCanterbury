@@ -74,14 +74,14 @@ Venue hire and food comes from our attendees donations.
 Help us keep it free to everyone.
 Donation details on our website https://barcampcanterbury.com/
 
+
+TODO
+====
+
 ## Friday 7th November
 Talking to a few people about BarCamp Canterbury in 2 weeks.
 We may have a talk about 8bit retro computer typography.
 Do you have any areas of interest that could make an interesting talk?
-
-
-TODO
-====
 
 ## Thursday 24th October
 Mythic Beasts (a local UK based hosting provider) have offered to support us with lunch at our event next Saturday!

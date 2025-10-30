@@ -2,6 +2,7 @@ build_supportersIndividual({
 	"2025": [
 		{href:"https://alexcachia.co.uk/", name:"Alex Cachia", description:"@AlexCachia5"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
+		{href:"https://carl.saggs.co.uk/", name:"Bag", description:""},
 	],
 	"2024": [
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
@@ -13,6 +14,7 @@ build_supportersIndividual({
 		{href:"", name:"Giuseppe Joulianou", description:""},
 		{href:"", name:"Dan Bard", description:""},
 		{href:"", name:"Edmond Lepedus", description:""},
+		{href:"https://carl.saggs.co.uk/", name:"Bag", description:""},
 	],
 	"2023": [
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
@@ -36,6 +38,7 @@ build_supportersIndividual({
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"https://spod.cx/", name:"Ben Charlton", description:"@bencc"},
 		{href:"https://www.martinellis.me/", name:"Mex", description:"Cyber Security Guy"},
+		{href:"www.harmonyinautumn.com", name:"Matthew Jones", description:"Video dude"},
 		// Alex?
 		// Ed?
 	],
@@ -48,6 +51,7 @@ build_supportersIndividual({
 		{href:"", name:"Calum Ryan", description:""},
 		{href:"", name:"Joe Reid", description:""},
 		{href:"http://canthack.org/", name:"Tris Linnell", description:"#canthacker"},
+		{href:"www.harmonyinautumn.com", name:"Matthew Jones", description:"Video dude"},
 	],
 	"2014": [
 		{href:"https://www.martinellis.me/", name:"Mex", description:"Cyber Security Guy"},
