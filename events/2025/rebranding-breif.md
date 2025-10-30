@@ -3,7 +3,7 @@ BarCamp Canterbury 2025 - Rebranding Brief
 
 * [Wikipedia: BarCamp](https://en.wikipedia.org/wiki/BarCamp)
     * > BarCamp is an international network of user-generated conferences primarily focused on technology and the web. They are open, participatory workshop-events, the content of which is provided by participants.
-    * [barcamp.org](http://www.barcamp.org/) (Original site from 2010)
+    * [barcamp.org](https://web.archive.org/web/20101102160311/http://www.barcamp.org/) (Original site from 2010) [last capture 2025](https://web.archive.org/web/20250902185552/http://barcamp.org/w/page/402984/FrontPage)
     * [barcamp.org.uk](https://barcamp.org.uk/) (list of UK events)
 * [BarCamp Canterbury](https://barcampcanterbury.com/) - a free-to-attend community tech unconference
     * https://barcampcanterbury.com/
@@ -12,7 +12,7 @@ BarCamp Canterbury 2025 - Rebranding Brief
     * Each BarCamp takes the original BarCamp logo template and adds their own identity
 
 * Other BarCamp Logo exemplars
-    * ![Original barcamp logo](http://barcamp.org/f/1226374475/barcamp_logo.png) template
+    * ![Original barcamp logo](https://web.archive.org/web/20250117150316im_/http://barcamp.org/f/1226374475/barcamp_logo.png) template
     * [BarCamps UK](https://barcamp.org.uk/)
         * Logos of active barcamps in the uk
     * ![BarCampOxford](http://barcamp.org/f/1273251365/barcamp_oxford_100.png) 2011
