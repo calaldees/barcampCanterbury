@@ -74,37 +74,28 @@ Venue hire and food comes from our attendees donations.
 Help us keep it free to everyone.
 Donation details on our website https://barcampcanterbury.com/
 
+## Thursday 6th November
+Talking to a few people about #BarCamp Canterbury in 2 weeks.
+We may have a talk where a film roll taken at BarCamp 2024 is developed in front of a live audience.
+Do you have any areas of interest that could make an interesting talk?
+
+## Sunday 8th November
+If your coming to @BarCampCant erbury in 2 weekends time, be sure to bring some old tech or tools that you want to recycle.
+I'm sure someone would love your junk to start their own projects with!
+Bring it along to join our free swap shop! #barcamp #barcampcant
+
+## Tuesday 11th November
+BarCamp Canterbury is only a week and a bit away. (Sunday 23rd November)
+If you're coming to the event and don't have a ticket sign up now so that you have a cool personalised name badge printed for you for the event.
+
+## Thursday 13th November
+Just over a week before BarCamp Canterbury (Sunday 23rd November)
+With the slightly smaller venue 'The Long Rest' we are going to have less talk rooms but will mix up the format with participant 'focused tables'.
+We're looking forward to the kinds of conversations that will emerge.
+
 
 TODO
 ====
-
-## Friday 7th November
-Talking to a few people about BarCamp Canterbury in 2 weeks.
-We may have a talk about 8bit retro computer typography.
-Do you have any areas of interest that could make an interesting talk?
-
-## Thursday 24th October
-Mythic Beasts (a local UK based hosting provider) have offered to support us with lunch at our event next Saturday!
-Many thanks for helping us keep our conversations going!
-https://www.mythic-beasts.com/
-
-
-## Friday 25th October
-8 days to go! We have free parking for the event.
-
-## Saturday 26th October
-If your coming to @BarCampCanterbury next weekend, be sure to bring some old tech or tools that you want to recycle.
-I'm sure someone would love your junk to start their own projects with!
-Bring it along to join our free swap shop! #barcampcant
-
-## Sunday 27th October
-Our supporters Mythic Beasts (providing awesome UK based hosting) will be brining a range of free mugs and goodies for us at the event next Saturday!
-The only way to get these much converted items is to join us in person at the Kent Templeman Library at 10am!
-https://www.mythic-beasts.com/
-
-## Monday 28th October
-BarCamp Canterbury is only a few days away. (Saturday 2nd November)
-If you're coming to the event and don't have a ticket sign up now so that you have a cool personalised name badge printed for you for the event.
 
 ---
 
