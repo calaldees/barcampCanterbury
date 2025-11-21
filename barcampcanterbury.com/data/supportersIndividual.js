@@ -4,6 +4,8 @@ build_supportersIndividual({
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"https://carl.saggs.co.uk/", name:"Bag", description:""},
 		{href:"http://www.bobeager.uk/", name:"Bob Eager", description:"@rde42@mastodonapp.uk"},
+		{href:"", name:"Simon Cooksey", description: "graymalkin"},
+		{href:"", name:"Jonathan Aylard", description: ""},
 	],
 	"2024": [
 		{href:"https://www.cs.kent.ac.uk/people/staff/dk246/", name:"Daniel Knox", description:""},
