@@ -15,6 +15,15 @@ https://github.com/calaldees/barcampCanterbury/blob/master/events/2025/email-day
 This years BarCamp Canterbury is in a smaller more intimate venue.
 This will create a new subtle flavor to the event.
 
+### Venue
+
+The Long Rest
+8 Butchery Lane, Canterbury, United Kingdom, CT1 2JR
+https://www.thelongrestcanterbury.com/
+https://www.openstreetmap.org/#map=19/51.278641/1.081728
+https://maps.app.goo.gl/zN4Xmpyda27vGSLTA
+
+
 ### 2 talk rooms and set of focused tables
 
 * On the day a timetable will be setup on a blank space of wall
@@ -27,7 +36,17 @@ This will create a new subtle flavor to the event.
 Talks are informal and can be on (almost) any topic you like, loosely themed around technology.
 The best talks are those that are made accessible/appeal to the diverse audience (Talks can still be technical and 'Infomazing' but should consider the audience).
 A PowerPoint isn't required. Talks can be off the cuff, on the spot, interactive, more like a discussion session.
-The best talks are those that a driven by raw passion, interest and excitement rather than reading from a script.
+Good talks are driven by raw passion, interest and excitement rather than reading from a script.
+
+## Schedule Overview
+
+* 10:00 Attendees start to arrive
+* 10:30 Introduction/Opening Talk
+* 11:00 Talks part 1
+* 13:00 Lunch
+* 14:00 Talks part 2 (The return of the talk)
+* 15:30 Closing Talk (and short PowerPoint Karaoke)
+* 16:00+ Continue the conversation in town?
 
 ### Food and drink
 
@@ -57,15 +76,7 @@ This year, because space is limited, consider bringing smaller items.
 If you have a laptop it may be worth bringing.
 Some people may want to run some interactive activities and this may be a way for you to get involved.
 
-## Schedule Overview
-
-* 10:00 Attendees start to arrive
-* 10:30 Introduction/Opening Talk
-* 11:00 Talks Begin
-* 13:00 Lunch
-* 14:00 Talks part 2 (The return of the talk)
-* 15:30 Closing Talk (and short PowerPoint Karaoke)
-* 16:00+ Continue the conversation in town?
+A pen and paper is always handy.
 
 ## Social Media and Photography
 
@@ -75,19 +86,11 @@ There will be photography if you attend the event.
 Please use the hash tag #barcampcant.
 * [X #barcampcant](https://x.com/search?q=%23barcampcant)
 
-
 ## Code of Conduct
 
 BarCamp is an Open Safe forum for discussion. Please read our code of conduct before attending. By attending, you agree to the terms.
 
 [https://github.com/calaldees/barcampCanterbury/blob/master/code-of-conduct.md](https://github.com/calaldees/barcampCanterbury/blob/master/code-of-conduct.md)
-
-## If you can't make it any more
-
-If you can't make it to the event, please return your ticket to the pool so that someone else can attend.
-
-For instructions on how "refund"/release your ticket on EventBrite, see:
-[eventbrite.co.uk/support - Request a refund](https://www.eventbrite.co.uk/support/articles/en_US/How_To/can-i-get-a-refund?lg=en_GB)
 
 ## Thanks to our sponsors and supporters
 
