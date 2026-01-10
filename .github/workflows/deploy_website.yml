@@ -19,6 +19,6 @@ jobs:
         with:
           SSH_HOST: barcampcanterbury.com
           #SSH_PORT: ${{ secrets.SSH_PORT }}
-          SSH_USER: barcampcanterbury
+          SSH_USER: calaldees
           SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
-      - run: ssh ${{ steps.ssh.outputs.SERVER }} 'cd barcampcanterbury.com && git pull'
+      - run: ssh ${{ steps.ssh.outputs.SERVER }} 'cd www/www.barcampcanterbury.com && git pull'
