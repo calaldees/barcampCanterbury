@@ -93,9 +93,32 @@ Just over a week before BarCamp Canterbury (Sunday 23rd November)
 With the slightly smaller venue 'The Long Rest' we are going to have less talk rooms but will mix up the format with participant 'focused tables'.
 We're looking forward to the kinds of conversations that will emerge.
 
+## Saturday 22nd November
+
+We are thrilled to have The BCS Kent Branch support #BarCamp Canterbury tomorrow!
+https://www.bcs.org/membership-and-registrations/member-communities/kent-branch/
+They will be supporting some of the food to ensure we keep the conversations flowing throughout the day.
+
+## Sunday 23rd November
+
+We're just setting at "The Long Rest" to be ready to open the doors to BarCamp Canterbury 2025 at 10am.
+We are sold out! It's going to be a busy day.
+Ready! Set Talk!
+
+It's sooo busy here at #BarCampCant #BarCamp 2025!
+The smaller space has made the place feel buzzing!
+
+That's a wrap!
+Thank you so much to everyone that made #BarCamp #BarCampCant erbury such a great event.
+You 'the attendees' ARE the event! Thank you!
+
+
+
 
 TODO
 ====
+
+BarCamp 2026 - Saturday 11th April - Barton Court
 
 ---
 
@@ -107,7 +130,7 @@ TODO
 
 ## Sunday 3rd November
 
-Thank you everyone for such a great day yesterday.
+Thank you everyone for such a great day.
 Loads of talks and constant buzz of conversation filled the air.
 Thanks to our awesome sponsors for keeping the event free!
 The BCS (for coffee) and Mythic Beasts (for the legendary amount of pizza).

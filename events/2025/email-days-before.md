@@ -1,6 +1,9 @@
 Email: Week Before
 ============
 
+BarCamp Canterbury 2025
+=======================
+
 Greetings Canterbury BarCamp-ers!
 
 BarCamp Canterbury is only a few days away.
@@ -12,17 +15,16 @@ https://github.com/calaldees/barcampCanterbury/blob/master/events/2025/email-day
 
 ## What to expect
 
-This years BarCamp Canterbury is in a smaller more intimate venue.
-This will create a new subtle flavor to the event.
+* This years BarCamp Canterbury is in a smaller more intimate venue.
+* This will create a new subtle flavour to the event.
 
 ### Venue
 
-The Long Rest
-8 Butchery Lane, Canterbury, United Kingdom, CT1 2JR
-https://www.thelongrestcanterbury.com/
-https://www.openstreetmap.org/#map=19/51.278641/1.081728
-https://maps.app.goo.gl/zN4Xmpyda27vGSLTA
-
+* The Long Rest
+* 8 Butchery Lane, Canterbury, United Kingdom, CT1 2JR
+* https://www.thelongrestcanterbury.com/
+* [openstreetmap.org](https://www.openstreetmap.org/#map=19/51.278641/1.081728)
+* [Google Maps](https://maps.app.goo.gl/zN4Xmpyda27vGSLTA)
 
 ### 2 talk rooms and set of focused tables
 
@@ -33,12 +35,12 @@ https://maps.app.goo.gl/zN4Xmpyda27vGSLTA
 
 ### What to talk about?
 
-Talks are informal and can be on (almost) any topic you like, loosely themed around technology.
-The best talks are those that are made accessible/appeal to the diverse audience (Talks can still be technical and 'Infomazing' but should consider the audience).
-A PowerPoint isn't required. Talks can be off the cuff, on the spot, interactive, more like a discussion session.
-Good talks are driven by raw passion, interest and excitement rather than reading from a script.
+* Talks are informal and can be on (almost) any topic you like, loosely themed around technology.
+* The best talks are those that are made accessible/appeal to the diverse audience (Talks can still be technical and 'Infomazing' but should consider the audience).
+* A PowerPoint isn't required. Talks can be off the cuff, on the spot, interactive, more like a discussion session.
+* Good talks are driven by raw passion, interest and excitement rather than reading from a script.
 
-## Schedule Overview
+### Schedule Overview
 
 * 10:00 Attendees start to arrive
 * 10:30 Introduction/Opening Talk
@@ -66,17 +68,16 @@ If you have any small working components, items or tools you think anyone else c
 
 ### Exhibits
 
-We love it when people bring interesting items or things they have constructed.
-Feel free to bring items you want to demo/exhibit.
-This year, because space is limited, consider bringing smaller items.
-(You bring these items at your own risk. We cannot be responsible for loss or damage)
+* We love it when people bring interesting items or things they have constructed.
+* Feel free to bring items you want to demo/exhibit.
+* This year, because space is limited, consider bringing smaller items.
+* (You bring these items at your own risk. We cannot be responsible for loss or damage)
 
 ### Interactive Activities
 
-If you have a laptop it may be worth bringing.
-Some people may want to run some interactive activities and this may be a way for you to get involved.
-
-A pen and paper is always handy.
+* If you have a laptop it may be worth bringing.
+* Some people may want to run some interactive activities and this may be a way for you to get involved.
+* A pen and paper is always handy.
 
 ## Social Media and Photography
 
