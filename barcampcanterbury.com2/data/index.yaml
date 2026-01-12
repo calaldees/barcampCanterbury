@@ -1,3 +1,4 @@
+title: BarCamp Canterbury
 root:
   a: 1
   b: !include addition.yaml

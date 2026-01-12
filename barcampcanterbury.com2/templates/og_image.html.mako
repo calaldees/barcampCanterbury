@@ -1,0 +1,1 @@
+## TODO: mini page (with supporters) to take screenshot for og_image
