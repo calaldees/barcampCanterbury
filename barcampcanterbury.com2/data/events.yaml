@@ -1,0 +1,16 @@
+- isodatetime: 20260411T100000Z
+  venue:
+    name: Barton Court
+    address: TODO
+    geo:
+      lat: 51.27695
+      lon: 1.09202
+      what3words: TODO
+- isodatetime: 20251123T100000Z
+  venue:
+    name: The Long Rest
+    address: TODO
+    geo:
+      lat: 0.0
+      lon: 0.0
+      what3words: TODO

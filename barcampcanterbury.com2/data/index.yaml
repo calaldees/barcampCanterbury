@@ -1,4 +1,12 @@
+host: barcampcanterbury.com
+site: https://www.${host}/
 title: BarCamp Canterbury
+description: A free-to-attend community tech unconference in Canterbury UK
+logo: /images/barcampcanterbury_logo.svg
+email: admin@barcampcanterbury.com
+
+events: !include events.yaml
+
 root:
   a: 1
   b: !include addition.yaml

@@ -1,3 +1,8 @@
+<%
+    import datetime
+    event = events[0]
+    event_datetime = datetime.datetime.fromisoformat(event.isodatetime)
+%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,13 +10,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	## https://www.ogimage.gallery/libary/the-ultimate-guide-to-og-image-dimensions-2024-update
 	## 1200x630 pixels
-	<meta property="og:title" content="BarCamp Canterbury">
-	<meta property="og:description" content="A free-to-attend community tech unconference in Canterbury UK">
-	<meta property="og:image" content="/images/flyer/BarCampCanterbury2025.png">
-	<meta property="og:url" content="http://barcampcanterbury.com/">
-	<meta property="og:logo" content="/images/barcampcanterbury_logo.svg" />
+	<meta property="og:title" content="${title}">
+	<meta property="og:description" content="${description}">
+	<meta property="og:image" content="/images/og_image.png">
+	<meta property="og:url" content="${site}">
+	<meta property="og:logo" content="${logo}" />
 	<meta property="og:type" content="event">
-	<meta property="event:start_time" content="2025-11-23T10:00:00Z">
+	<meta property="event:start_time" content="${event_datetime.strftime('%Y-%m-%dT%H:%M:%SZ')}">
 	<meta name="twitter:card" content="summary_large_image">
 
 	<title>${title}</title>
