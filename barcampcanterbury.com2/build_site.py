@@ -1,15 +1,17 @@
 #from pprint import pprint as pp
-import datetime
 import logging
 import shutil
 from functools import partial
 from pathlib import Path
 from typing import Any
+import re
+from string import Template
 
 import mako
 import mako.lookup
 import yaml
 from dotwiz import DotWiz
+import jsonpath
 
 log = logging.getLogger(__name__)
 
@@ -43,11 +45,16 @@ def render_template(path: Path, context) -> str:
         return ''
 
 
+def recurse_template_substitution(data, context=None):
+    context = context or data
+    return data
+
+# jsonpath.findall("$.users[?@.score < 100].name", data)
+
 if __name__ == "__main__":
     logging.basicConfig(level=logging.DEBUG)
 
-    context = DotWiz(yaml_load(Path('data/index.yaml').open()))
-    #pp(data)
+    context = recurse_template_substitution(DotWiz(yaml_load(Path('data/index.yaml').open())))
 
     for path in PATH_TEMPLATES.iterdir():
         if path.suffix != '.mako' or path.stem.startswith('_'):

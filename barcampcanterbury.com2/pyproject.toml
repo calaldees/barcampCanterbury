@@ -6,6 +6,7 @@ dependencies = [
   "mako",
   "pyyaml",
   "dotwiz",
+  "python-jsonpath",
 ]
 
 [dependency-groups]

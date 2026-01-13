@@ -6,7 +6,10 @@ logo: /images/barcampcanterbury_logo.svg
 email: admin@barcampcanterbury.com
 
 events: !include events.yaml
+supportingOrganisations: !include supportingOrganisation.yaml
 
 root:
   a: 1
   b: !include addition.yaml
+
+test: !include test.json
