@@ -1,4 +1,5 @@
 **/.*/
+**/__*/
 uv.lock
 build
 screenshot.png

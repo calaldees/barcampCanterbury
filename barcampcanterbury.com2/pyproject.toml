@@ -11,7 +11,10 @@ dependencies = [
 
 [dependency-groups]
 dev = [
-  #"pytest",
+  "pytest",
   #"pytest-mypy",
   #"pytest-ruff",
 ]
+
+[tool.pytest.ini_options]
+addopts = "--doctest-modules"  #  --mypy --ruff --ruff-format

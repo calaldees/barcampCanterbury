@@ -1,5 +1,4 @@
 
-.PHONEY: build_site
 build_site:
 	uv run build_site.py
 # -m pdb -c continue
@@ -13,3 +12,11 @@ build/images/og_image.png:
 		http://localhost:8000
 	mv screenshot.png $@
 	optipng $@
+
+test:
+	uv run pytest
+
+clear:
+	rm -rf build screenshot.png
+clear_all: clear
+	rm -rf .venv uv.lock __*/
