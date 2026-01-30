@@ -1,13 +1,26 @@
 build_supportersOrganisation([
+/* 2026 - temp - want to move to the new site */
+
 /* 2025 */
+{
+    name: 'BCS - The Chartered Institute for IT',
+    href: 'https://www.bcs.org/membership-and-registrations/member-communities/kent-branch/',
+    href_text: 'Website Kent',
+    description: 'The Kent Branch of BCS supports IT professionals within the county of Kent.',
+    image: "images/sponsors/bcs.png",
+    twitter: 'bcs',
+    linkedin: 'groups/1165957/',
+    image_style: "padding: 1.2em;",
+},
+/*
 {
     name: 'The Long Rest',
     href: 'https://www.thelongrestcanterbury.com/',
     href_text: 'Website',
     description: 'An independently owned cafe and event space, with a growing library of board games for all ages.',
     image: 'images/sponsors/TLR_Full_Colour2.avif',
-    /*image_style: "padding: 1.2em;",*/
 },
+*/
 {
     name: 'The Institution of Engineering and Technology (IET)',
     href: 'https://www.theiet.org/',
@@ -27,18 +40,6 @@ build_supportersOrganisation([
     twitter: 'Mythic_Beasts',
     image_style: "padding: 1.2em;",
 },
-{
-    name: 'BCS - The Chartered Institute for IT',
-    href: 'https://www.bcs.org/membership-and-registrations/member-communities/kent-branch/',
-    href_text: 'Website Kent',
-    description: 'The Kent Branch of BCS supports IT professionals within the county of Kent.',
-    image: "images/sponsors/bcs.png",
-    twitter: 'bcs',
-    linkedin: 'groups/1165957/',
-    image_style: "padding: 1.2em;",
-},
-
-
 /* 2024 */
 /*
 {
