@@ -215,7 +215,7 @@
 				<p id="days_until_event"></p>
 				<script>
 					const days_between = (d1, d2) => Math.ceil((d1.getTime() - d2.getTime()) / (1000 * 3600 * 24)) // https://linuxhint.com/calculate-days-between-two-dates-javascript/
-					const event_date = new Date('04/11/2025')
+					const event_date = new Date('04/11/2026')
 					const days = days_between(event_date, new Date())
 					const $el =
 					 document.getElementById("days_until_event")
