@@ -214,14 +214,15 @@
 
 				<p id="days_until_event"></p>
 				<script>
+					const target_date_str = '04/11/2026'
 					const days_between = (d1, d2) => Math.ceil((d1.getTime() - d2.getTime()) / (1000 * 3600 * 24)) // https://linuxhint.com/calculate-days-between-two-dates-javascript/
-					const event_date = new Date('04/11/2026')
-					const days = days_between(event_date, new Date())
-					const $el =
-					 document.getElementById("days_until_event")
-					if      (days > 7) {$el.textContent = `${Math.floor(days/7)} weeks until BarCamp`}
-					else if (days > 0) {$el.textContent =                `${days} days until BarCamp`}
-					else {}
+					const days = days_between(new Date(target_date_str), new Date())
+					let days_text = ''
+					if      (days > 7) {days_text = `${Math.floor(days/7)} weeks`}
+					else if (days > 0) {days_text =                `${days} days`}
+					if (days_text) {
+						document.getElementById("days_until_event").textContent = `${days_text} until BarCamp`
+					}
 				</script>
 
 			</div>
@@ -241,7 +242,7 @@
 
 			<div class="col-lg mx-3">
 				<h3>Unconference?</h3>
-				<p>BarCamp Canterbury is an <em>unconference</em> that is completely free-to-attend and based loosely around the theme of <em>technology</em>.</p>
+				<p>BarCamp Canterbury is an <em>unconference</em> that is free-to-attend and based loosely around the theme of <em>technology</em>.</p>
 				<p>As an unconference, the content of BarCamp Canterbury is provided by you, the attendees! Meet with like-minded people, share your ideas and engage in discussions.</p>
 				<p>On-the-day you can choose to give a talk about a cool project/idea.</p>
 			</div>
