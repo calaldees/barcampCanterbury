@@ -111,10 +111,10 @@ Variable a:${root.a}
 				</p>
 
 				## Days Until - JS Dynamic Content
-				<% target_date_str = event_datetime.strftime(r'%m/%d/%Y') %>
 				<p id="days_until_event"></p>
 				<script>
-					const target_date_str = '${target_date_str}'
+					const target_date_str = '${ event_datetime.strftime(r'%m/%d/%Y') }'
+					<%text>
 					const days_between = (d1, d2) => Math.ceil((d1.getTime() - d2.getTime()) / (1000 * 3600 * 24)) // https://linuxhint.com/calculate-days-between-two-dates-javascript/
 					const days = days_between(new Date(target_date_str), new Date())
 					let days_text = ''
@@ -123,6 +123,7 @@ Variable a:${root.a}
 					if (days_text) {
 						document.getElementById("days_until_event").textContent = `${days_text} until BarCamp`
 					}
+					</%text>
 				</script>
 			</div>
 		</div>

@@ -9,7 +9,7 @@
 VERSION:2.0
 PRODID:-//none//NONSGML none//EN
 BEGIN:VEVENT
-UID:version1-${event_datetime.strftime('%m/%d/%y')}@${host}
+UID:version1-${event_datetime.strftime('%m/%d/%y')}@${hostname}
 DTSTAMP:${dtstart}
 ORGANIZER;CN=${title}:MAILTO:${email}
 DTSTART:${dtstart}

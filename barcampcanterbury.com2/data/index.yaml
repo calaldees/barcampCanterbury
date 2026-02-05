@@ -1,9 +1,9 @@
-host: barcampcanterbury.com
-site: https://www.${host}/
+hostname: barcampcanterbury.com
+site: https://www.${hostname}/
 title: BarCamp Canterbury
 description: A free-to-attend community tech unconference in Canterbury UK
 logo: /images/barcampcanterbury_logo.svg
-email: admin@${host}
+email: admin@${hostname}
 
 navigation:
 
