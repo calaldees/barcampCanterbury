@@ -65,33 +65,65 @@ BarCamp Canterbury is 1 month away
 We have a swap-shop table!
 Come and bring your old tools, wires, reference manuals, single board computers, for others to kick start their next projects.
 
+---
 
 ## Thursday 12th March
-
+#BarCamp 's are free to attend for everyone.
+Venue hire and food comes from our attendees donations.
+Help us keep it free to everyone.
+Donation details on our website https://barcampcanterbury.com/
 
 ## Monday 16th March
-
+At last years #BarCampCanterbury we trialed 'focused tables'.
+Rather than a whole room to present to, you can call a topic for smaller table discussion.
+This made for a more intimate events.
+We're bringing the concept of focus tables back for 2026 in a few weeks time.
 
 ## Friday 20th March
-
+TODO
 
 ## Tuesday 24th March
-
+TODO
 
 ## Friday 27th March
-
+If you're coming to #BarCampCanterbury in 2 weekends time, be sure to bring some old tech or tools that you want to recycle.
+Someone would love your junk to start their own projects with!
+Bring it along to join our free swap shop! #barcamp
 
 ## Thursday 2nd April
+TODO
 
 ## Saturday 4th April
-1 week
+#BarCampCanterbury is only one week away (Saturday 11th April).
+Grab a ticket sign up now so we have time to print a a cool personalised name badge.
+If you leave it much longer, you'll have to scribble your name in pen, and that looks nowhere near as cool.
 
-## Friday 10th April
+## Thursday 9th April
+We're printing the badges for #BarCampCanterbury on Saturday.
+You can still attend the event (you just have to write your own name badge)
+Looking forward to seeing you there!
 
 ## Saturday 11th April
-Opening talk done - let the camp begin
+We're on site at Barton Court Grammar school setting up for #BarCampCanterbury 2026.
+The new venue is stunning!
+Can't wait for you all to see it!
+
+Opening talk done! We know the drill!
+Let the #barcamp #BarCampCanterbury begin!
+
+It's sooo busy here at #BarCampCant #BarCamp 2026!
+The new venue Barton Court is AMAZING! So much space to find places to talk!
+
+And, That's a wrap
+Thank you so much to everyone that made #BarCamp #BarCampCanterbury such a great event.
+You 'the attendees' ARE the event! Thank you!
+Onwards! to 'The Long Rest' for more drinks and conversations
 
 
-## Satruday 11th April
-Thanks everyone
 
+## Sunday 12th April
+
+Thanks everyone for such a great day yesterday.
+We're hearing what you're saying and already making plans for next time.
+We're still thinking of our upcoming re-branding and reaching out to new blood.
+#BarCampCanterbury will return ...

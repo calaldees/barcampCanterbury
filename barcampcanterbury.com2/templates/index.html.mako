@@ -8,16 +8,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	## https://www.ogimage.gallery/libary/the-ultimate-guide-to-og-image-dimensions-2024-update
-	## 1200x630 pixels
-	<meta property="og:title" content="${title}">
-	<meta property="og:description" content="${description}">
-	<meta property="og:image" content="/images/og_image.png">
-	<meta property="og:url" content="${site}">
-	<meta property="og:logo" content="${logo}" />
-	<meta property="og:type" content="event">
-	<meta property="event:start_time" content="${event_datetime.strftime('%Y-%m-%dT%H:%M:%SZ')}">
-	<meta name="twitter:card" content="summary_large_image">
+	<%include file="_og_meta.mako"/>
 
 	<title>${title}</title>
 	<link id="favicon" rel="shortcut icon" type="image/svg" href="images/barcampcanterbury_logo.svg">
