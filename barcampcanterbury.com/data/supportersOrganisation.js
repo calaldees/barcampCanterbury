@@ -1,6 +1,4 @@
 build_supportersOrganisation([
-/* 2026 - temp - want to move to the new site */
-
 /* 2025 */
 {
     name: 'BCS - The Chartered Institute for IT',
@@ -12,6 +10,18 @@ build_supportersOrganisation([
     linkedin: 'groups/1165957/',
     image_style: "padding: 1.2em;",
 },
+
+/* 2026 - temp - want to move to the new site */
+{
+    name: 'BCS - The Chartered Institute for IT - Agile Methods specialist group',
+    href: 'https://www.bcs.org/membership-and-registrations/member-communities/agile-methods-specialist-group/',
+    href_text: 'Website',
+    description: 'A community of IT professionals and enthusiasts who are passionate about collaboratively exploring and sharing knowledge on all things Agile.',
+    image: 'images/sponsors/Agile_Methods_SG_black_RGB.png',
+    twitter: 'bcs',
+    linkedin: 'groups/4115456/',
+},
+
 /*
 {
     name: 'The Long Rest',

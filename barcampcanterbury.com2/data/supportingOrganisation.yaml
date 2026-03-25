@@ -31,6 +31,16 @@
     linkedin: groups/1165957/
     events: [2025, 2024, 2023]
 
+-   name: BCS - The Chartered Institute for IT - Agile Methods specialist group
+    href: https://www.bcs.org/membership-and-registrations/member-communities/agile-methods-specialist-group/
+    href_text: Website Agile Methods SG
+    description: A community of IT professionals and enthusiasts who are passionate about collaboratively exploring and sharing knowledge on all things Agile.
+    image: images/sponsors/Agile_Methods_SG_black_RGB.png
+    twitter: bcs
+    linkedin: groups/4115456/
+    events: [2026]
+
+
 -   name: 'University of Kent: Library and IT Services'
     href: https://www.kent.ac.uk/library-it
     href_text: Website
