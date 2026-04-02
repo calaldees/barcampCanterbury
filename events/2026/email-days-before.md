@@ -25,7 +25,7 @@ https://github.com/calaldees/barcampCanterbury/blob/master/events/2026/email-day
 * https://www.bartoncourt.org/
     * Do not use the main school entrance - Use the SpringLane/PilgrimsWay entrance
     * [Google Street View](https://maps.app.goo.gl/CmwLPpQhJC49zkst5)
-* [openstreetmap.org](https://www.openstreetmap.org/#map=19/51.276973/1.092018)
+* [openstreetmap.org](https://www.openstreetmap.org/#map=19/51.276246/1.092933)
 * [Google Maps](https://maps.app.goo.gl/Mv1WS5YmEgG7B598A)
 * [What3Words](https://what3words.com/elbow.with.spike)
 * Parking

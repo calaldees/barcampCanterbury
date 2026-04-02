@@ -1,5 +1,5 @@
 build_supportersIndividual({
-	"2025": [
+	"2026": [
 		{href:"https://alexcachia.co.uk/", name:"Alex Cachia", description:"@AlexCachia5"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"http://www.bobeager.uk/", name:"Bob Eager", description:"@rde42@mastodonapp.uk"},
