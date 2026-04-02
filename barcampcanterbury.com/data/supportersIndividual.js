@@ -2,6 +2,13 @@ build_supportersIndividual({
 	"2025": [
 		{href:"https://alexcachia.co.uk/", name:"Alex Cachia", description:"@AlexCachia5"},
 		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
+		{href:"http://www.bobeager.uk/", name:"Bob Eager", description:"@rde42@mastodonapp.uk"},
+		{href:"www.harmonyinautumn.com", name:"Matthew Jones", description:"Video dude"},
+		{href:"https://spod.cx/", name:"Ben Charlton", description:"@bencc@morehammer.uk"},
+	],
+	"2025": [
+		{href:"https://alexcachia.co.uk/", name:"Alex Cachia", description:"@AlexCachia5"},
+		{href:"https://calaldees.uk/", name:"Allan Callaghan", description:"@calaldees"},
 		{href:"https://carl.saggs.co.uk/", name:"Bag", description:""},
 		{href:"http://www.bobeager.uk/", name:"Bob Eager", description:"@rde42@mastodonapp.uk"},
 		{href:"", name:"Simon Cooksey", description: "graymalkin"},
