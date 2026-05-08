@@ -127,3 +127,16 @@ Thanks everyone for such a great day yesterday.
 We're hearing what you're saying and already making plans for next time.
 We're still thinking of our upcoming re-branding and reaching out to new blood.
 #BarCampCanterbury will return ...
+
+
+## Monday 13th April
+
+
+The #BCS; Kent Branch and Agile Methods group have supported #BarCamp Canterbury.
+The have helped us create a space for our local community of tech tinkerers.
+Thank you so much for your support.
+
+Many of the topics from tech community talks at #BarCamp overlap with many of the specialist groups the #BCS runs:
+https://www.bcs.org/membership-and-registrations/member-communities/full-list-of-specialist-groups/
+Have a look at the breadth of the 50+ groups available and consider join a larger community.
+Agile, Education, AI, Art, Conservation, and more
