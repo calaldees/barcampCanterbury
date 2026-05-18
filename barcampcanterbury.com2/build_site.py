@@ -35,10 +35,7 @@ PATH_STATIC = (
 )
 
 PATH_TEMPLATES = Path('./templates')
-template_lookup = mako.lookup.TemplateLookup(directories=(
-    PATH_TEMPLATES,
-    './static',
-))
+template_lookup = mako.lookup.TemplateLookup(directories=(PATH_TEMPLATES,)+PATH_STATIC)
 def render_template(path: Path, context) -> str:
     try:
         return template_lookup.get_template(str(path.relative_to(PATH_TEMPLATES))).render(**context)
