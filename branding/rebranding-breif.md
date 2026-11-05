@@ -1,5 +1,7 @@
-BarCamp Canterbury 2025 - Rebranding Brief
-=======================
+BarCamp Canterbury - Rebranding Brief
+=====================================
+
+## What is a BarCamp? What is BarCamp Canterbury?
 
 * [Wikipedia: BarCamp](https://en.wikipedia.org/wiki/BarCamp)
     * > BarCamp is an international network of user-generated conferences primarily focused on technology and the web. They are open, participatory workshop-events, the content of which is provided by participants.
@@ -8,31 +10,36 @@ BarCamp Canterbury 2025 - Rebranding Brief
 * [BarCamp Canterbury](https://barcampcanterbury.com/) - a free-to-attend community tech unconference
     * https://barcampcanterbury.com/
 
-* Goal: A logo redesign that captures BarCamp canterbury's identity.
-    * Each BarCamp takes the original BarCamp logo template and adds their own identity
-
-* Other BarCamp Logo exemplars
-    * ![Original barcamp logo](https://web.archive.org/web/20250117150316im_/http://barcamp.org/f/1226374475/barcamp_logo.png) template
-    * [BarCamps UK](https://barcamp.org.uk/)
-        * Logos of active barcamps in the uk
-    * ![BarCampOxford](http://barcamp.org/f/1273251365/barcamp_oxford_100.png) 2011
-        * Logo has silouette of oxford skyline
-    * ![BarCamp Beijing](https://pbs.twimg.com/profile_images/3186734726/798df67549a6a08f113e64b4dba98de3_400x400.png) 2015 [x.com](https://x.com/barcampbeijing)
-        * Logo is part the head of a dragon
-    * ![BarCamp Miami](http://farm1.static.flickr.com/139/350931611_b8ff6d2ac5.jpg) 2015 [](http://barcampmiami.org/)
-    * ![BarCamp Armenia](https://barcamp.am/images/logo.svg)
-        * Digital circitbord? colours of the Armenia flag?
-    * ![](https://media.am/wp-content/uploads/2016/01/barcamp11_0.jpg)
-    * ![](https://a1plus.am/static/articles/10/04/73/l-lFQZkilonR.jpg)
-    * [BarCamp London 12 X11](https://twelve.barcamplondon.org/)
-        * ![BarCamp London X11](https://twelve.barcamplondon.org/logo-purple.png)
-        * [BarCamp London 13](https://thirteen.barcamplondon.org/) returned to plain blue and white (because updating it each year is not feasible)
+## Goal
+1. Logo redesign
+    * That captures BarCamp Canterbury's identity.
+        * Each BarCamp takes the original BarCamp logo template and adds their own identity
+2. A colour pallet (2 or 3 brand colours?)
+3. Typography guidelines
 
 ## Thematic General Identifiers of a BarCamp
 
 * Prototyping (hacking a solution together), building, making
 * Tech, Innovation, emerging, digital, experimental
 * Participation, community
+
+## BarCamp Logo - Exemplars
+
+* ![Original barcamp logo](https://web.archive.org/web/20250117150316im_/http://barcamp.org/f/1226374475/barcamp_logo.png) template
+* [BarCamps UK](https://barcamp.org.uk/)
+    * Logos of active barcamps in the uk
+* ![BarCampOxford](http://barcamp.org/f/1273251365/barcamp_oxford_100.png) 2011
+    * Logo has silouette of oxford skyline
+* ![BarCamp Beijing](https://pbs.twimg.com/profile_images/3186734726/798df67549a6a08f113e64b4dba98de3_400x400.png) 2015 [x.com](https://x.com/barcampbeijing)
+    * Logo is part the head of a dragon
+* ![BarCamp Miami](http://farm1.static.flickr.com/139/350931611_b8ff6d2ac5.jpg) 2015 [](http://barcampmiami.org/)
+* ![BarCamp Armenia](https://barcamp.am/images/logo.svg)
+    * Digital circitbord? colours of the Armenia flag?
+* ![](https://media.am/wp-content/uploads/2016/01/barcamp11_0.jpg)
+* ![](https://a1plus.am/static/articles/10/04/73/l-lFQZkilonR.jpg)
+* [BarCamp London 12 X11](https://twelve.barcamplondon.org/)
+    * ![BarCamp London X11](https://twelve.barcamplondon.org/logo-purple.png)
+    * [BarCamp London 13](https://thirteen.barcamplondon.org/) returned to plain blue and white (because updating it each year is not feasible)
 
 ## Canterbury Identifiers
 * [Wikipedia: Canterbury Cathedral](https://en.wikipedia.org/wiki/Canterbury_Cathedral)
@@ -58,36 +65,48 @@ BarCamp Canterbury 2025 - Rebranding Brief
 * ![Canterbury Council Logo](https://www.canterbury.gov.uk/sites/default/files/logo.png)
     * Cutout of canterbury cathedral
 
-## Logo requirements
 
-* We want
-    * Primarily "Identity"
-        * Logo (shape design)
-        * Colour palette (2 or 3 colours?)
-        * Typography guidelines
-    * Secondarily (for another downstream project)
-        * Guidance with website design, layout, identity, message and impact
-        * It seems to be difficult to convey what BarCamp Canterbury is. People remark that the website does not help them 'get it'. The wording on the website has been repeatedly refined. Perhaps the concept does take some reading and time to comprehend and cannot be shortcutted?
+## Additional logo considerations
 
-* Logo
+* Can the logo be represented by a simple set of lines (e.g. cut laser into a badge? gradients may have to omitted in some versions?)
+* Can it be updated each year? Can a year be added to the logo and updated in an SVG?
+* The current logo colour was chosen at almost random. It does not have to be ued, but could be to continue the legacy.
+
+## Ideas (suggestions?)
+
+* Colours that come to mind
+    * Sandy yellow of the cathedral stonework
+    * Grey stone of Westgate towers and the city wall
+
+
+Rebranding Requirements
+=======================
+
+* We want an "Identity"
+    * Logo (shape design)
+    * Colour palette (2 or 3 colours?)
+    * Typography guidelines
+
+
+* Logo (as SVG's)
     * Logo 1:1 (square)
-    * Logo + Text 4:1?
-    * Mono + 2(or3) colour version
+    * Logo + Text (horizontal aspect 4:1?)
+    * Mono and 2(or3) colour version
 * Logo: intended use
     * Website (favicon) 1:1 small
     * Website Banner 4:1? Logo + text
     * Laser cut into badges? - used on lanyards?
+* Typography
+    * Willing to pay for font if needed
+
+
+Future/Downstream Goals
+=======================
+
+* Secondarily (for another downstream project)
+    * Guidance with website design, layout, identity, message and impact
+    * It seems to be difficult to convey what BarCamp Canterbury is. People remark that the website does not help them 'get it'. The wording on the website has been repeatedly refined. Perhaps the concept does take some reading and time to comprehend and cannot be shortcutted?
+
 * Website
     * Single page (mobile responsive)
     * Link Preview 2:1? (Logo and date of event?)
-
-
-## Other considerations
-* Can the logo be represented by a simple set of lines (e.g. cut into a badge? gradients may have to omitted in some versions)
-* Can it be updated each year? Can a year be added to the logo and updated in an SVG?
-* The current logo colour was chosen at almost random. It does not have to be ued, but could be to continue the legacy.
-
-## Ideas
-* Colours that come to mind
-    * Sandy yellow of the cathedral stonework
-    * Grey stone of Westgate towers and the city wall
