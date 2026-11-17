@@ -48,16 +48,14 @@
       what3words: steam.nests.impose
   web.archive: https://web.archive.org/web/20191127075755/http://barcampcanterbury.com/
 - isodatetime: 20150101T100000Z
-  venue: &woolf
+  venue: *woolf
   web.archive: https://web.archive.org/web/20160423213927/https://barcampcanterbury.com/
 - isodatetime: 20140101T100000Z
-  venue: &woolf
+  venue: *woolf
   web.archive: https://web.archive.org/web/20140715120314/http://barcampcanterbury.com/
 - isodatetime: 20130101T100000Z
-  venue: &woolf
+  venue: *woolf
   web.archive: https://web.archive.org/web/20131231135908/http://barcampcanterbury.com/
 - isodatetime: 20120428T100000Z
-  venue: &woolf
+  venue: *woolf
   web.archive: https://web.archive.org/web/20120614223910/http://www.barcampcanterbury.com/
-
-
