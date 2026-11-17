@@ -1,16 +1,63 @@
-- isodatetime: 20260411T100000Z
-  venue:
-    name: Barton Court
-    address: TODO
+- isodatetime: 20270403T110000Z
+  venue: &barton
+    name: Barton Court Grammar School
+    address: Longport, Canterbury, Kent CT1 1PH
     geo:
       lat: 51.27695
       lon: 1.09202
-      what3words: TODO
+      what3words: elbow.with.spike
+      streetview: https://maps.app.goo.gl/CmwLPpQhJC49zkst5
+- isodatetime: 20260411T100000Z
+  venue: *barton
 - isodatetime: 20251123T100000Z
   venue:
     name: The Long Rest
-    address: TODO
+    address: 8 Butchery Lane, Canterbury, United Kingdom, CT1 2JR
     geo:
-      lat: 0.0
-      lon: 0.0
-      what3words: TODO
+      lat: 51.278641
+      lon: 1.081728
+      what3words: wasp.pools.wide
+- isodatetime: 20241102T100000Z
+  venue: &templeman
+    name: 'The University of Kent: Templeman Library'
+    address: Library Rd, Canterbury CT2 7NU
+    geo:
+      lat: 51.29762
+      lon: 1.06894
+      what3words: goodbyes.group.frame
+- isodatetime: 20231028T100000Z
+  venue: *templeman
+- isodatetime: 20221029T100000Z
+  venue: &holmes
+    name: 'Canterbury Christ Church University: Verena Holmes'
+    address: Gate 6, North Holmes Road, Canterbury
+    geo:
+      lat: 51.2790918
+      lon: 1.092443
+      what3words: clever.booth.coast
+- isodatetime: 20200401T100000Z
+  venue:
+    name: online
+- isodatetime: 20191029T100000Z
+  venue: &woolf
+    name: 'University of Kent: Virginia Woolf College'
+    address: The Pavilion, Giles Ln, Canterbury CT2 7BQ
+    geo:
+      lat: 51.3000791
+      lon: 1.0708494
+      what3words: steam.nests.impose
+  web.archive: https://web.archive.org/web/20191127075755/http://barcampcanterbury.com/
+- isodatetime: 20150101T100000Z
+  venue: &woolf
+  web.archive: https://web.archive.org/web/20160423213927/https://barcampcanterbury.com/
+- isodatetime: 20140101T100000Z
+  venue: &woolf
+  web.archive: https://web.archive.org/web/20140715120314/http://barcampcanterbury.com/
+- isodatetime: 20130101T100000Z
+  venue: &woolf
+  web.archive: https://web.archive.org/web/20131231135908/http://barcampcanterbury.com/
+- isodatetime: 20120428T100000Z
+  venue: &woolf
+  web.archive: https://web.archive.org/web/20120614223910/http://www.barcampcanterbury.com/
+
+
